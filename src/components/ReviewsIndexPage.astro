@@ -13,19 +13,30 @@ import { getLocalizedReviewBySlug } from '../data/localized-reviews';
 import { defaultLocale, localeMap, type LocaleCode } from '../data/i18n/locales';
 import { getT } from '../i18n/server';
 
+import { pubgKeywordPages } from '../data/pubg-keyword-pages';
+
 interface Props {
 	locale?: LocaleCode;
+	/** Use /pubg-cheat-reviews/ keyword hub copy and metadata */
+	useKeywordHub?: boolean;
 }
 
 const locale = Astro.props.locale ?? defaultLocale;
+const useKeywordHub = Astro.props.useKeywordHub ?? false;
+const keywordHub = pubgKeywordPages.reviews;
 const t = getT(locale);
 const homeHref = getLocalizedPath('home', locale);
 const pricingHref = getLocalizedPath('pricing', locale);
 const reviewsBase = getReviewsBasePath(locale);
 
-const title = seoPageTitle(brandSeo.reviewsTitle);
-const description = seoDescription(brandSeo.reviewsDescription);
-const reviewsIntro = fillBrandTokens(brandCopy.reviewsIntro);
+const title = useKeywordHub
+	? seoPageTitle(keywordHub.title)
+	: seoPageTitle(brandSeo.reviewsTitle);
+const description = useKeywordHub
+	? seoDescription(keywordHub.description)
+	: seoDescription(brandSeo.reviewsDescription);
+const reviewsIntro = useKeywordHub ? keywordHub.intro : fillBrandTokens(brandCopy.reviewsIntro);
+const reviewsH1 = useKeywordHub ? keywordHub.h1 : undefined;
 
 function stars(rating: number): string {
 	return '★'.repeat(rating) + '☆'.repeat(5 - rating);
@@ -49,7 +60,23 @@ const sortedReviews = [...customerReviews]
 const canonicalPath = reviewsBase;
 const hreflangAlternates = getReviewsIndexHreflangAlternates(locale);
 
+const pageUrl = buildCanonicalUrl(canonicalPath, locale);
+
 const extraGraph: Record<string, unknown>[] = [
+	...(useKeywordHub
+		? [
+				{
+					'@type': 'Article',
+					'@id': `${pageUrl}#article`,
+					headline: keywordHub.h1,
+					description,
+					url: pageUrl,
+				},
+			]
+		: []),
+	...(useKeywordHub
+		? []
+		: [
 	{
 		'@type': 'Product',
 		'@id': `${siteConfig.url}/#product`,
@@ -66,6 +93,7 @@ const extraGraph: Record<string, unknown>[] = [
 			worstRating: '1',
 		},
 	},
+		]),
 	{
 		'@type': 'ItemList',
 		'@id': `${buildCanonicalUrl(canonicalPath, locale)}#list`,
@@ -106,8 +134,28 @@ const extraGraph: Record<string, unknown>[] = [
 
 			<header class="reviews-index__head">
 				<div>
-					<h1 data-edit="navReviews">{t('reviews.indexTitle')}</h1>
+					<h1 data-edit="navReviews">{reviewsH1 ?? t('reviews.indexTitle')}</h1>
 					<p class="reviews-index__intro" data-edit="reviewsIntro">{reviewsIntro}</p>
+					{
+						useKeywordHub && (
+							<nav class="reviews-index__kw-links" aria-label="Related guides">
+								<ul>
+									{keywordHub.internalLinks.map((link) => (
+										<li><a href={link.href}>{link.label}</a></li>
+									))}
+								</ul>
+							</nav>
+						)
+					}
+					{
+						useKeywordHub &&
+							keywordHub.sections.map((section) => (
+								<div class="reviews-index__kw-section">
+									<h2>{section.h2}</h2>
+									{section.paragraphs.map((p) => <p>{p}</p>)}
+								</div>
+							))
+					}
 				</div>
 				<div
 					class="reviews-index__summary"

@@ -1,0 +1,78 @@
+---
+import { pubgKeywordPages } from '../data/pubg-keyword-pages';
+import { AFFILIATE_REL } from '../data/affiliate';
+import { siteConfig } from '../data/site';
+
+const home = pubgKeywordPages.home;
+---
+
+<section class="home-kw shell" aria-labelledby="home-kw-title">
+	<h2 id="home-kw-title" class="visually-hidden">{home.h1}</h2>
+	<nav class="home-kw__links" aria-label="Primary guides">
+		<ul>
+			{home.internalLinks.map((link) => (
+				<li><a href={link.href}>{link.label}</a></li>
+			))}
+		</ul>
+	</nav>
+	{
+		home.sections.map((section) => (
+			<article class="home-kw__block">
+				<h2>{section.h2}</h2>
+				{section.paragraphs.map((p) => <p>{p}</p>)}
+			</article>
+		))
+	}
+	<p class="home-kw__cta">
+		<a href={siteConfig.checkoutUrl} rel={AFFILIATE_REL}>Get access</a>
+	</p>
+</section>
+
+<style>
+	.home-kw {
+		padding: clamp(2rem, 4vw, 3rem) 0;
+		color: var(--ink-secondary);
+		line-height: 1.65;
+		font-size: 0.9375rem;
+	}
+	.home-kw__links ul {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.75rem 1.25rem;
+		margin: 0 0 1.5rem;
+		padding: 0;
+		list-style: none;
+	}
+	.home-kw__links a {
+		color: var(--link);
+		font-weight: 600;
+		text-decoration: none;
+	}
+	.home-kw__block {
+		margin-bottom: 1.75rem;
+		max-width: 42rem;
+	}
+	.home-kw__block h2 {
+		margin: 0 0 0.65rem;
+		font-family: var(--font-display);
+		font-size: 1.2rem;
+		color: var(--ink-heading);
+	}
+	.home-kw__block p {
+		margin: 0 0 0.65rem;
+	}
+	.home-kw__cta a {
+		color: var(--link);
+		font-weight: 700;
+	}
+	.visually-hidden {
+		position: absolute;
+		width: 1px;
+		height: 1px;
+		padding: 0;
+		margin: -1px;
+		overflow: hidden;
+		clip: rect(0, 0, 0, 0);
+		border: 0;
+	}
+</style>

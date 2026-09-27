@@ -1,5 +1,4 @@
 ---
-import ReviewsIndexPage from '../../components/ReviewsIndexPage.astro';
+import { reviewsBasePath } from '../../data/reviews';
+return Astro.redirect(reviewsBasePath, 301);
 ---
-
-<ReviewsIndexPage />

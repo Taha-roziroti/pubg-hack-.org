@@ -1,5 +1,4 @@
 ---
-import LocalizedPage from '../../components/LocalizedPage.astro';
+import { englishPaths } from '../../data/i18n/routing';
+return Astro.redirect(englishPaths.hacks, 301);
 ---
-
-<LocalizedPage locale="en" pageId="hacks" />

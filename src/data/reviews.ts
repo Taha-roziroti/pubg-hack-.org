@@ -4,7 +4,7 @@ import { buildCanonicalUrl } from './i18n/routing';
 import { reviewsSitemapImageMeta } from './brand-sitemap';
 import { absoluteImageUrl, crawlPhotoMeta, reviewsImageSrc } from './page-images';
 
-export const reviewsBasePath = '/reviews/';
+export const reviewsBasePath = '/pubg-cheat-reviews/';
 
 export function getReviewPath(slug: string, locale: LocaleCode = defaultLocale): string {
 	if (locale === defaultLocale) {

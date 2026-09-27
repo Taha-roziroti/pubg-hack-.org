@@ -1,26 +1,26 @@
-# Buy PUBG Cheat — Marketing Site
+# PUBG Hack — Marketing Site
 
-Static Astro site for [pubg-hack.org](https://pubg-hack.org). Primary SEO keyword: **buy pubg cheat** (secondary: pubg cheats, pubg esp, pubg aimbot, pubg wallhack).
+Static Astro site for [pubg-hack.org](https://pubg-hack.org). Primary SEO keyword (placeholder until finalized): **pubg hack**.
 
 ## Stack
 
 - Astro 7 + Tailwind CSS 4 + TypeScript
-- 22-locale i18n (English at root, `/es/`, `/fr/`, …)
-- Cloudflare Workers deployment with `src/worker.ts`
+- 22-locale i18n (English at root)
+- Cloudflare Workers deployment
 
 ## Quick start
 
 ```bash
 npm install
 npm run localhost
-# open http://localhost:5173
 ```
+
+## Configuration
+
+- **Brand, domain, checkout:** `src/data/brand.ts`
+- **Checkout URL:** `https://zadeyo.com/go/TAHA?to=%2Fproducts%2Fpubg`
+- **Features copy (EN):** `src/data/i18n/simple-pages.ts` → `features`
 
 ## Deploy
 
-See [DEPLOY.md](./DEPLOY.md) for Cloudflare Workers Builds setup targeting **pubg-hack.org**.
-
-## Open configuration
-
-- Production domain and checkout: `src/data/brand.ts` (`url`, `checkoutUrl`)
-- Replace `https://example.com/AFFILIATE_LINK_PLACEHOLDER` with your live affiliate link before launch.
+See [DEPLOY.md](./DEPLOY.md) for Cloudflare Workers setup targeting **pubg-hack.org**.
