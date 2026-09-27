@@ -61,9 +61,6 @@ export const brand = {
 		primary: 'pubg hack',
 		list: [
 			'pubg hack',
-			'pubg hacks',
-			'pubg cheats',
-			'pubg cheat',
 			'buy pubg cheats',
 			'pubg cheat price',
 			'best pubg cheats',
@@ -73,20 +70,17 @@ export const brand = {
 			'cheats for pubg',
 			'pubg radar',
 			'pubg battlegrounds hacks',
+			'pubg hacks',
 			'cheat pubg',
 			'esp pubg',
 			'esp for pubg',
-			'pubg wallhack',
-			'pubg loot esp',
-			'pubg hack pc',
-			'pubg cheats 2026',
 		] as const,
 	},
 
 	seo: {
-		homeTitle: 'PUBG Hack — Player ESP, Loot ESP & World ESP',
+		homeTitle: 'PUBG Hack & Cheats – Compare Current Options',
 		homeDescription:
-			'PUBG hack with player ESP, loot filters, and world overlays for battle royale on Windows PC. Visible check, vehicles, airdrops, and BattlEye maintenance notes after patches.',
+			'Compare PUBG hack and cheat options, features, pricing, and reviews. Explore available options and choose the right fit.',
 		featuresTitle: 'PUBG Hack Features | Player, Loot & World ESP',
 		featuresDescription:
 			'Full PUBG hack feature list — player ESP with boxes and skeleton, loot ESP with weapon filters, vehicles, airdrops, corpses, and grenade markers on PC.',

@@ -2,5 +2,5 @@
 import { englishPaths } from '../../data/i18n/routing';
 import { getCannibalTargetId } from '../../data/seo-cannibal-map';
 
-return Astro.redirect(englishPaths[getCannibalTargetId('esp-hack') as keyof typeof englishPaths] ?? '/esp/', 301);
+return Astro.redirect(englishPaths[getCannibalTargetId('esp-hack') as keyof typeof englishPaths] ?? englishPaths['pubg-esp'], 301);
 ---

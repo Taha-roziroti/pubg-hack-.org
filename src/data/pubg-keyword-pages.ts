@@ -54,7 +54,7 @@ export const pubgKeywordPages: Record<
 			'Compare PUBG hack and cheat options, features, pricing, and reviews. Explore available options and choose the right fit.',
 		h1: 'PUBG Hack & Cheats',
 		intro:
-			'This hub compares current PUBG hack and cheat options for PC — features, pricing, reviews, and setup — so you can pick a license that matches how you play.',
+			'This hub compares current PUBG hack options for PC — including how popular PUBG hacks differ on features, pricing, and support — so you can pick a license that matches how you play.',
 		sections: [
 			{
 				h2: 'PUBG Hack Options Compared',
@@ -73,8 +73,8 @@ export const pubgKeywordPages: Record<
 			{
 				h2: 'PUBG Cheats for PC',
 				paragraphs: [
-					'PUBG: Battlegrounds on Steam targets Windows 10 and 11. Licenses deliver digitally after payment; setup walks through loader steps and overlay toggles.',
-					'Check official patch notes when Krafton ships a major update, then read our status log before you change configs.',
+					'Cheats for PUBG on Steam target Windows 10 and 11. Licenses deliver digitally after payment; setup walks through loader steps and overlay toggles.',
+					'If you are comparing PUBG: Battlegrounds hacks from several sites, verify BattlEye maintenance notes and support email before you load in after a patch.',
 				],
 			},
 			{
@@ -114,7 +114,7 @@ export const pubgKeywordPages: Record<
 				h2: 'PUBG Cheats for PC',
 				paragraphs: [
 					'Buying PUBG cheats for PC should start with platform support and delivery: Windows 10/11, digital license email, and a setup guide you can follow without Discord-only support.',
-					'Our checkout uses a single affiliate store link; plans include the same ESP modules whether you choose monthly or lifetime access.',
+					'Players who search cheat PUBG or similar phrases still need the same checks — feature list, license length, and how updates are published after BattlEye patches.',
 				],
 			},
 			{
@@ -402,7 +402,8 @@ export const pubgKeywordPages: Record<
 			{
 				h2: 'Wallhack & Radar Features',
 				paragraphs: [
-					'Wallhack-style boxes show players through structures; world ESP covers vehicles, care packages, and corpses. Together they replace much of what buyers search for as “radar” without a separate minimap hack.',
+					'Wallhack-style boxes show players through structures; world ESP covers vehicles, care packages, and corpses. Many shoppers look for ESP for PUBG or ESP PUBG overlays — the same player and loot toggles cover that intent.',
+					'A dedicated PUBG radar minimap is not sold separately here; off-screen threat cues come from player ESP and world markers instead of a second minimap module.',
 				],
 			},
 			{

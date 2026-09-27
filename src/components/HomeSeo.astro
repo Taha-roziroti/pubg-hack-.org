@@ -46,7 +46,7 @@ const categories = [
 		hintKey: 'homeSeo.catStoreHint',
 		links: [
 			{ href: getLocalizedPath('pricing', locale), labelKey: 'homeSeo.linkPlans' },
-			{ href: '/reviews/', labelKey: 'homeSeo.linkBuyerReviews' },
+			{ href: getReviewsBasePath(locale), labelKey: 'homeSeo.linkBuyerReviews' },
 			{ href: getLocalizedPath('hacks', locale), labelKey: 'homeSeo.linkFinalsCheats' },
 			{ href: getLocalizedPath('faq', locale), labelKey: 'homeSeo.linkFaqHub' },
 		],
