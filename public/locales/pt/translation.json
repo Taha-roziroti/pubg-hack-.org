@@ -1,0 +1,563 @@
+{
+  "nav": {
+    "home": "Início",
+    "hacks": "Cheats",
+    "aimbot": "Aimbot",
+    "esp": "ESP",
+    "features": "Recursos",
+    "pricing": "Preços",
+    "setup": "Instalação",
+    "updates": "Atualizações",
+    "faq": "FAQ",
+    "buyNow": "Comprar",
+    "preview": "Cheats",
+    "store": "Preços",
+    "status": "Atualizações",
+    "reviews": "Avaliações",
+    "primaryAria": "Navegação principal",
+    "mobileAria": "Navegação móvel",
+    "openMenu": "Abrir menu",
+    "closeMenu": "Fechar menu"
+  },
+  "hero": {
+    "accent": "Cheats PUBG premium",
+    "accentShort": "PUBG Hack",
+    "title": "PUBG Hack",
+    "subtitle": "ESP wallhack, radar hack e Aimbot para PUBG no PC Windows — manutenção VAC incluída.",
+    "subtitleShort": "ESP, radar e Aimbot para PUBG PC",
+    "buyNow": "Comprar agora",
+    "seeFeatures": "Ver recursos",
+    "priceFrom": "from",
+    "imageAlt": "{{brand}} — PUBG ESP and aimbot overlay",
+    "chipEsp": "ESP / wallhack",
+    "chipAim": "Assistência de skillshot",
+    "chipRadar": "2D radar",
+    "chipUpdates": "Atualizações"
+  },
+  "cta": {
+    "buy": "Comprar agora",
+    "buyShort": "Comprar"
+  },
+  "affiliate": {
+    "disclosureLead": "Affiliate:",
+    "disclosureLink": "disclosure",
+    "disclosureTail": "— we may earn a commission on purchases.",
+    "footerLink": "Affiliate disclosure"
+  },
+  "trust": {
+    "status": "Online",
+    "statusNote": "O pacote PUBG Hack está ativo para PUBG no PC Windows.",
+    "statusShort": "Ativo",
+    "delivery": "Entrega digital instantânea",
+    "platform": "Windows 10 e 11",
+    "antiCheat": "Manutenção VAC incluída",
+    "antiCheatShort": "VAC incluído"
+  },
+  "product": {
+    "title": "PUBG Hack",
+    "addToCart": "Adicionar ao carrinho",
+    "monthly": "Mensal",
+    "lifetime": "Vitalício",
+    "available": "Disponível agora",
+    "gameBadge": "PUBG",
+    "platformBadge": "PC Windows",
+    "statusBadge": "Pacote",
+    "days30": "30",
+    "oneTime": "Vitalício",
+    "plans": "Preços",
+    "perMonth": "/",
+    "once": "",
+    "buyMonthly": "Mensal",
+    "buyLifetime": "Vitalício"
+  },
+  "reviews": {
+    "title": "O que os jogadores dizem",
+    "subtitle": "Feedback recente de compradores PUBG Hack",
+    "outOf": "de 5",
+    "countLabel": "avaliações",
+    "eyebrow": "O que os jogadores dizem",
+    "homeTitle": "Avaliações PUBG Hack",
+    "buyerReviews": "{{count}} avaliações de compradores",
+    "averageAria": "Média {{rating}} de {{count}} avaliações",
+    "outOfFiveAria": "{{rating}} de 5",
+    "readAll": "Ver todas as avaliações →",
+    "scrollHint": "Role ou arraste para ver avaliações",
+    "prev": "Avaliação anterior",
+    "next": "Próxima avaliação",
+    "verifiedBuyer": "Comprador verificado",
+    "carouselAria": "Carrossel de avaliações",
+    "indexTitle": "Avaliações de cheats PUBG — hacks e cheats",
+    "indexAverageAria": "Média {{rating}} de 5",
+    "indexCount": "{{count}} avaliações de compradores · de 5",
+    "starsAria": "{{rating}} de 5 estrelas",
+    "readFull": "Ler avaliação completa",
+    "ctaAria": "Comprar {{brand}}",
+    "ctaTitle": "Pronto para testar cheats PUBG?",
+    "ctaBody": "Hacks e cheats de PUBG em um pacote — ESP, assistência de skillshot e radar para PC Windows, com manutenção de patches de {{game}}.",
+    "ctaBuy": "Comprar agora — ${{price}}",
+    "comparePricing": "Comparar preços",
+    "reviewBy": "Avaliação {{brand}} por @{{handle}}",
+    "reviewImageAlt": "Avaliação {{brand}} por @{{handle}}",
+    "items": {
+      "pubg-soft-aim-review-xkrypt0": {
+        "short": "Testei 3 cheats de PUBG antes. PUBG Hack parecem naturais no ranked depois de ajustar o soft aim.",
+        "text": "Testei três hacks de PUBG diferentes e todos pareciam muito bruscos no ranked. PUBG Hack deixa você afinar o soft aim para não parecer óbvio em rank alto. Uma semana de grind; instalação levou uns 12 minutos após liberar o loader. Sem problemas até agora.",
+        "seoTitle": "Avaliação de Soft Aim por @xKrypt0_PUBG — 5/5 | PUBG Hack",
+        "seoDescription": "@xKrypt0_PUBG avalia o soft aim do PUBG Hack com 5/5 após testar hacks de PUBG no ranked no PC Windows."
+      },
+      "pubg-esp-rotation-review-buildsr4k": {
+        "short": "Comprei pelo ESP, não pelo aimbot. O wallhack do PUBG Hack mostra rotações antes do gank — enorme no ranked.",
+        "text": "Quase não uso aimbot; comprei pelo ESP. Ver quais heróis rotacionaram de lane antes do gank é informação absurda. No plano mensal há semanas e vale a pena. O menu poderia ser mais limpo, mas o pacote é sólido.",
+        "seoTitle": "Avaliação de ESP por @buildsR4K — 4/5 | PUBG Hack",
+        "seoDescription": "@buildsR4K avalia o ESP wallhack do PUBG Hack com 4/5 para info de ranked no PC Windows."
+      },
+      "pubg-cloud-dma-review-dma-wizard": {
+        "short": "Hack antigo morreu no patch VAC. PUBG Hack reconstruiu na mesma noite, confiável há 2 semanas no mapa.",
+        "text": "Meu último cheat morreu no dia seguinte a uma atualização VAC. Migrei para PUBG Hack e o loader voltou na mesma noite do rebuild. Uso ESP e radar no mapa, limpo após duas semanas. Comprei lifetime porque não pago mais mensal por hacks mortos.",
+        "seoTitle": "Avaliação de atualização por @dma_wizard — 5/5 | PUBG Hack",
+        "seoDescription": "@dma_wizard avalia PUBG Hack com 5/5 após atualização VAC — rebuild rápido no PC Windows."
+      },
+      "pubg-soft-aim-review-ctrl-player99": {
+        "short": "Não sou técnico mas o menu do PUBG Hack é fácil. Soft aim parece natural após ajustar FOV e suavização no ranked.",
+        "text": "Não sou nada técnico. O menu é simples — baixei o FOV do soft aim, aumentei a suavização, parei o snap. Parece memória muscular agora no solo e ranked. Só 4 estrelas porque o suporte no primeiro login demorou uma hora, mas corrigiram minha chave rápido.",
+        "seoTitle": "Avaliação de Soft Aim por @ctrl_player99 — 4/5 | PUBG Hack",
+        "seoDescription": "@ctrl_player99 avalia o soft aim do PUBG Hack com 4/5 após ajuste de FOV no ranked no PC Windows."
+      },
+      "pubg-cheat-setup-review-stormchaser07": {
+        "short": "Defender bloqueou o loader no início mas o suporte resolveu em duas horas. ESP do PUBG Hack parece limpo em lobbies custom.",
+        "text": "PUBG Hack funciona bem quando você está no jogo. Windows Defender bloqueou o loader na primeira tentativa e eu entrei em pânico. Mandei e-mail ao suporte com ID do pedido, resposta em duas horas com passos. ESP parece limpo em customs; ainda não fui full ranked. Três estrelas pelo estresse da instalação, mas os cheats parecem OK.",
+        "seoTitle": "Avaliação de instalação por @stormChaser_07 — 3/5 | PUBG Hack",
+        "seoDescription": "@stormChaser_07 avalia a instalação do PUBG Hack com 3/5 — ESP sólido após ajuda do suporte no PC Windows."
+      },
+      "pubg-agent-esp-review-weapondrops-goblinx": {
+        "short": "ESP de heróis no PUBG Hack pega flancos e wards cedo. Muito melhor que cheats grátis suspeitos.",
+        "text": "Queria principalmente ESP de heróis e rastreamento de wards no PUBG. PUBG Hack mostra heróis inimigos e ganks antes do meu cérebro. Partidas em grupo com amigos são menos caóticas quando você sabe quem está flanqueando. Muito melhor que hacks grátis aleatórios que parecem suspeitos.",
+        "seoTitle": "Avaliação de ESP de heróis por @weaponDropsGoblinx — 5/5 | PUBG Hack",
+        "seoDescription": "@weaponDropsGoblinx avalia o ESP de heróis do PUBG Hack com 5/5 para rastreamento de wards e heróis no PC Windows."
+      },
+      "pubg-soft-aim-session-review-rankedgrind42": {
+        "short": "Perfis de aim por herói do PUBG Hack ajudam no ranked. Voltou no dia seguinte após patch VAC.",
+        "text": "Uso PUBG Hack desde a nova temporada. Perfis de aim por herói ajudam em skillshots de longo alcance — carries de longo alcance vs melee parecem diferentes, o que é bom. Página de status lenta após patch VAC, mas build voltou na manhã seguinte. Sólido para sessões longas de grind no ranked.",
+        "seoTitle": "Soft Aim ranked por @rankedGrind42 — 4/5 | PUBG Hack",
+        "seoDescription": "@rankedGrind42 avalia o soft aim do PUBG Hack com 4/5 para skillshots de heróis no ranked no PC Windows."
+      },
+      "pubg-radar-hack-review-vanlifepubg": {
+        "short": "O radar 2D do PUBG Hack pegou flancos no mapa duas vezes. Combo ESP e radar parece cheat de verdade.",
+        "text": "Todo mundo fala de ESP, mas o radar 2D do PUBG Hack é absurdo. Peguei um flanco no mapa duas vezes em uma partida sem olhar as caixas do wallhack. Combo ESP mais radar parece cheat de primeira linha. Uso opacidade baixa para não parecer cheat em clipes.",
+        "seoTitle": "Avaliação de radar por @vanLifePUBG — 5/5 | PUBG Hack",
+        "seoDescription": "@vanLifePUBG avalia o radar do PUBG Hack com 5/5 para detecção de flancos no mapa do PUBG no PC Windows."
+      },
+      "pubg-vac-update-review-patchdaymike": {
+        "short": "Dia de patch costuma matar hacks de PUBG. PUBG Hack voltou na manhã seguinte; provedor antigo levou quatro dias.",
+        "text": "Dia de patch do PUBG é quando metade dos discords de cheat ficam em silêncio. A equipe PUBG Hack postou no status em cerca de três horas e voltei à fila ranked na manhã seguinte. Meu provedor antigo me deixou esperando quatro dias sem loader. Não é perfeito, mas o suporte é muito melhor do que estou acostumado.",
+        "seoTitle": "Avaliação de status por @patchDayMike — 4/5 | PUBG Hack",
+        "seoDescription": "@patchDayMike avalia as atualizações de status do PUBG Hack com 4/5 após patches VAC no PUBG para PC Windows."
+      },
+      "pubg-operator-soft-aim-review-snipezonly": {
+        "short": "Main carry. Soft aim mais ESP no PUBG Hack faz diferença no mapa se você mantém os ajustes sutis.",
+        "text": "Sou main carry. Soft aim de longo alcance no PUBG Hack com callouts de ESP é muito forte se você mantém os ajustes discretos. Loader sem bloat, instalação simples no Windows 11. Melhores hacks de PUBG que usei para sessões ranked no mapa — só não aumente o FOV como um idiota.",
+        "seoTitle": "Soft Aim carry por @snipezOnly_ — 5/5 | PUBG Hack",
+        "seoDescription": "@snipezOnly_ avalia o soft aim carry do PUBG Hack com 5/5 com ESP no PUBG para PC Windows."
+      }
+    }
+  },
+  "common": {
+    "buyNow": "Buy PUBG Hack",
+    "readGuide": "Read guide",
+    "language": "Language",
+    "officialLanguageNote": "English is official; other locales are translated.",
+    "relatedPages": "Related pages",
+    "selectLanguage": "Selecionar idioma",
+    "englishOfficial": "Inglês — idioma oficial",
+    "englishIsOfficial": "O inglês é o idioma oficial",
+    "languageSuggestion": "Sugestão de idioma",
+    "dismiss": "Fechar",
+    "localeVersion": "{{name}} version",
+    "localeSuggestLead": "{{nativeName}} ({{region}}) —",
+    "breadcrumb": "Navegação",
+    "gallery": "Galeria",
+    "inGameLook": "Visual no jogo",
+    "allQuestions": "FAQ",
+    "openAnyQuestion": "Abra qualquer pergunta para a resposta completa.",
+    "packageStatus": "Status do pacote",
+    "productDetails": "Detalhes do produto",
+    "browse": "Explorar",
+    "featured": "Destaque",
+    "share": "Compartilhar",
+    "shareX": "Compartilhar no X",
+    "shareReddit": "Compartilhar no Reddit",
+    "shareFacebook": "Compartilhar no Facebook",
+    "blog": "Fóruns",
+    "home": "Início",
+    "support": "Suporte",
+    "privacy": "Privacidade",
+    "terms": "Termos",
+    "featureList": "Lista de recursos",
+    "pricingPlans": "Planos de preços",
+    "buyerReviewsNav": "Avaliações de compradores",
+    "copyright": "© {{year}} {{brand}}",
+    "refundPolicy": "Reembolsos",
+    "forums": "Fóruns"
+  },
+  "footer": {
+    "explore": "Explorar",
+    "help": "Ajuda e legal",
+    "tagline": "ESP, wallhack, radar e Aimbot premium para PUBG .",
+    "linkCheatsGuide": "Cheats guide",
+    "linkEspPage": "ESP wallhack",
+    "linkAimbotPage": "Aimbot assist",
+    "linkFeatureList": "Full feature list",
+    "linkPricingPlans": "Pricing & plans",
+    "linkFaqHub": "FAQ answers",
+    "linkForums": "Community forums",
+    "linkSetupGuide": "Install guide",
+    "linkPatchStatus": "Patch status",
+    "linkBuyerReviews": "Customer reviews",
+    "linkSupportDesk": "Support desk",
+    "linkRefundPolicy": "Refund policy",
+    "linkPrivacyPolicy": "Privacy policy",
+    "linkTermsOfUse": "Terms of use"
+  },
+  "home": {
+    "aboutTitle": "cheats premium para PUBG",
+    "aboutP1": "Pacote para PUBG no Windows PC: ESP wallhack, radar e Aimbot com manutenção VAC após cada patch. Preços · Atualizações.",
+    "aboutPricingCta": "Comparar preços",
+    "aboutP2Before": "Comece pelo",
+    "aboutPillar": "pilar PUBG Hack",
+    "aboutEsp": "guia ESP",
+    "aboutAimbot": "controles de aimbot",
+    "aboutReliable": "status do patch",
+    "aboutP2Mid": ",",
+    "aboutP2Or": ", ou",
+    "aboutP2After": "se ainda estiver comparando ferramentas.",
+    "playDemoVideo": "Play PUBG hacks demo video",
+    "pauseDemoVideo": "Pause PUBG hacks demo video",
+    "demoVideoCaption": "PUBG Hack — ESP, aimbot & radar in match",
+    "volumeLabel": "Volume",
+    "muteVideo": "Mute video",
+    "unmuteVideo": "Unmute video",
+    "seekLabel": "Video progress",
+    "aboutStatus": "status"
+  },
+  "homeSeo": {
+    "eyebrow": "Explore",
+    "title": "Páginas relacionadas by category",
+    "lede": "Recursos, Atualizações, Preços, FAQ.",
+    "catFeatures": "Recursos",
+    "catFeaturesHint": "Recursos",
+    "catStatus": "Atualizações",
+    "catStatusHint": "Atualizações",
+    "catStore": "Preços",
+    "catStoreHint": "Preços",
+    "catHelp": "FAQ",
+    "catHelpHint": "FAQ",
+    "linkAllFeatures": "Recursos",
+    "linkEsp": "ESP",
+    "linkAimbot": "Aimbot",
+    "linkRadar": "Radar",
+    "linkLiveStatus": "Atualizações",
+    "linkReliableCheats": "PUBG hacks guide",
+    "linkVAC": "VAC",
+    "linkSetup": "Instalação",
+    "linkPlans": "Preços",
+    "linkReviews": "O que os jogadores dizem",
+    "linkBuyerReviews": "Review hub",
+    "linkFinalsCheats": "PUBG Hack",
+    "linkFaqHub": "FAQ hub",
+    "linkFaq": "FAQ",
+    "linkSupport": "Support",
+    "linkSetupGuide": "Instalação",
+    "linkBlog": "Fóruns",
+    "linkRefunds": "Refunds",
+    "faqEyebrow": "FAQ",
+    "faqTitle": "FAQ",
+    "faqLede": "Entrega digital instantânea",
+    "allAnswers": "FAQ",
+    "openFullPage": "Ler guia",
+    "readAnswer": "Read answer: {{question}}",
+    "linkPatchStatus": "status do patch"
+  },
+  "deals": {
+    "pricing": "Preços",
+    "chooseLicense": "Preços",
+    "features": "Recursos",
+    "featEsp": "ESP / wallhack",
+    "featAim": "Assistência de skillshot",
+    "featRadar": "2D radar",
+    "featUpdates": "Atualizações"
+  },
+  "trustStrip": {
+    "instantDelivery": "Entrega digital instantânea",
+    "secureCheckout": "Comprar",
+    "support247": "24/7"
+  },
+  "categoryRow": {
+    "hacks": "Cheats",
+    "esp": "ESP",
+    "aimbot": "Aimbot",
+    "radar": "Radar",
+    "wallhack": "Wallhack",
+    "features": "Recursos",
+    "pricing": "Preços",
+    "setup": "Instalação",
+    "blog": "Fóruns",
+    "forums": "Fóruns",
+    "premium": "Pacote"
+  },
+  "internalLinks": {
+    "relatedLede": "PUBG Hack — Páginas relacionadas.",
+    "topicsTitle": "Recursos",
+    "topicsLabel": "Recursos",
+    "topicsLede": "ESP, Aimbot, Preços, Instalação, Atualizações.",
+    "overview": "PUBG Hack",
+    "esp": "ESP & wallhack",
+    "aimbot": "Aimbot",
+    "radar": "Radar",
+    "features": "Recursos",
+    "pricing": "Preços",
+    "setup": "Instalação",
+    "status": "Atualizações",
+    "faq": "FAQ",
+    "support": "Support",
+    "blog": "Fóruns PUBG",
+    "reviews": "O que os jogadores dizem",
+    "hacks": "Cheats",
+    "patchStatus": "Patch status",
+    "premium": "Pacote"
+  },
+  "externalResources": {
+    "title": "Guías oficiales del juego y recursos",
+    "lede": "Enlazamos fuentes de confianza para verificar parches, estadísticas y mapas fuera de nuestro sitio.",
+    "pillsTitle": "Guías oficiales del juego y recursos",
+    "pillsLabel": "Guías oficiales del juego y recursos",
+    "steam": {
+      "label": "PUBG en PC",
+      "note": "Página oficial de la tienda, requisitos y reseñas."
+    },
+    "patch": {
+      "label": "Parches y noticias de PUBG",
+      "note": "Lee actualizaciones oficiales antes de cambiar tu loadout."
+    },
+    "official": {
+      "label": "Sitio oficial de PUBG",
+      "note": "Resumen del juego de KRAFTON."
+    },
+    "wiki": {
+      "label": "Wiki de PUBG (Fandom)",
+      "note": "Estadísticas, mapas y mecánicas de supervivencia."
+    },
+    "community": {
+      "label": "Hub de PUBG community",
+      "note": "Anuncios y debates de la comunidad."
+    }
+  },
+  "images": {
+    "hero": "PUBG Hack overlay — ESP and aimbot in PUBG",
+    "espWallhack": "Wallhack outlines showing players through walls",
+    "aimbotCombat": "Skillshot assist overlay during a PUBG match",
+    "squadFight": "PUBG Hack combat overlay during a team fight",
+    "playerEsp": "Player ESP boxes and distance readouts in a PUBG match",
+    "headerArt": "Aimbot view and bone priority controls for PUBG",
+    "hacksPackage": "2D radar threat overlay for PUBG",
+    "raidFight": "Aimbot assist during a PUBG competitive fight",
+    "battleRoyale": "PUBG Hack in-session overview for Windows PC",
+    "raidMap": "ESP markers for player item builds and POIs in PUBG",
+    "heroFight": "PUBG Hack combat overlay during a team fight"
+  },
+  "blog": {
+    "blogTitle": "PUBG Hack Forums | Setup Tips & Feature Talk",
+    "blogDescription": "PUBG hacks forums with setup walkthroughs, ESP settings, skillshot assist sliders, and BattlEye patch notes for PC at pubg-hack.org/forums/.",
+    "blogH1": "Community Forums",
+    "blogIntro": "Setup guides, feature breakdowns, and patch-day threads from players running PUBG hacks on PC.",
+    "readMore": "Read guide",
+    "published": "Published",
+    "updated": "Updated",
+    "relatedPosts": "Related PUBG guides",
+    "allPosts": "All blog posts",
+    "home": "PUBG Hack home",
+    "language": "Language",
+    "label": "PUBG Intel",
+    "categories": {
+      "Setup": "Instalação",
+      "ESP": "ESP",
+      "Aimbot": "Aimbot",
+      "Features": "Recursos",
+      "Maphack": "Maphack",
+      "Scripts": "Scripts",
+      "Camera": "Câmera",
+      "Troubleshooting": "Suporte",
+      "Pricing": "Preços",
+      "Radar": "Radar",
+      "Combo Scripts": "Scripts combo",
+      "VAC": "VAC"
+    }
+  },
+  "gallery": {
+    "eyebrow": "PUBG Hack",
+    "title": "PUBG Hack gallery",
+    "subtitle": "PUBG Hack visuals — ESP, wallhack, aimbot, and radar for PUBG on PC.",
+    "lead": "PUBG Hack helps you spot enemy players, wards, and objectives with ESP, skillshot assist, and radar in one license.",
+    "highlightEspTitle": "PUBG Hack ESP",
+    "highlightEspCopy": "See enemy players through fog with PUBG Hack ESP and wallhack overlays.",
+    "highlightRadarTitle": "PUBG Hack radar",
+    "highlightRadarCopy": "Track nearby threats with PUBG Hack radar before you push or rotate.",
+    "highlightAimbotTitle": "PUBG Hack aimbot",
+    "highlightAimbotCopy": "Use skillshot assist and aimbot controls tuned for PUBG matches on Windows PC.",
+    "updatesLabel": "PUBG Hack updates",
+    "updatesShort": "Updates"
+  },
+  "faq": {
+    "items": {
+      "what-are-pubg-cheats": {
+        "q": "¿Qué es PUBG Hack?",
+        "a": "PUBG Hack es un paquete de trucos para PUBG en PC Windows. Incluye ESP wallhack, radar 2D y asistencia de skillshot, con mantenimiento VAC y soporte de instalación."
+      },
+      "are-pubg-cheats-reliable-in-2026": {
+        "q": "¿Se mantienen los trucos de PUBG en 2026?",
+        "a": "PUBG Hack se actualiza tras parches de VAC y del juego. Revisa la Estado antes de entrar en cola. Ningún cheat puede garantizar detección cero permanente."
+      },
+      "solo-farmer-and-raider-sessions": {
+        "q": "Funciona em rodadas battle royale e partidas ranqueadas?",
+        "a": "Sim. ESP, radar e aimbot são feitos para o fluxo de partida do PUBG — ler heróis inimigos, rastrear wards and runes e utility placements, e manter consciência perto de POIs e zonas de combate em ranked e Ranked."
+      },
+      "esp-wallhack-radar-or-aimbot": {
+        "q": "¿Qué incluye: ESP, wallhack, radar o aimbot?",
+        "a": "PUBG Hack agrupa ESP wallhack, marcadores de wards, radar 2D y skillshot assist configurable en una licencia. Consulta Recursos para la lista completa."
+      },
+      "how-are-licenses-delivered": {
+        "q": "¿Cómo se entregan las licencias?",
+        "a": "Tras confirmar el pago, los datos de la licencia se entregan digitalmente en el checkout. El tiempo puede variar según el método de pago. Guarda la confirmación del pedido si contactas soporte."
+      },
+      "where-to-check-updates": {
+        "q": "¿Dónde reviso actualizaciones tras un parche de PUBG o VAC?",
+        "a": "Las notas de mantenimiento se publican en la Estado cuando un parche afecta al paquete. Es el lugar más rápido para confirmar si hay una nueva build."
+      },
+      "how-to-contact-support": {
+        "q": "¿Cómo contacto soporte?",
+        "a": "Usa la página de Suporte o escribe a support@pubg-hack.org. Incluye los datos del pedido y una descripción clara del problema de instalación."
+      },
+      "what-is-a-pubg-wallhack": {
+        "q": "O que é um wallhack de PUBG?",
+        "a": "Um wallhack de PUBG é um overlay ESP que mostra heróis inimigos através do terreno. PUBG Hack inclui distâncias, sinais de grapple e ultimate, e categorias configuráveis."
+      },
+      "does-pubg-cheats-include-radar-hack": {
+        "q": "¿PUBG Hack incluye radar hack?",
+        "a": "Sí. PUBG Hack incluye overlays de radar 2D que resaltan amenazas cercanas fuera de tu campo de visión, útil para ganks y rotaciones."
+      },
+      "vac-anti-cheat-and-pubg-cheats": {
+        "q": "¿Cómo afecta VAC a los trucos de PUBG?",
+        "a": "VAC monitoriza PUBG en PC Windows. PUBG Hack publica notas de mantenimiento tras parches que pueden requerir una nueva build. Revisa Estado antes de jugar."
+      },
+      "buy-reliable-pubg-cheats-windows-pc": {
+        "q": "¿Puedo comprar trucos de PUBG para PC Windows?",
+        "a": "Sí: PUBG Hack vende licencias mensuales y de por vida para PC Windows con ESP, radar y skillshot assist en un solo paquete. Compara planes en la Loja antes del checkout."
+      },
+      "how-much-do-pubg-cheats-cost": {
+        "q": "How much do PUBG hacks cost in 2026?",
+        "a": "PUBG Hack is $35 per month or $150 lifetime USD on Windows PC. Both plans include ESP wallhack, 2D radar, skillshot assist, and BattlEye maintenance rebuilds. See Pricing for the latest plan details before checkout."
+      },
+      "what-is-pubg-esp-hack": {
+        "q": "O que é um ESP hack de PUBG?",
+        "a": "Um ESP hack de PUBG é um overlay de visibilidade que mostra heróis inimigos, armas e wards and runes através das paredes. PUBG Hack ESP inclui caixas de jogador, tags de distância, sinais de grapple e ultimate, e categorias configuráveis para ranked e Ranked."
+      },
+      "what-is-pubg-aimbot-hack": {
+        "q": "O que é um aimbot hack de PUBG?",
+        "a": "Um aimbot hack de PUBG fornece assistência de mira com FOV, suavização e prioridade de ossos configuráveis. PUBG Hack usa perfis de Skillshot assist para team fights e duelos naturais — ajuste no menu mod antes das filas Ranked."
+      },
+      "how-to-install-pubg-cheats": {
+        "q": "How do I install PUBG hacks on Windows PC?",
+        "a": "After checkout, follow the Setup guide: download the loader, disable conflicting overlays, launch PUBG Hack, and enable ESP, radar, or aimbot toggles in the mod menu. Most buyers finish first launch in under 15 minutes. Email support@pubg-hack.org if activation fails."
+      },
+      "best-pubg-cheats-in-2026": {
+        "q": "What are the best PUBG hacks in 2026?",
+        "a": "Top PUBG hacks in 2026 combine ESP, skillshot assist, 2D radar, and fast BattlEye maintenance after patches. PUBG Hack bundles all three in one license with status notes, setup support, and monthly or lifetime pricing — compare Features and Reviews before you buy."
+      },
+      "monthly-vs-lifetime-pubg-cheats": {
+        "q": "Should I buy monthly or lifetime PUBG hacks?",
+        "a": "Choose monthly ($35) if you want a lower entry cost or only play a few seasons. Choose lifetime ($150) if you plan long-term PUBG play and want one payment for ESP, radar, aimbot, and future maintenance rebuilds. Both plans ship the same feature set."
+      },
+      "pubg-cheats-windows-11": {
+        "q": "Do PUBG hacks work on Windows 11?",
+        "a": "Yes. PUBG Hack supports Windows 10 and Windows 11 on PC. Use a clean install path from the Setup guide, keep VAC status green on the Updates page, and avoid running outdated builds after major patches."
+      },
+      "what-is-pubg-soft-aim": {
+        "q": "O que é Skillshot assist de PUBG?",
+        "a": "O Skillshot assist de PUBG guia suavemente a mira para alvos dentro de um FOV definido em vez de travar instantaneamente. PUBG Hack permite ajustar suavização, prioridade de ossos e perfis por tipo de arma em ranked e Ranked."
+      },
+      "free-pubg-cheat-download": {
+        "q": "Is there a free PUBG hack download?",
+        "a": "PUBG Hack is a paid license — there is no official free download. Avoid random “free PUBG hack” sites; they often ship malware or detected loaders. Compare monthly and lifetime plans on Pricing for legitimate ESP, radar, and aimbot access with support."
+      },
+      "pubg-vac-bypass": {
+        "q": "Como funciona o bypass VAC para PUBG hacks?",
+        "a": "Não existe bypass VAC permanente. PUBG Hack é mantido com rebuilds após patches do PUBG e VAC — confira a página de Atualizações antes de jogar. Configurações responsáveis e a build mais recente importam mais que qualquer promessa de “bypass”."
+      },
+      "pubg-cheats-for-ranked": {
+        "q": "Os PUBG hacks funcionam em competitivo ranqueado?",
+        "a": "Sim. ESP, radar e Skillshot assist são feitos para Ranked e ranked no PUBG em PC Windows. Use overlays conservadores, leia notas de manutenção após patches e confirme patch status na página de Atualizações antes das filas competitivas."
+      },
+      "what-is-pubg-mod-menu": {
+        "q": "What is a PUBG mod menu?",
+        "a": "A PUBG mod menu is an in-game overlay to toggle ESP wallhack, radar, aimbot, and visual settings without alt-tabbing. PUBG Hack ships a lightweight mod menu for Windows PC — see Features for the full toggle list."
+      },
+      "external-vs-internal-pubg-cheats": {
+        "q": "What is the difference between external and internal PUBG hacks?",
+        "a": "External hacks read game memory from outside the client; internal hooks run inside the process. PUBG Hack is built as an external-style package for easier setup on Windows PC, bundling ESP, radar, and skillshot assist with BattlEye maintenance after patches."
+      },
+      "how-long-pubg-cheat-setup-takes": {
+        "q": "How long does PUBG hacks setup take?",
+        "a": "Most buyers finish PUBG Hack setup in 10–20 minutes on Windows PC: install the loader, activate the license, and enable ESP or aimbot in the mod menu. If Windows Defender or another AV blocks the loader, follow Setup troubleshooting or email support@pubg-hack.org with your order ID."
+      },
+      "does-pubg-cheats-include-triggerbot": {
+        "q": "Does PUBG Hack include triggerbot?",
+        "a": "PUBG Hack focuses on ESP wallhack, 2D radar, and skillshot assist profiles. Triggerbot is not advertised as a standalone module — review the Features page for the current toggle list before checkout."
+      }
+    }
+  },
+  "media": {
+    "demoVideoTitle": "PUBG Hack ESP, Aimbot demo",
+    "playVideo": "Play video"
+  },
+  "agent": {
+    "accent": "2026 — ESP, Aimbot & Wallhack",
+    "accentShort": "PUBG hacks 2026",
+    "title": "PUBG Hack",
+    "subtitle": "ESP, aimbot, and wallhack for PUBG on Windows PC — BattlEye maintenance included.",
+    "subtitleShort": "ESP, aimbot & wallhack for PUBG PC",
+    "buyNow": "Buy PUBG Hack",
+    "seeFeatures": "See Features",
+    "priceFrom": "from",
+    "imageAlt": "{{brand}} — PUBG ESP and aimbot overlay",
+    "chipEsp": "ESP / wallhack",
+    "chipAim": "Skillshot assist",
+    "chipRadar": "Radar overlay",
+    "chipUpdates": "Patch updates"
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "metaTitle": "Página não encontrada | {{brand}}",
+    "metaDescription": "Essa página {{brand}} não existe. Volte ao início ou explore recursos, loja, instalação, avaliações e fóruns.",
+    "body": "A URL aberta não está em {{brand}}. Use os links para ESP, aimbot, loja e instalação de {{game}} no PC Windows.",
+    "backHome": "Voltar ao início {{brand}}",
+    "gamePreview": "Prévia de {{game}}",
+    "store": "Loja",
+    "reviews": "Avaliações",
+    "forums": "Fóruns",
+    "support": "Suporte"
+  },
+  "player": {
+    "accent": "Cheats PUBG premium",
+    "accentShort": "PUBG Hack",
+    "title": "PUBG Hack",
+    "subtitle": "ESP wallhack, radar hack e Aimbot para PUBG no PC Windows — manutenção VAC incluída.",
+    "subtitleShort": "ESP, radar e Aimbot para PUBG PC",
+    "buyNow": "Comprar agora",
+    "seeFeatures": "Ver recursos",
+    "priceFrom": "from",
+    "imageAlt": "{{brand}} — overlay ESP e aimbot PUBG",
+    "chipEsp": "ESP / wallhack",
+    "chipAim": "Assistência de skillshot",
+    "chipRadar": "Radar sobreposto",
+    "chipUpdates": "Atualizações de patch"
+  }
+}

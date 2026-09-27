@@ -1,0 +1,42 @@
+/** Descriptive image alts — Google rejects empty or keyword-only alts. */
+export const DESCRIPTIVE_IMAGE_ALTS = {
+	hero: 'PUBG Hack overlay — ESP and aimbot overlay in PUBG',
+	espWallhack: 'Wallhack outlines showing enemy players through walls',
+	aimbotCombat: 'Skillshot assist assist overlay during a PUBG match',
+	squadFight: 'PUBG Hack combat overlay during a team fight',
+	playerEsp: 'Player ESP boxes and distance readouts in a PUBG match',
+	headerArt: 'Aimbot view and bone priority controls for PUBG',
+	hacksPackage: '2D radar threat overlay for PUBG',
+	raidFight: 'Aimbot assist during a PUBG competitive fight',
+	battleRoyale: 'PUBG Hack in-session overview for Windows PC',
+	raidMap: 'ESP markers for operator item builds and POIs in PUBG',
+};
+
+/** Page-level image alt by pageId (EN source of truth). */
+export const PAGE_IMAGE_ALTS = {
+	home: 'PUBG Hack homepage agent — ESP and aimbot for PUBG',
+	'pubg-esp': 'PUBG ESP player boxes and distance readouts in a match',
+	'pubg-aimbot': 'PUBG Aimbot and Skillshot assist controls on Windows PC',
+	features: 'PUBG Hack features — ESP, Skillshot assist, and radar screenshots',
+	pricing: 'PUBG Hack store plans for monthly and lifetime licenses',
+	setup: 'PUBG Hack setup guide screenshot for Windows PC',
+	updates: 'PUBG Hack live status after BattlEye and game patches',
+	faq: 'PUBG Hack FAQ — delivery, setup, and update answers',
+	support: 'PUBG Hack support page for license and setup help',
+	reliable: 'PUBG Hack patch status overview for Windows PC',
+	wallhack: 'PUBG wallhack visibility through walls in a match',
+	radar: 'PUBG 2D radar overlay showing nearby threats',
+	vac: 'PUBG Hack maintenance after a BattlEye patch',
+	'cheats-2026': 'PUBG Hack product overview for PUBG',
+	hacks: 'PUBG Hack product page — ESP, aimbot, and radar',
+	'cheat-download': 'PUBG Hack download and install delivery flow',
+	'mod-menu': 'PUBG Hack in-game menu controls',
+	'soft-aim': 'PUBG Skillshot assist FOV and smoothness settings',
+	'best-cheats': 'PUBG Hack overview for PUBG on PC',
+	'aimbot-hack': 'PUBG Aimbot hack controls and bone priority',
+	'esp-hack': 'PUBG ESP hack boxes and player markers',
+	'unlock-all': 'PUBG Hack license features overview',
+	privacy: 'PUBG Hack privacy policy page',
+	refund: 'PUBG Hack refund policy page',
+	terms: 'PUBG Hack terms of use page',
+};

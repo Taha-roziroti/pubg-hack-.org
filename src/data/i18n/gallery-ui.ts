@@ -1,0 +1,304 @@
+import type { LocaleCode } from './locales';
+
+export type GalleryUi = {
+	eyebrow: string;
+	title: string;
+	subtitle: string;
+	lead: string;
+	highlights: { title: string; copy: string }[];
+	updatesLabel: string;
+	updatesShort: string;
+};
+
+export const galleryUi: Record<LocaleCode, GalleryUi> = {
+	en: {
+		eyebrow: 'PUBG Hack',
+		title: 'PUBG Hack gallery',
+		subtitle: 'Simple PUBG hacks visuals — ESP, wallhack, aimbot, and radar for PUBG on PC.',
+		lead: 'PUBG Hack helps you spot players, agents, abilities, and bomb sites with ESP, aimbot, and radar in one license.',
+		highlights: [
+			{ title: 'PUBG hacks esp', copy: 'See players through walls with PUBG hacks esp and wallhack overlays.' },
+			{ title: 'PUBG hacks radar', copy: 'Track nearby threats with PUBG hacks radar before you push or rotate.' },
+			{ title: 'PUBG hacks aimbot', copy: 'Use Skillshot assist and aimbot controls tuned for PUBG matches on Windows PC.' },
+		],
+		updatesLabel: 'PUBG hacks updates',
+		updatesShort: 'Updates',
+	},
+	es: {
+		eyebrow: 'PUBG Hack',
+		title: 'Galería PUBG',
+		subtitle: 'Visuales de PUBG con loadouts, peleas de equipo y combate match — junto a herramientas ESP, radar y Aimbot.',
+		lead: 'PUBG Hack está pensado para el loop competitivo de PUBG: leer el mapa, rastrear escuadrones enemigos, weapon dropsear y ganar rondas.',
+		highlights: [
+			{ title: 'ESP de players y escuadrones', copy: 'Detecta players enemigos y contornos de equipo en mapas y loadout drop routes para elegir peleas con mejor información.' },
+			{ title: 'Marcadores de weapon drops y cofres', copy: 'Resalta loadouts, cofres y weapon drops de alto nivel sin saturar la pantalla en plena partida.' },
+			{ title: 'Controles Aimbot PUBG', copy: 'Ajusta suavidad, prioridad de objetivo y teclas para AR, SMG y francotirador antes de comprar.' },
+		],
+		updatesLabel: 'Actualizaciones PUBG Hack',
+		updatesShort: 'Updates',
+	},
+	fr: {
+		eyebrow: 'PUBG Hack',
+		title: 'Galerie PUBG',
+		subtitle: 'Visuels PUBG — loadouts, combats d\'équipe et match — avec ESP, radar et Aimbot.',
+		lead: 'PUBG Hack suit la boucle competitivo de PUBG : lire la carte, suivre les équipes, weapon drops et gagner les rounds.',
+		highlights: [
+			{ title: 'ESP players & équipes', copy: 'Repérez les players ennemis sur cartes et loadout drop routes pour choisir vos engagements.' },
+			{ title: 'Marqueurs weapon drops & coffres', copy: 'Mettez en évidence loadouts, coffres et weapon drops haut niveau sans encombrer l\'écran.' },
+			{ title: 'Réglages Aimbot PUBG', copy: 'Ajustez fluidité, priorité cible et raccourcis pour AR, SMG et sniper.' },
+		],
+		updatesLabel: 'Mises à jour PUBG Hack',
+		updatesShort: 'Updates',
+	},
+	de: {
+		eyebrow: 'PUBG Hack',
+		title: 'PUBG Galerie',
+		subtitle: 'PUBG-Bilder zu Loadouts, Squad-Kämpfen und match — mit ESP, Radar und Aimbot.',
+		lead: 'PUBG Hack passt zur Raid-Schleife von PUBG: Karte lesen, Gegner tracken, weapon dropsen und matches überleben.',
+		highlights: [
+			{ title: 'Player- & Squad-ESP', copy: 'Erkenne feindliche Playeren auf Karten und loadout drop routes für bessere Rotationsentscheidungen.' },
+			{ title: 'Weapon drops- & Vertragsmarker', copy: 'Hebe Loadout-Drops, Verträge und High-Tier-Weapon drops hervor ohne Screen-Spam.' },
+			{ title: 'PUBG Aimbot Steuerung', copy: 'Feinjustiere Glätte, Zielpriorität und Hotkeys für AR, SMG und Sniper.' },
+		],
+		updatesLabel: 'PUBG Hack Updates',
+		updatesShort: 'Updates',
+	},
+	pt: {
+		eyebrow: 'PUBG Hack',
+		title: 'Galeria PUBG',
+		subtitle: 'Visuais de PUBG com loadouts, combates de esquadrão e match — com ESP, radar e Aimbot.',
+		lead: 'PUBG Hack segue o loop BR do PUBG: ler o mapa, rastrear equipes, weapon dropsar e sobreviver ao extract.',
+		highlights: [
+			{ title: 'ESP de players e equipes', copy: 'Detecte players inimigos em mappe e loadout drop routes para escolher lutas com melhor intel.' },
+			{ title: 'Marcadores de weapon drops e cofres', copy: 'Destaque loadouts, cofres e weapon drops de alto nível sem poluir a tela.' },
+			{ title: 'Controles Aimbot PUBG', copy: 'Ajuste suavidade, prioridade de alvo e atalhos para AR, SMG e sniper.' },
+		],
+		updatesLabel: 'Atualizações PUBG Hack',
+		updatesShort: 'Updates',
+	},
+	it: {
+		eyebrow: 'PUBG Hack',
+		title: 'Galleria PUBG',
+		subtitle: 'Immagini PUBG — loadout, scontri di squadra e match — con ESP, radar e Aimbot.',
+		lead: 'PUBG Hack è pensato per il loop BR di PUBG: leggere la mappa, tracciare squadre nemiche, weapon drops e sopravvivere al extract.',
+		highlights: [
+			{ title: 'ESP playeri e squadre', copy: 'Individua playeri nemici su mappe e loadout drop routes per scegliere i fight con più intel.' },
+			{ title: 'Marker weapon drops e coffreti', copy: 'Evidenzia loadout, coffreti e weapon drops di alto livello senza riempire lo schermo.' },
+			{ title: 'Controlli Aimbot PUBG', copy: 'Regola smoothness, priorità bersaglio e hotkey per AR, SMG e sniper.' },
+		],
+		updatesLabel: 'Aggiornamenti PUBG Hack',
+		updatesShort: 'Updates',
+	},
+	nl: {
+		eyebrow: 'PUBG Hack',
+		title: 'PUBG galerij',
+		subtitle: 'PUBG-beelden van loadouts, squadgevechten en match — met ESP, radar en Aimbot.',
+		lead: 'PUBG Hack volgt de match-loop va PUBG: kaart lezen, vijandelijke squads volgen, jagen en buy stations overleven.',
+		highlights: [
+			{ title: 'Player- & squad-ESP', copy: 'Spot vijandelijke players op mappe en loadout drop routes voor betere rotatiebeslissingen.' },
+			{ title: 'Weapon drops- & chestmarkers', copy: 'Markeer loadout-drops, chesten en high-tier weapon drops zonder schermoverlast.' },
+			{ title: 'PUBG Aimbot instellingen', copy: 'Stel smoothness, doelprioriteit en hotkeys af voor AR, SMG en sniper.' },
+		],
+		updatesLabel: 'PUBG Hack updates',
+		updatesShort: 'Updates',
+	},
+	pl: {
+		eyebrow: 'PUBG Hack',
+		title: 'Galeria PUBG',
+		subtitle: 'Grafiki PUBG — loadouty, walki drużynowe i match — z ESP, radar i Aimbot.',
+		lead: 'PUBG Hack pasuje do pętli BR PUBG: czytaj mapę, śledź wrogie drużyny, weapon dropsuj i przeżyj extract.',
+		highlights: [
+			{ title: 'ESP players i drużyn', copy: 'Wykrywaj wrogich players na mapy i loadout drop routes dla lepszych decyzji rotacyjnych.' },
+			{ title: 'Markery weapon dropsu i skrzyń', copy: 'Podświetlaj loadouty, petity i wysokiej klasy weapon drops bez zaśmiecania ekranu.' },
+			{ title: 'Sterowanie Aimbot PUBG', copy: 'Dostosuj płynność, priorytet celu i skróty dla AR, SMG i snajperki.' },
+		],
+		updatesLabel: 'Aktualizacje PUBG Hack',
+		updatesShort: 'Updates',
+	},
+	ru: {
+		eyebrow: 'PUBG Hack',
+		title: 'Галерея PUBG',
+		subtitle: 'Визуалы PUBG — лоадауты, бои отрядов и match — с ESP, радаром и Aimbot.',
+		lead: 'PUBG Hack создан для рейд-циклу PUBG: читать карту, отслеживать вражеские отряды, лут и выживать в extract.',
+		highlights: [
+			{ title: 'ESP игроков и отрядов', copy: 'Замечайте вражеских игроков на карты и loadout drop routes для лучших решений по ротации.' },
+			{ title: 'Маркеры лута и сундуков', copy: 'Подсвечивайте loadout, сундуки и высокий лут без перегрузки экрана.' },
+			{ title: 'Настройки Aimbot PUBG', copy: 'Настройте плавность, приоритет цели и горячие клавиши для AR, SMG и снайперки.' },
+		],
+		updatesLabel: 'Обновления PUBG Hack',
+		updatesShort: 'Updates',
+	},
+	tr: {
+		eyebrow: 'PUBG Hack',
+		title: 'PUBG galerisi',
+		subtitle: 'Loadout, takım savaşları ve match görselleri — ESP, radar ve Aimbot ile.',
+		lead: 'PUBG Hack, PUBG BR döngüsü için: haritayı oku, düşman takımları izle, weapon drops al ve extract\'da hayatta kal.',
+		highlights: [
+			{ title: 'Player ve takım ESP', copy: 'haritalar ve loadout drop routes\'da düşman playerleri görerek daha iyi rotasyon kararları alın.' },
+			{ title: 'Weapon drops ve kontrat işaretleri', copy: 'Loadout, kontrat ve üst seviye weapon drops\'u ekranı doldurmadan vurgulayın.' },
+			{ title: 'PUBG Aimbot kontrolleri', copy: 'AR, SMG ve sniper için yumuşaklık, hedef önceliği ve kısayolları ayarlayın.' },
+		],
+		updatesLabel: 'PUBG Hack güncellemeleri',
+		updatesShort: 'Updates',
+	},
+	ar: {
+		eyebrow: 'PUBG Hack',
+		title: 'معرض PUBG',
+		subtitle: 'صور PUBG — loadouts ومعارك الفرق وsession — مع ESP ورادار وAimbot.',
+		lead: 'PUBG Hack مبني لحلقة BR في PUBG: قراءة الخريطة، تتبع الفرق، جمع اللوت والنجاة في extract.',
+		highlights: [
+			{ title: 'ESP للمشغلين والفرق', copy: 'اكتشف players المعادين على خرائط وloadout drop routes لاختيار القتالات بذكاء.' },
+			{ title: 'علامات اللوت والصناديق', copy: 'أبرز loadouts والصناديق واللوت العالي دون ازدحام الشاشة.' },
+			{ title: 'تحكم Aimbot PUBG', copy: 'اضبط النعومة وأولوية الهدف والاختصارات للـ AR وSMG والقناص.' },
+		],
+		updatesLabel: 'تحديثات PUBG Hack',
+		updatesShort: 'Updates',
+	},
+	ja: {
+		eyebrow: 'PUBG Hack',
+		title: 'PUBG ギャラリー',
+		subtitle: 'ロードアウト、スクワッド戦、BRコンバットのPUBGビジュアル — ESP、レーダー、エイムボット付き。',
+		lead: 'PUBG HackはPUBGのBRループ向け：マップを読み、敵スクワッドを追跡し、ルートしてextractを生き延びる。',
+		highlights: [
+			{ title: 'players＆スクワッドESP', copy: 'マップとloadout drop routesで敵playersを把握し、ローテ判断を改善。' },
+			{ title: 'ルート＆チェストマーカー', copy: 'ロードアウト、チェスト、高ティアルートを画面を埋めずに表示。' },
+			{ title: 'PUBGエイムボット設定', copy: 'AR、SMG、スナイパー向けにスムーズさ、ターゲット優先度、ホットキーを調整。' },
+		],
+		updatesLabel: 'PUBG Hack更新',
+		updatesShort: 'Updates',
+	},
+	ko: {
+		eyebrow: 'PUBG Hack',
+		title: 'PUBG 갤러리',
+		subtitle: '로드아웃, 스쿼드 전투, BR 컴뱃 PUBG 비주얼 — ESP, 레이더, 에임봇 포함.',
+		lead: 'PUBG Hack는 PUBG survival loop용: 맵 읽기, 적 스쿼드 추적, 루트 수집, extract 생존.',
+		highlights: [
+			{ title: 'players & 스쿼드 ESP', copy: '맵과 loadout drop routes에서 적 players를 파악해 로테이션 결정을 개선.' },
+			{ title: '루트 & 상자 마커', copy: '로드아웃, 상자, 고티어 루트를 화면을 가리지 않고 강조.' },
+			{ title: 'PUBG 에임봇 컨트롤', copy: 'AR, SMG, 스나이퍼용 부드러움, 타겟 우선순위, 단축키 조정.' },
+		],
+		updatesLabel: 'PUBG Hack 업데이트',
+		updatesShort: 'Updates',
+	},
+	zh: {
+		eyebrow: 'PUBG Hack',
+		title: 'PUBG 图库',
+		subtitle: 'PUBG 视觉 — 配装、小队战斗和大逃杀 — 配合 ESP、雷达和自瞄。',
+		lead: 'PUBG Hack 为 PUBG match loop设计：读图、追踪敌方小队、搜刮并在 base survival。',
+		highlights: [
+			{ title: 'players与小队 ESP', copy: '在 地图和 loadout drop routes 发现敌方players，做出更好的转点决策。' },
+			{ title: '物资与宝箱标记', copy: '高亮配装、宝箱和高级物资，不遮挡屏幕。' },
+			{ title: 'PUBG 自瞄控制', copy: '调整 AR、SMG 和狙击的平滑度、目标优先级和热键。' },
+		],
+		updatesLabel: 'PUBG Hack 更新',
+		updatesShort: 'Updates',
+	},
+	hi: {
+		eyebrow: 'PUBG Hack',
+		title: 'PUBG गैलरी',
+		subtitle: 'Loadout, team fights और match visuals — ESP, radar और Aimbot के साथ।',
+		lead: 'PUBG Hack PUBG match loop के लिए: map पढ़ें, enemy squads track करें, weapon drops करें और base survival करें।',
+		highlights: [
+			{ title: 'Player & Squad ESP', copy: 'मैप और loadout drop routes पर enemy players spot करें बेहतर rotation decisions के लिए।' },
+			{ title: 'Weapon drops & Chest Markers', copy: 'Loadout drops, chests और high-tier weapon drops highlight करें screen clutter के बिना।' },
+			{ title: 'PUBG Aimbot Controls', copy: 'AR, SMG और sniper के लिए smoothness, target priority और hotkeys tune करें।' },
+		],
+		updatesLabel: 'PUBG Hack updates',
+		updatesShort: 'Updates',
+	},
+	id: {
+		eyebrow: 'PUBG Hack',
+		title: 'Galeri PUBG',
+		subtitle: 'Visual PUBG — loadout, pertempuran squad, dan match — dengan ESP, radar, dan Aimbot.',
+		lead: 'PUBG Hack untuk loop BR PUBG: baca peta, lacak squad musuh, weapon drops, dan selamat di extract.',
+		highlights: [
+			{ title: 'ESP player & squad', copy: 'Deteksi player musuh di peta dan loadout drop routes untuk keputusan rotasi lebih baik.' },
+			{ title: 'Marker weapon drops & peti', copy: 'Sorot loadout, peti, dan weapon drops tier tinggi tanpa membanjiri layar.' },
+			{ title: 'Kontrol Aimbot PUBG', copy: 'Atur smoothness, prioritas target, dan hotkey untuk AR, SMG, dan sniper.' },
+		],
+		updatesLabel: 'Update PUBG Hack',
+		updatesShort: 'Updates',
+	},
+	th: {
+		eyebrow: 'PUBG Hack',
+		title: 'แกลเลอรี PUBG',
+		subtitle: 'ภาพ PUBG — loadout การต่อสู้ทีม และ match — พร้อม ESP เรดาร์และ Aimbot',
+		lead: 'PUBG Hack สำหรับลูป BR ของ PUBG: อ่านแผนที่ ติดตามทีมศัตรู เก็บ weapon drops และรอด extract',
+		highlights: [
+			{ title: 'ESP ผู้เล่นและทีม', copy: 'มองเห็นศัตรูบน แผนที่และ loadout drop routes เพื่อตัดสินใจหมุนเวียนได้ดีขึ้น' },
+			{ title: 'มาร์กเกอร์ weapon drops และหีบ', copy: 'เน้น loadout หีบและ weapon drops ระดับสูงโดยไม่รกหน้าจอ' },
+			{ title: 'ควบคุม Aimbot PUBG', copy: 'ปรับความนุ่ม ลำดับเป้าหมาย และ hotkey สำหรับ AR SMG และ sniper' },
+		],
+		updatesLabel: 'อัปเดต PUBG Hack',
+		updatesShort: 'Updates',
+	},
+	vi: {
+		eyebrow: 'PUBG Hack',
+		title: 'Thư viện PUBG',
+		subtitle: 'Hình ảnh PUBG — loadout, chiến đấu squad và match — với ESP, radar và Aimbot.',
+		lead: 'PUBG Hack cho vòng BR PUBG: đọc bản đồ, theo dõi squad địch, weapon drops và sống sót extract.',
+		highlights: [
+			{ title: 'ESP player & squad', copy: 'Phát hiện player địch trên bản đồ và loadout drop routes để quyết định rotate tốt hơn.' },
+			{ title: 'Đánh dấu weapon drops & rương', copy: 'Làm nổi bật loadout, rương và weapon drops cao cấp mà không che màn hình.' },
+			{ title: 'Điều khiển Aimbot PUBG', copy: 'Tinh chỉnh độ mượt, ưu tiên mục tiêu và phím tắt cho AR, SMG và sniper.' },
+		],
+		updatesLabel: 'Cập nhật PUBG Hack',
+		updatesShort: 'Updates',
+	},
+	uk: {
+		eyebrow: 'PUBG Hack',
+		title: 'Галерея PUBG',
+		subtitle: 'Візуали PUBG — loadout, бої загонів і match — з ESP, радаром і Aimbot.',
+		lead: 'PUBG Hack для рейд-циклу PUBG: читати карту, відстежувати ворожі загони, лут і виживати в extract.',
+		highlights: [
+			{ title: 'ESP гравців і загонів', copy: 'Помічайте ворожих гравців на Map і loadout drop routes для кращих ротацій.' },
+			{ title: 'Маркери луту й скринь', copy: 'Підсвічуйте loadout, контракти та високий лут без перевантаження екрана.' },
+			{ title: 'Налаштування Aimbot PUBG', copy: 'Налаштуйте плавність, пріоритет цілі та гарячі клавіші для AR, SMG і снайперки.' },
+		],
+		updatesLabel: 'Оновлення PUBG Hack',
+		updatesShort: 'Updates',
+	},
+	cs: {
+		eyebrow: 'PUBG Hack',
+		title: 'Galerie PUBG',
+		subtitle: 'PUBG vizuály — loadouty, squad souboje a match — s ESP, radarem a Aimbot.',
+		lead: 'PUBG Hack pro BR smyčku PUBG: číst mapu, sledovat nepřátelské squady, weapon drops a přežít extract.',
+		highlights: [
+			{ title: 'ESP players a squadů', copy: 'Spozorujte nepřátelské operátory na mapy a loadout drop routes pro lepší rotační rozhodnutí.' },
+			{ title: 'Markery weapon dropsu a petitů', copy: 'Zvýrazněte loadouty, petity a high-tier weapon drops bez přeplnění obrazovky.' },
+			{ title: 'Ovládání Aimbot PUBG', copy: 'Nastavte smoothness, prioritu cíle a hotkeys pro AR, SMG a sniper.' },
+		],
+		updatesLabel: 'Aktualizace PUBG Hack',
+		updatesShort: 'Updates',
+	},
+	ro: {
+		eyebrow: 'PUBG Hack',
+		title: 'Galerie PUBG',
+		subtitle: 'Vizualuri PUBG — loadout, lupte de squad și match — cu ESP, radar și Aimbot.',
+		lead: 'PUBG Hack pentru bucla BR PUBG: citește harta, urmărește squad-uri inamice, weapon drops și supraviețuiește extract.',
+		highlights: [
+			{ title: 'ESP playeri și squad-uri', copy: 'Detectează playeri inamici pe Map și loadout drop routes pentru decizii de rotație mai bune.' },
+			{ title: 'Markere weapon drops și cheste', copy: 'Evidențiază loadout-uri, cheste și weapon drops de nivel înalt fără a aglomera ecranul.' },
+			{ title: 'Controale Aimbot PUBG', copy: 'Ajustează smoothness, prioritate țintă și hotkeys pentru AR, SMG și sniper.' },
+		],
+		updatesLabel: 'Actualizări PUBG Hack',
+		updatesShort: 'Updates',
+	},
+	sv: {
+		eyebrow: 'PUBG Hack',
+		title: 'PUBG galleri',
+		subtitle: 'PUBG-bilder — loadouts, squadstrider och match — med ESP, radar och Aimbot.',
+		lead: 'PUBG Hack för PUBG:s match-loop: läs kartan, spåra fiendesquads, weapon dropsa och överlev extract.',
+		highlights: [
+			{ title: 'Player- & squad-ESP', copy: 'Spotta fiendeplayerer på kartor och loadout drop routes för bättre rotationsbeslut.' },
+			{ title: 'Weapon drops- & petitsmarkörer', copy: 'Markera loadout-drops, petit och high-tier weapon drops utan skärmklutter.' },
+			{ title: 'PUBG Aimbot-kontroller', copy: 'Justera smoothness, målprioritet och snabbtangenter för AR, SMG och sniper.' },
+		],
+		updatesLabel: 'PUBG Hack uppdateringar',
+		updatesShort: 'Updates',
+	},
+};
+
+export function getGalleryUi(locale: LocaleCode): GalleryUi {
+	return galleryUi[locale];
+}

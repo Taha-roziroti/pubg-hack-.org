@@ -1,0 +1,16 @@
+---
+import { blogPosts } from '../../data/blog/helpers';
+import { isBlogPostSlug } from '../../data/i18n/routing';
+
+export function getStaticPaths() {
+	return blogPosts.map((post) => ({
+		params: { slug: post.translations.en.slug },
+	}));
+}
+
+const slug = Astro.params.slug ?? '';
+if (isBlogPostSlug(slug)) {
+	return Astro.redirect(`/forums/${slug}/`, 301);
+}
+return Astro.redirect('/404/', 404);
+---

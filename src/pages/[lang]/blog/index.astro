@@ -1,0 +1,17 @@
+---
+import { getBlogBasePath } from '../../../data/blog/helpers';
+import { defaultLocale, isLocaleCode, localeCodes, type LocaleCode } from '../../../data/i18n/locales';
+
+export function getStaticPaths() {
+	return localeCodes
+		.filter((code) => code !== defaultLocale)
+		.map((lang) => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang ?? '';
+if (!isLocaleCode(lang)) {
+	return Astro.redirect('/forums/', 301);
+}
+
+return Astro.redirect(getBlogBasePath(lang as LocaleCode), 301);
+---

@@ -1,0 +1,563 @@
+{
+  "nav": {
+    "home": "首页",
+    "hacks": "Cheats",
+    "aimbot": "Aimbot",
+    "esp": "ESP",
+    "features": "功能",
+    "pricing": "价格",
+    "setup": "安装",
+    "updates": "更新",
+    "faq": "常见问题",
+    "buyNow": "立即购买",
+    "preview": "Cheats",
+    "store": "价格",
+    "status": "更新",
+    "reviews": "评价",
+    "primaryAria": "主导航",
+    "mobileAria": "移动导航",
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单"
+  },
+  "hero": {
+    "accent": "PUBG作弊",
+    "accentShort": "PUBG Hack",
+    "title": "PUBG Hack",
+    "subtitle": "适用于PUBG Windows PC的ESP wallhack、radar hack和Aimbot — 含VAC维护。",
+    "subtitleShort": "PUBG PC版ESP、radar与Aimbot",
+    "buyNow": "立即购买",
+    "seeFeatures": "查看功能",
+    "priceFrom": "from",
+    "imageAlt": "{{brand}} — PUBG ESP and aimbot overlay",
+    "chipEsp": "ESP / wallhack",
+    "chipAim": "技能辅助",
+    "chipRadar": "2D radar",
+    "chipUpdates": "更新"
+  },
+  "cta": {
+    "buy": "立即购买",
+    "buyShort": "立即购买"
+  },
+  "affiliate": {
+    "disclosureLead": "Affiliate:",
+    "disclosureLink": "disclosure",
+    "disclosureTail": "— we may earn a commission on purchases.",
+    "footerLink": "Affiliate disclosure"
+  },
+  "trust": {
+    "status": "在线",
+    "statusNote": "PUBG Hack套餐已在PUBG Windows PC上线。",
+    "statusShort": "运行中",
+    "delivery": "即时数字交付",
+    "platform": "Windows 10 和 11",
+    "antiCheat": "支持VAC维护",
+    "antiCheatShort": "VAC支持"
+  },
+  "product": {
+    "title": "PUBG Hack",
+    "addToCart": "加入购物车",
+    "monthly": "月付",
+    "lifetime": "终身",
+    "available": "现已可用",
+    "gameBadge": "PUBG",
+    "platformBadge": "Windows PC",
+    "statusBadge": "Premium套餐",
+    "days30": "30",
+    "oneTime": "终身",
+    "plans": "价格",
+    "perMonth": "/",
+    "once": "",
+    "buyMonthly": "月付",
+    "buyLifetime": "终身"
+  },
+  "reviews": {
+    "title": "玩家评价",
+    "subtitle": "PUBG Hack 买家近期反馈",
+    "outOf": "/5",
+    "countLabel": "条评价",
+    "eyebrow": "玩家评价",
+    "homeTitle": "PUBG Hack 评价",
+    "buyerReviews": "{{count}} 条买家评价",
+    "averageAria": "{{count}} 条评价平均 {{rating}}",
+    "outOfFiveAria": "{{rating}} / 5",
+    "readAll": "查看全部评价 →",
+    "scrollHint": "滚动或拖动浏览评价",
+    "prev": "上一条评价",
+    "next": "下一条评价",
+    "verifiedBuyer": "已验证买家",
+    "carouselAria": "买家评价轮播",
+    "indexTitle": "PUBG 作弊评价 — 外挂与作弊",
+    "indexAverageAria": "平均 {{rating}} / 5",
+    "indexCount": "{{count}} 条买家评价 · 满分 5",
+    "starsAria": "{{rating}} / 5 星",
+    "readFull": "阅读完整评价",
+    "ctaAria": "购买 {{brand}}",
+    "ctaTitle": "准备好试用 PUBG 作弊了吗？",
+    "ctaBody": "一套 PUBG 外挂与作弊 — ESP、技能辅助与雷达，适用于 Windows PC，含 {{game}} 补丁维护。",
+    "ctaBuy": "立即购买 — ${{price}}",
+    "comparePricing": "比较价格",
+    "reviewBy": "{{brand}} 评价 @{{handle}}",
+    "reviewImageAlt": "{{brand}} 评价 @{{handle}}",
+    "items": {
+      "pubg-soft-aim-review-xkrypt0": {
+        "short": "之前试过 3 个 PUBG 作弊。调好 soft aim 后，PUBG Hack 在排位里感觉很自然。",
+        "text": "我试过三个不同的 PUBG 外挂，在排位里都太生硬。PUBG Hack 可以微调 soft aim，高 rank 也不显眼。已玩一周；白名单加载器后安装约 12 分钟。目前没问题。",
+        "seoTitle": "@xKrypt0_PUBG 的 Soft Aim 评测 — 5/5 | PUBG Hack",
+        "seoDescription": "@xKrypt0_PUBG 在 Windows PC 排位测试后给 PUBG Hack soft aim 评 5/5。"
+      },
+      "pubg-esp-rotation-review-buildsr4k": {
+        "short": "为 ESP 而非 aimbot 购买。PUBG Hack 透视显示 gank 前的游走 — 排位里很关键。",
+        "text": "我几乎不用 aimbot，买它是为了 ESP。gank 前看到哪些英雄换线是无价信息。月付已用几周，值得。菜单可以更简洁，但整体很扎实。",
+        "seoTitle": "@buildsR4K 的 ESP 评测 — 4/5 | PUBG Hack",
+        "seoDescription": "@buildsR4K 为 Windows PC 排位信息给 PUBG Hack ESP 透视评 4/5。"
+      },
+      "pubg-cloud-dma-review-dma-wizard": {
+        "short": "旧外挂死在 VAC 补丁。PUBG Hack 当晚重建，地图上稳定两周。",
+        "text": "上一个作弊在 VAC 更新次日失效。换到 PUBG Hack，重建当晚 loader 就回来了。地图上用 ESP 和雷达，两周仍干净。买了终身版，不再为死掉的外挂月付。",
+        "seoTitle": "@dma_wizard 的更新评测 — 5/5 | PUBG Hack",
+        "seoDescription": "@dma_wizard 在 VAC 更新后给 PUBG Hack 评 5/5 — Windows PC 快速重建。"
+      },
+      "pubg-soft-aim-review-ctrl-player99": {
+        "short": "不懂技术但 PUBG Hack 菜单很简单。调好 FOV 和平滑后，排位里 soft aim 很自然。",
+        "text": "我完全不懂技术。菜单很简单 — 降低 soft aim 的 FOV，提高平滑，去掉 snap。现在在单排和排位里像肌肉记忆。首登支持等了一小时所以 4 星，但许可证密钥很快修好。",
+        "seoTitle": "@ctrl_player99 的 Soft Aim 评测 — 4/5 | PUBG Hack",
+        "seoDescription": "@ctrl_player99 在 Windows PC 排位 FOV 调整后给 PUBG Hack soft aim 评 4/5。"
+      },
+      "pubg-cheat-setup-review-stormchaser07": {
+        "short": "Defender 起初拦截了加载器，但支持两小时内修好。PUBG Hack 的 ESP 在自定义房间很干净。",
+        "text": "进游戏后 PUBG Hack 运行正常。Windows Defender 第一次就拦截了加载器，我很慌。用订单 ID 联系支持，两小时内回复步骤。自定义里 ESP 很干净；还没打满排位。安装折腾所以 3 星，但作弊本身似乎 OK。",
+        "seoTitle": "@stormChaser_07 的安装评测 — 3/5 | PUBG Hack",
+        "seoDescription": "@stormChaser_07 在 Windows PC 支持帮助后给 PUBG Hack 安装评 3/5。"
+      },
+      "pubg-agent-esp-review-weapondrops-goblinx": {
+        "short": "PUBG Hack 的英雄 ESP 提前发现绕后和眼位。比可疑的免费作弊好太多。",
+        "text": "主要想要英雄 ESP 和眼位追踪。PUBG Hack 比大脑更早显示敌方英雄和 gank。知道谁绕后后，和朋友开黑没那么乱。比随机免费外挂好太多。",
+        "seoTitle": "@weaponDropsGoblinx 的英雄 ESP 评测 — 5/5 | PUBG Hack",
+        "seoDescription": "@weaponDropsGoblinx 为 Windows PC 眼位和英雄追踪给 PUBG Hack 英雄 ESP 评 5/5。"
+      },
+      "pubg-soft-aim-session-review-rankedgrind42": {
+        "short": "PUBG Hack 按英雄 aim 配置在排位很有用。VAC 补丁次日恢复。",
+        "text": "新赛季起用 PUBG Hack。按英雄的 aim 配置对远程技能很有帮助 — 远程 carry 和近战手感不同，不错。VAC 补丁后状态页慢，但次日早上 build 就回来了。适合排位长时间刷分。",
+        "seoTitle": "@rankedGrind42 的排位 Soft Aim 评测 — 4/5 | PUBG Hack",
+        "seoDescription": "@rankedGrind42 为 Windows PC 排位英雄技能给 PUBG Hack soft aim 评 4/5。"
+      },
+      "pubg-radar-hack-review-vanlifepubg": {
+        "short": "PUBG Hack 的 2D 雷达在地图上两次抓到绕后。ESP 加雷达组合像真外挂。",
+        "text": "大家都在说 ESP，但 PUBG Hack 的 2D 雷达太强了。一局里不用盯着透视框就在地图上两次抓到绕后。ESP 加雷达像一线外挂。用低透明度，剪辑里不那么显眼。",
+        "seoTitle": "@vanLifePUBG 的雷达评测 — 5/5 | PUBG Hack",
+        "seoDescription": "@vanLifePUBG 为 PUBG 地图绕后检测给 PUBG Hack 雷达评 5/5，Windows PC。"
+      },
+      "pubg-vac-update-review-patchdaymike": {
+        "short": "补丁日通常会搞死 PUBG 外挂。PUBG Hack 次日早上恢复；旧提供商花了四天。",
+        "text": "PUBG 补丁日一半作弊 Discord 都沉默了。PUBG Hack 团队约三小时更新状态，次日早上回到排位队列。旧提供商让我等了四天没有加载器。不完美，但支持比我习惯的好太多。",
+        "seoTitle": "@patchDayMike 的状态评测 — 4/5 | PUBG Hack",
+        "seoDescription": "@patchDayMike 在 PUBG VAC 补丁后给 PUBG Hack 状态更新评 4/5，Windows PC。"
+      },
+      "pubg-operator-soft-aim-review-snipezonly": {
+        "short": "主玩 carry。设置低调时，PUBG Hack 的 soft aim 加 ESP 在地图上效果不同。",
+        "text": "我是 carry 主玩。PUBG Hack 远程 soft aim 配合 ESP 报点，设置低调时非常强。加载器不臃肿，Windows 11 安装简单。地图上排位用过最好的 PUBG 外挂 — 别像傻子一样把 FOV 拉满。",
+        "seoTitle": "@snipezOnly_ 的 Carry Soft Aim 评测 — 5/5 | PUBG Hack",
+        "seoDescription": "@snipezOnly_ 为 Windows PC PUBG ESP 配套 PUBG Hack carry soft aim 评 5/5。"
+      }
+    }
+  },
+  "common": {
+    "buyNow": "Buy PUBG Hack",
+    "readGuide": "Read guide",
+    "language": "Language",
+    "officialLanguageNote": "English is official; other locales are translated.",
+    "relatedPages": "Related pages",
+    "selectLanguage": "选择语言",
+    "englishOfficial": "英语 — 官方语言",
+    "englishIsOfficial": "英语为官方语言",
+    "languageSuggestion": "语言建议",
+    "dismiss": "关闭",
+    "localeVersion": "{{name}} version",
+    "localeSuggestLead": "{{nativeName}} ({{region}}) —",
+    "breadcrumb": "导航路径",
+    "gallery": "图库",
+    "inGameLook": "游戏内效果",
+    "allQuestions": "常见问题",
+    "openAnyQuestion": "打开问题查看完整答案。",
+    "packageStatus": "套餐状态",
+    "productDetails": "产品详情",
+    "browse": "浏览",
+    "featured": "精选",
+    "share": "分享",
+    "shareX": "分享到 X",
+    "shareReddit": "分享到 Reddit",
+    "shareFacebook": "分享到 Facebook",
+    "blog": "论坛",
+    "home": "首页",
+    "support": "支持",
+    "privacy": "隐私",
+    "terms": "条款",
+    "featureList": "功能列表",
+    "pricingPlans": "价格方案",
+    "buyerReviewsNav": "买家评价",
+    "copyright": "© {{year}} {{brand}}",
+    "refundPolicy": "退款",
+    "forums": "论坛"
+  },
+  "footer": {
+    "explore": "探索",
+    "help": "帮助与法律",
+    "tagline": "PUBG ESP、wallhack、radar与Aimbot — 通过checkout结账。",
+    "linkCheatsGuide": "Cheats guide",
+    "linkEspPage": "ESP wallhack",
+    "linkAimbotPage": "Aimbot assist",
+    "linkFeatureList": "Full feature list",
+    "linkPricingPlans": "Pricing & plans",
+    "linkFaqHub": "FAQ answers",
+    "linkForums": "Community forums",
+    "linkSetupGuide": "Install guide",
+    "linkPatchStatus": "Patch status",
+    "linkBuyerReviews": "Customer reviews",
+    "linkSupportDesk": "Support desk",
+    "linkRefundPolicy": "Refund policy",
+    "linkPrivacyPolicy": "Privacy policy",
+    "linkTermsOfUse": "Terms of use"
+  },
+  "home": {
+    "aboutTitle": "PUBG的premium外挂",
+    "aboutP1": "PUBG Windows PC套餐：ESP wallhack、radar、Aimbot，含VAC维护。 价格 · 更新.",
+    "aboutPricingCta": "比较价格",
+    "aboutP2Before": "从",
+    "aboutPillar": "PUBG Hack指南",
+    "aboutEsp": "ESP指南",
+    "aboutAimbot": "自瞄控制",
+    "aboutReliable": "补丁状态",
+    "aboutP2Mid": "、",
+    "aboutP2Or": "，或",
+    "aboutP2After": "开始，如果您还在比较工具。",
+    "playDemoVideo": "Play PUBG hacks demo video",
+    "pauseDemoVideo": "Pause PUBG hacks demo video",
+    "demoVideoCaption": "PUBG Hack — ESP, aimbot & radar in match",
+    "volumeLabel": "Volume",
+    "muteVideo": "Mute video",
+    "unmuteVideo": "Unmute video",
+    "seekLabel": "Video progress",
+    "aboutStatus": "premium状态"
+  },
+  "homeSeo": {
+    "eyebrow": "Explore",
+    "title": "相关页面 by category",
+    "lede": "功能, 更新, 价格, 常见问题.",
+    "catFeatures": "功能",
+    "catFeaturesHint": "功能",
+    "catStatus": "更新",
+    "catStatusHint": "更新",
+    "catStore": "价格",
+    "catStoreHint": "价格",
+    "catHelp": "常见问题",
+    "catHelpHint": "常见问题",
+    "linkAllFeatures": "功能",
+    "linkEsp": "ESP",
+    "linkAimbot": "Aimbot",
+    "linkRadar": "Radar",
+    "linkLiveStatus": "更新",
+    "linkReliableCheats": "PUBG hacks guide",
+    "linkVAC": "VAC",
+    "linkSetup": "安装",
+    "linkPlans": "价格",
+    "linkReviews": "玩家评价",
+    "linkBuyerReviews": "Review hub",
+    "linkFinalsCheats": "PUBG Hack",
+    "linkFaqHub": "FAQ hub",
+    "linkFaq": "常见问题",
+    "linkSupport": "Support",
+    "linkSetupGuide": "安装",
+    "linkBlog": "论坛",
+    "linkRefunds": "Refunds",
+    "faqEyebrow": "常见问题",
+    "faqTitle": "常见问题",
+    "faqLede": "即时数字交付",
+    "allAnswers": "常见问题",
+    "openFullPage": "阅读指南",
+    "readAnswer": "Read answer: {{question}}",
+    "linkPatchStatus": "补丁状态"
+  },
+  "deals": {
+    "pricing": "价格",
+    "chooseLicense": "价格",
+    "features": "功能",
+    "featEsp": "ESP / wallhack",
+    "featAim": "技能辅助",
+    "featRadar": "2D radar",
+    "featUpdates": "更新"
+  },
+  "trustStrip": {
+    "instantDelivery": "即时数字交付",
+    "secureCheckout": "立即购买",
+    "support247": "24/7"
+  },
+  "categoryRow": {
+    "hacks": "Cheats",
+    "esp": "ESP",
+    "aimbot": "Aimbot",
+    "radar": "Radar",
+    "wallhack": "Wallhack",
+    "features": "功能",
+    "pricing": "价格",
+    "setup": "安装",
+    "blog": "论坛",
+    "forums": "论坛",
+    "premium": "Premium套餐"
+  },
+  "internalLinks": {
+    "relatedLede": "PUBG Hack — 相关页面.",
+    "topicsTitle": "功能",
+    "topicsLabel": "功能",
+    "topicsLede": "ESP, Aimbot, 价格, 安装, 更新.",
+    "overview": "PUBG Hack",
+    "esp": "ESP & wallhack",
+    "aimbot": "Aimbot",
+    "radar": "Radar",
+    "features": "功能",
+    "pricing": "价格",
+    "setup": "安装",
+    "status": "更新",
+    "faq": "常见问题",
+    "support": "Support",
+    "blog": "论坛 PUBG",
+    "reviews": "玩家评价",
+    "hacks": "Cheats",
+    "patchStatus": "Patch status",
+    "premium": "Premium套餐"
+  },
+  "externalResources": {
+    "title": "Guías oficiales del juego y recursos",
+    "lede": "Enlazamos fuentes de confianza para verificar parches, estadísticas y mapas fuera de nuestro sitio.",
+    "pillsTitle": "Guías oficiales del juego y recursos",
+    "pillsLabel": "Guías oficiales del juego y recursos",
+    "steam": {
+      "label": "PUBG en PC",
+      "note": "Página oficial de la tienda, requisitos y reseñas."
+    },
+    "patch": {
+      "label": "Parches y noticias de PUBG",
+      "note": "Lee actualizaciones oficiales antes de cambiar tu loadout."
+    },
+    "official": {
+      "label": "Sitio oficial de PUBG",
+      "note": "Resumen del juego de KRAFTON."
+    },
+    "wiki": {
+      "label": "Wiki de PUBG (Fandom)",
+      "note": "Estadísticas, mapas y mecánicas de supervivencia."
+    },
+    "community": {
+      "label": "Hub de PUBG community",
+      "note": "Anuncios y debates de la comunidad."
+    }
+  },
+  "images": {
+    "hero": "PUBG Hack overlay — ESP and aimbot in PUBG",
+    "espWallhack": "Wallhack outlines showing players through walls",
+    "aimbotCombat": "Skillshot assist overlay during a PUBG match",
+    "squadFight": "PUBG Hack combat overlay during a team fight",
+    "playerEsp": "Player ESP boxes and distance readouts in a PUBG match",
+    "headerArt": "Aimbot view and bone priority controls for PUBG",
+    "hacksPackage": "2D radar threat overlay for PUBG",
+    "raidFight": "Aimbot assist during a PUBG competitive fight",
+    "battleRoyale": "PUBG Hack in-session overview for Windows PC",
+    "raidMap": "ESP markers for player item builds and POIs in PUBG",
+    "heroFight": "PUBG Hack combat overlay during a team fight"
+  },
+  "blog": {
+    "blogTitle": "PUBG Hack Forums | Setup Tips & Feature Talk",
+    "blogDescription": "PUBG hacks forums with setup walkthroughs, ESP settings, skillshot assist sliders, and BattlEye patch notes for PC at pubg-hack.org/forums/.",
+    "blogH1": "Community Forums",
+    "blogIntro": "Setup guides, feature breakdowns, and patch-day threads from players running PUBG hacks on PC.",
+    "readMore": "Read guide",
+    "published": "Published",
+    "updated": "Updated",
+    "relatedPosts": "Related PUBG guides",
+    "allPosts": "All blog posts",
+    "home": "PUBG Hack home",
+    "language": "Language",
+    "label": "PUBG Intel",
+    "categories": {
+      "Setup": "安装",
+      "ESP": "ESP",
+      "Aimbot": "Aimbot",
+      "Features": "功能",
+      "Maphack": "Maphack",
+      "Scripts": "脚本",
+      "Camera": "镜头",
+      "Troubleshooting": "故障排除",
+      "Pricing": "价格",
+      "Radar": "雷达",
+      "Combo Scripts": "连招脚本",
+      "VAC": "VAC"
+    }
+  },
+  "gallery": {
+    "eyebrow": "PUBG Hack",
+    "title": "PUBG Hack gallery",
+    "subtitle": "PUBG Hack visuals — ESP, wallhack, aimbot, and radar for PUBG on PC.",
+    "lead": "PUBG Hack helps you spot enemy players, wards, and objectives with ESP, skillshot assist, and radar in one license.",
+    "highlightEspTitle": "PUBG Hack ESP",
+    "highlightEspCopy": "See enemy players through fog with PUBG Hack ESP and wallhack overlays.",
+    "highlightRadarTitle": "PUBG Hack radar",
+    "highlightRadarCopy": "Track nearby threats with PUBG Hack radar before you push or rotate.",
+    "highlightAimbotTitle": "PUBG Hack aimbot",
+    "highlightAimbotCopy": "Use skillshot assist and aimbot controls tuned for PUBG matches on Windows PC.",
+    "updatesLabel": "PUBG Hack updates",
+    "updatesShort": "Updates"
+  },
+  "faq": {
+    "items": {
+      "what-are-pubg-cheats": {
+        "q": "¿Qué es PUBG Hack?",
+        "a": "PUBG Hack es un paquete de trucos para PUBG en PC Windows. Incluye ESP wallhack, radar 2D y asistencia de skillshot, con mantenimiento VAC y soporte de instalación."
+      },
+      "are-pubg-cheats-reliable-in-2026": {
+        "q": "¿Se mantienen los trucos de PUBG en 2026?",
+        "a": "PUBG Hack se actualiza tras parches de VAC y del juego. Revisa la 状态 antes de entrar en cola. Ningún cheat puede garantizar detección cero permanente."
+      },
+      "solo-farmer-and-raider-sessions": {
+        "q": "适用于大逃杀回合和排位赛吗？",
+        "a": "是的。ESP、雷达和自瞄专为 PUBG 对局流程设计 — 读取敌方英雄、追踪物资和 utility placements，在 ranked 和 Ranked 中关注 POI 与战斗区域。"
+      },
+      "esp-wallhack-radar-or-aimbot": {
+        "q": "¿Qué incluye: ESP, wallhack, radar o aimbot?",
+        "a": "PUBG Hack agrupa ESP wallhack, marcadores de wards, radar 2D y skillshot assist configurable en una licencia. Consulta 功能 para la lista completa."
+      },
+      "how-are-licenses-delivered": {
+        "q": "¿Cómo se entregan las licencias?",
+        "a": "Tras confirmar el pago, los datos de la licencia se entregan digitalmente en el checkout. El tiempo puede variar según el método de pago. Guarda la confirmación del pedido si contactas soporte."
+      },
+      "where-to-check-updates": {
+        "q": "¿Dónde reviso actualizaciones tras un parche de PUBG o VAC?",
+        "a": "Las notas de mantenimiento se publican en la 状态 cuando un parche afecta al paquete. Es el lugar más rápido para confirmar si hay una nueva build."
+      },
+      "how-to-contact-support": {
+        "q": "¿Cómo contacto soporte?",
+        "a": "Usa la página de 支持 o escribe a support@pubg-hack.org. Incluye los datos del pedido y una descripción clara del problema de instalación."
+      },
+      "what-is-a-pubg-wallhack": {
+        "q": "什么是 PUBG wallhack？",
+        "a": "PUBG wallhack 是一种 ESP 覆盖层，可透过地形显示敌方英雄。PUBG Hack 包含距离读数、钩锁与大招提示，以及可切换类别。"
+      },
+      "does-pubg-cheats-include-radar-hack": {
+        "q": "¿PUBG Hack incluye radar hack?",
+        "a": "Sí. PUBG Hack incluye overlays de radar 2D que resaltan amenazas cercanas fuera de tu campo de visión, útil para ganks y rotaciones."
+      },
+      "vac-anti-cheat-and-pubg-cheats": {
+        "q": "¿Cómo afecta VAC a los trucos de PUBG?",
+        "a": "VAC monitoriza PUBG en PC Windows. PUBG Hack publica notas de mantenimiento tras parches que pueden requerir una nueva build. Revisa 状态 antes de jugar."
+      },
+      "buy-reliable-pubg-cheats-windows-pc": {
+        "q": "¿Puedo comprar trucos de PUBG para PC Windows?",
+        "a": "Sí: PUBG Hack vende licencias mensuales y de por vida para PC Windows con ESP, radar y skillshot assist en un solo paquete. Compara planes en la 商店 antes del checkout."
+      },
+      "how-much-do-pubg-cheats-cost": {
+        "q": "How much do PUBG hacks cost in 2026?",
+        "a": "PUBG Hack is $35 per month or $150 lifetime USD on Windows PC. Both plans include ESP wallhack, 2D radar, skillshot assist, and BattlEye maintenance rebuilds. See Pricing for the latest plan details before checkout."
+      },
+      "what-is-pubg-esp-hack": {
+        "q": "什么是 PUBG ESP hack？",
+        "a": "PUBG ESP hack 是一种可见性覆盖层，可透过墙壁显示敌方英雄、武器和物资。PUBG Hack ESP 包含玩家框、距离标签、钩锁与大招提示，以及 ranked 和 Ranked 的可切换类别。"
+      },
+      "what-is-pubg-aimbot-hack": {
+        "q": "什么是 PUBG aimbot hack？",
+        "a": "PUBG aimbot hack 提供可配置 FOV、平滑度和骨骼优先级的瞄准辅助。PUBG Hack 使用在团战和决斗中感觉自然的技能辅助配置 — 在 Ranked 排队前于 mod 菜单调整。"
+      },
+      "how-to-install-pubg-cheats": {
+        "q": "How do I install PUBG hacks on Windows PC?",
+        "a": "After checkout, follow the Setup guide: download the loader, disable conflicting overlays, launch PUBG Hack, and enable ESP, radar, or aimbot toggles in the mod menu. Most buyers finish first launch in under 15 minutes. Email support@pubg-hack.org if activation fails."
+      },
+      "best-pubg-cheats-in-2026": {
+        "q": "What are the best PUBG hacks in 2026?",
+        "a": "Top PUBG hacks in 2026 combine ESP, skillshot assist, 2D radar, and fast BattlEye maintenance after patches. PUBG Hack bundles all three in one license with status notes, setup support, and monthly or lifetime pricing — compare Features and Reviews before you buy."
+      },
+      "monthly-vs-lifetime-pubg-cheats": {
+        "q": "Should I buy monthly or lifetime PUBG hacks?",
+        "a": "Choose monthly ($35) if you want a lower entry cost or only play a few seasons. Choose lifetime ($150) if you plan long-term PUBG play and want one payment for ESP, radar, aimbot, and future maintenance rebuilds. Both plans ship the same feature set."
+      },
+      "pubg-cheats-windows-11": {
+        "q": "Do PUBG hacks work on Windows 11?",
+        "a": "Yes. PUBG Hack supports Windows 10 and Windows 11 on PC. Use a clean install path from the Setup guide, keep VAC status green on the Updates page, and avoid running outdated builds after major patches."
+      },
+      "what-is-pubg-soft-aim": {
+        "q": "什么是 PUBG Skillshot assist？",
+        "a": "PUBG Skillshot assist 在设定 FOV 内温和引导瞄准，而非瞬间吸附。PUBG Hack 可调整平滑度、骨骼优先级和按武器类型的配置，在 ranked 和 Ranked 中保持可控辅助。"
+      },
+      "free-pubg-cheat-download": {
+        "q": "Is there a free PUBG hack download?",
+        "a": "PUBG Hack is a paid license — there is no official free download. Avoid random “free PUBG hack” sites; they often ship malware or detected loaders. Compare monthly and lifetime plans on Pricing for legitimate ESP, radar, and aimbot access with support."
+      },
+      "pubg-vac-bypass": {
+        "q": "PUBG hacks 的 BattlEye maintenance 如何运作？",
+        "a": "没有永久的 BattlEye maintenance。PUBG Hack 在 PUBG 和 VAC 补丁后通过重建维护 — 排队前请查看更新页面。负责任的设置和最新版本比任何“bypass”宣传更重要。"
+      },
+      "pubg-cheats-for-ranked": {
+        "q": "PUBG hacks 在排位竞技中可用吗？",
+        "a": "是的。ESP、雷达和技能辅助专为 Windows PC 上 PUBG 的 Ranked 和 ranked 设计。使用保守的覆盖层设置，补丁后阅读维护说明，并在竞技排队前于更新页面确认 状态。"
+      },
+      "what-is-pubg-mod-menu": {
+        "q": "What is a PUBG mod menu?",
+        "a": "A PUBG mod menu is an in-game overlay to toggle ESP wallhack, radar, aimbot, and visual settings without alt-tabbing. PUBG Hack ships a lightweight mod menu for Windows PC — see Features for the full toggle list."
+      },
+      "external-vs-internal-pubg-cheats": {
+        "q": "What is the difference between external and internal PUBG hacks?",
+        "a": "External hacks read game memory from outside the client; internal hooks run inside the process. PUBG Hack is built as an external-style package for easier setup on Windows PC, bundling ESP, radar, and skillshot assist with BattlEye maintenance after patches."
+      },
+      "how-long-pubg-cheat-setup-takes": {
+        "q": "How long does PUBG hacks setup take?",
+        "a": "Most buyers finish PUBG Hack setup in 10–20 minutes on Windows PC: install the loader, activate the license, and enable ESP or aimbot in the mod menu. If Windows Defender or another AV blocks the loader, follow Setup troubleshooting or email support@pubg-hack.org with your order ID."
+      },
+      "does-pubg-cheats-include-triggerbot": {
+        "q": "Does PUBG Hack include triggerbot?",
+        "a": "PUBG Hack focuses on ESP wallhack, 2D radar, and skillshot assist profiles. Triggerbot is not advertised as a standalone module — review the Features page for the current toggle list before checkout."
+      }
+    }
+  },
+  "media": {
+    "demoVideoTitle": "PUBG Hack ESP, Aimbot demo",
+    "playVideo": "Play video"
+  },
+  "agent": {
+    "accent": "2026 — ESP, Aimbot & Wallhack",
+    "accentShort": "PUBG hacks 2026",
+    "title": "PUBG Hack",
+    "subtitle": "ESP, aimbot, and wallhack for PUBG on Windows PC — BattlEye maintenance included.",
+    "subtitleShort": "ESP, aimbot & wallhack for PUBG PC",
+    "buyNow": "Buy PUBG Hack",
+    "seeFeatures": "See Features",
+    "priceFrom": "from",
+    "imageAlt": "{{brand}} — PUBG ESP and aimbot overlay",
+    "chipEsp": "ESP / wallhack",
+    "chipAim": "Skillshot assist",
+    "chipRadar": "Radar overlay",
+    "chipUpdates": "Patch updates"
+  },
+  "notFound": {
+    "title": "页面未找到",
+    "metaTitle": "页面未找到 | {{brand}}",
+    "metaDescription": "{{brand}} 页面不存在。返回首页或浏览功能、商店、安装、评价和论坛。",
+    "body": "您打开的 URL 不在 {{brand}} 上。请使用下方链接查看 {{game}} 的 ESP、自瞄、商店和安装（Windows PC）。",
+    "backHome": "返回 {{brand}} 首页",
+    "gamePreview": "{{game}} 预览",
+    "store": "商店",
+    "reviews": "评价",
+    "forums": "论坛",
+    "support": "支持"
+  },
+  "player": {
+    "accent": "PUBG作弊",
+    "accentShort": "PUBG Hack",
+    "title": "PUBG Hack",
+    "subtitle": "适用于PUBG Windows PC的ESP wallhack、radar hack和Aimbot — 含VAC维护。",
+    "subtitleShort": "PUBG PC版ESP、radar与Aimbot",
+    "buyNow": "立即购买",
+    "seeFeatures": "查看功能",
+    "priceFrom": "from",
+    "imageAlt": "{{brand}} — PUBG ESP 与自瞄叠加",
+    "chipEsp": "ESP / 透视",
+    "chipAim": "技能辅助",
+    "chipRadar": "雷达叠加",
+    "chipUpdates": "补丁更新"
+  }
+}

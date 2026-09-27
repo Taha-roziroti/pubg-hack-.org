@@ -1,0 +1,12 @@
+---
+import { blogPosts } from '../../../data/blog/helpers';
+
+export function getStaticPaths() {
+	return blogPosts.map((post) => ({
+		params: { slug: post.translations.en.slug },
+	}));
+}
+
+const slug = Astro.params.slug ?? '';
+return Astro.redirect(`/forums/${slug}/`, 301);
+---

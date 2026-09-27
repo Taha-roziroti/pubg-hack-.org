@@ -1,0 +1,305 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navbar from './Navbar.astro';
+import SiteFooter from './SiteFooter.astro';
+import { blogUi, type LocaleCode, defaultLocale } from '../data/i18n/locales';
+import {
+	absoluteBlogUrl,
+	getAllPostsForLocale,
+	getBlogBasePath,
+	getBlogListPosts,
+	getFeaturedPosts,
+	getBlogIndexHreflangAlternates,
+} from '../data/blog/helpers';
+import { siteConfig } from '../data/site';
+import { brandSeo, seoPageTitle } from '../data/site-core';
+import { seoDescription } from '../data/brand';
+import { getLocalizedPath } from '../data/i18n/routing';
+import { blogIndexTopicLinks } from '../data/internal-links';
+import RelatedPages from './RelatedPages.astro';
+import ExternalResources from './ExternalResources.astro';
+import { getT } from '../i18n/server';
+
+interface Props {
+	locale: LocaleCode;
+}
+
+const { locale } = Astro.props;
+const ui = blogUi[locale];
+const t = getT(locale);
+const posts = getBlogListPosts(locale);
+const allPosts = getAllPostsForLocale(locale);
+const featuredSlugs = new Set(getFeaturedPosts(locale, 3).map((post) => post.translation.slug));
+const canonicalPath = getBlogBasePath(locale);
+const canonicalURL = absoluteBlogUrl(locale);
+const hreflangAlternates = getBlogIndexHreflangAlternates(locale);
+const homeHref = getLocalizedPath('home', locale);
+
+const pageTitle = locale === defaultLocale ? seoPageTitle(brandSeo.blogTitle) : ui.blogTitle;
+const pageDescription =
+	locale === defaultLocale ? seoDescription(brandSeo.blogDescription) : ui.blogDescription;
+
+const articleListSchema = {
+	'@type': 'CollectionPage',
+	'@id': `${canonicalURL}#collection`,
+	name: ui.blogH1,
+	description: pageDescription,
+	url: canonicalURL,
+	inLanguage: locale,
+	isPartOf: { '@id': `${siteConfig.url}/#website` },
+	mainEntity: {
+		'@type': 'ItemList',
+		itemListElement: allPosts.map((post, i) => ({
+			'@type': 'ListItem',
+			position: i + 1,
+			url: absoluteBlogUrl(locale, post.translation.slug),
+			name: post.translation.title,
+		})),
+	},
+};
+---
+
+<Layout
+	title={pageTitle}
+	description={pageDescription}
+	canonicalPath={canonicalPath}
+	hreflangAlternates={hreflangAlternates}
+	locale={locale}
+	ogImage={siteConfig.defaultOgImage}
+	ogImageAlt={ui.blogH1}
+	breadcrumbs={[{ label: ui.home, href: homeHref }, { label: ui.blogH1 }]}
+	extraGraph={[articleListSchema]}
+>
+	<Navbar locale={locale} />
+	<main id="main-content" class="blog">
+		<div class="shell blog__inner">
+			<header class="blog__hero">
+				<h1>{ui.blogH1}</h1>
+				<p class="blog__intro">{ui.blogIntro}</p>
+			</header>
+
+			<ExternalResources locale={locale} class="blog__external blog__external--top" />
+
+			<section class="blog__threads" aria-label={ui.allPosts}>
+				<ul class="blog__thread-list">
+					{
+						posts.map((post) => (
+							<li class:list={['blog__thread', { 'blog__thread--featured': featuredSlugs.has(post.translation.slug) }]}>
+								<a class="blog__thread-link" href={post.canonicalPath}>
+									<div class="blog__thread-main">
+										{featuredSlugs.has(post.translation.slug) ? (
+											<span class="blog__thread-flag">{t('common.featured')}</span>
+										) : null}
+										<h2>{post.translation.title}</h2>
+										<p>{post.translation.intro}</p>
+									</div>
+									<div class="blog__thread-meta">
+										<span class="blog__thread-date">
+											{ui.updated} {post.updated}
+										</span>
+										<span class="blog__thread-arrow" aria-hidden="true">→</span>
+									</div>
+								</a>
+							</li>
+						))
+					}
+				</ul>
+			</section>
+
+			<RelatedPages locale={locale} variant="topics" links={blogIndexTopicLinks} class="blog__topics" />
+		</div>
+	</main>
+	<SiteFooter locale={locale} />
+</Layout>
+
+<style>
+	.blog {
+		padding: 2.5rem 0 4rem;
+		background:
+			radial-gradient(ellipse 80% 50% at 50% -10%, color-mix(in srgb, var(--magenta) 8%, transparent), transparent 55%),
+			var(--bg);
+	}
+
+	.blog__inner {
+		display: grid;
+		gap: 0;
+	}
+
+	.blog__player {
+		margin-bottom: 1.75rem;
+		padding-bottom: 1.5rem;
+		border-bottom: 1px solid var(--line-soft);
+	}
+
+	.blog__player h1 {
+		margin: 0 0 0.85rem;
+		font-family: var(--font-display);
+		font-size: clamp(2rem, 4.5vw, 2.85rem);
+		font-weight: 800;
+		letter-spacing: 0.05em;
+		line-height: 1.08;
+		color: var(--ink-heading);
+	}
+
+	.blog__intro {
+		max-width: 42rem;
+		margin: 0;
+		color: var(--ink-secondary);
+		font-size: 1.02rem;
+		line-height: 1.7;
+	}
+
+	.blog__external--top {
+		margin-bottom: 1.5rem;
+	}
+
+	.blog__threads {
+		margin-top: 0.5rem;
+	}
+
+	.blog__thread-list {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		display: grid;
+		gap: 0.65rem;
+	}
+
+	.blog__thread-link {
+		display: grid;
+		grid-template-columns: minmax(0, 1fr) auto;
+		gap: 1rem 1.5rem;
+		align-items: center;
+		padding: 1.1rem 1.15rem;
+		border: 1px solid var(--line);
+		border-radius: var(--radius-md, 0.75rem);
+		background: var(--bg-panel);
+		text-decoration: none;
+		color: inherit;
+		transition:
+			border-color 0.2s ease,
+			background 0.2s ease,
+			transform 0.2s ease;
+	}
+
+	.blog__thread--featured .blog__thread-link {
+		border-color: color-mix(in srgb, var(--magenta) 28%, var(--line));
+		background: linear-gradient(
+			135deg,
+			color-mix(in srgb, var(--magenta) 7%, var(--bg-panel)),
+			var(--bg-panel)
+		);
+	}
+
+	.blog__thread-link:hover {
+		border-color: color-mix(in srgb, var(--magenta) 35%, var(--line));
+		background: color-mix(in srgb, var(--magenta) 5%, var(--bg-panel));
+	}
+
+	.blog__thread-main {
+		min-width: 0;
+	}
+
+	.blog__thread-flag {
+		display: inline-block;
+		margin-bottom: 0.35rem;
+		color: var(--magenta-soft);
+		font-size: 0.68rem;
+		font-weight: 700;
+		letter-spacing: 0.08em;
+		text-transform: uppercase;
+	}
+
+	.blog__thread-main h2 {
+		margin: 0 0 0.45rem;
+		font-family: var(--font-display);
+		font-size: clamp(1rem, 2.2vw, 1.15rem);
+		font-weight: 700;
+		line-height: 1.35;
+		letter-spacing: 0.04em;
+		color: var(--ink);
+	}
+
+	.blog__thread-main p {
+		margin: 0;
+		color: var(--ink-muted);
+		font-size: 0.92rem;
+		line-height: 1.55;
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+	}
+
+	.blog__thread-meta {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-end;
+		gap: 0.35rem;
+		flex-shrink: 0;
+	}
+
+	.blog__thread-date {
+		color: var(--ink-faint);
+		font-size: 0.78rem;
+		font-weight: 600;
+		white-space: nowrap;
+	}
+
+	.blog__thread-arrow {
+		color: var(--magenta-soft);
+		font-size: 1.1rem;
+		line-height: 1;
+		transition: transform 0.2s ease;
+	}
+
+	.blog__thread-link:hover .blog__thread-arrow {
+		transform: translateX(3px);
+	}
+
+	.blog__topics {
+		margin-top: 2.75rem;
+	}
+
+	@media (max-width: 720px) {
+		.blog {
+			padding: 1.75rem 0 max(2.5rem, var(--safe-bottom));
+		}
+
+		.blog__player {
+			margin-bottom: 1.25rem;
+			padding-bottom: 1.15rem;
+		}
+
+		.blog__player h1 {
+			font-size: clamp(1.65rem, 7vw, 2.25rem);
+		}
+
+		.blog__intro {
+			font-size: 0.95rem;
+		}
+
+		.blog__thread-link {
+			grid-template-columns: 1fr;
+			gap: 0.65rem;
+			padding: 0.95rem 1rem;
+		}
+
+		.blog__thread-meta {
+			flex-direction: row;
+			align-items: center;
+			justify-content: space-between;
+			width: 100%;
+		}
+
+		.blog__topics {
+			margin-top: 2rem;
+		}
+	}
+
+	@media (hover: hover) and (pointer: fine) {
+		.blog__thread-link:hover {
+			transform: translateY(-2px);
+		}
+	}
+</style>

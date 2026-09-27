@@ -1,0 +1,76 @@
+---
+import { getT } from '../i18n/server';
+import type { LocaleCode } from '../data/i18n/locales';
+
+export type LocaleMeta = {
+	code: string;
+	name: string;
+	nativeName: string;
+	hreflang: string;
+	region: string;
+};
+
+interface Props {
+	locale: LocaleCode;
+	locales: LocaleMeta[];
+	hrefForLocale: Record<string, string>;
+}
+
+const { locale, locales, hrefForLocale } = Astro.props;
+const t = getT(locale);
+const currentMeta = locales.find((l) => l.code === locale) ?? locales[0];
+const note =
+	locale === 'en' ? t('common.englishOfficial') : t('common.englishIsOfficial');
+---
+
+<details class="lang-switcher">
+	<summary class="lang-switcher__toggle" aria-label={t('common.selectLanguage')}>
+		<svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+			<circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.6"></circle>
+			<path
+				d="M3 12h18M12 3c2.5 2.8 3.8 6 3.8 9s-1.3 6.2-3.8 9M12 3c-2.5 2.8-3.8 6-3.8 9s1.3 6.2 3.8 9"
+				stroke="currentColor"
+				stroke-width="1.6"></path>
+		</svg>
+		<span>{currentMeta.nativeName}</span>
+	</summary>
+	<div class="lang-switcher__panel">
+		<p class="lang-switcher__note">{note}</p>
+		<ul class="lang-switcher__list">
+			{
+				locales.map((item) => {
+					const href = hrefForLocale[item.code] ?? `/${item.code}/`;
+					const isCurrent = item.code === locale;
+					return (
+						<li>
+							<a
+								href={href}
+								hreflang={item.hreflang}
+								lang={item.code}
+								class:list={['lang-switcher__link', { 'is-current': isCurrent }]}
+								aria-current={isCurrent ? 'page' : undefined}
+								data-locale={item.code}
+							>
+								<span class="lang-switcher__native">{item.nativeName}</span>
+								<span class="lang-switcher__region">{item.region}</span>
+							</a>
+						</li>
+					);
+				})
+			}
+		</ul>
+	</div>
+</details>
+
+<script is:inline>
+	document.addEventListener(
+		'click',
+		(e) => {
+			const link = e.target instanceof Element ? e.target.closest('[data-locale]') : null;
+			if (!link) return;
+			const code = link.getAttribute('data-locale');
+			if (code) document.cookie = `vc_locale=${code};path=/;max-age=31536000;SameSite=Lax`;
+		},
+		true,
+	);
+</script>

@@ -1,0 +1,10 @@
+---
+import NotFoundPage from '../components/NotFoundPage.astro';
+import { defaultLocale, isLocaleCode } from '../data/i18n/locales';
+
+const segments = Astro.url.pathname.split('/').filter(Boolean);
+const maybeLocale = segments[0] ?? '';
+const locale = isLocaleCode(maybeLocale) ? maybeLocale : defaultLocale;
+---
+
+<NotFoundPage locale={locale} canonicalPath={Astro.url.pathname} />

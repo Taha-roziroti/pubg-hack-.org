@@ -1,0 +1,6 @@
+---
+import { englishPaths } from '../../data/i18n/routing';
+import { getCannibalTargetId } from '../../data/seo-cannibal-map';
+
+return Astro.redirect(englishPaths[getCannibalTargetId('unlock-all') as keyof typeof englishPaths] ?? '/', 301);
+---
