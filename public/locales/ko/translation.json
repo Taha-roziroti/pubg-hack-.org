@@ -23,7 +23,7 @@
     "accent": "PUBG 치트",
     "accentShort": "PUBG Hack",
     "title": "PUBG Hack",
-    "subtitle": "PUBG Windows PC용 ESP wallhack, radar hack, Aimbot — VAC 유지보수 포함.",
+    "subtitle": "PUBG Windows PC용 ESP wallhack, radar hack, Aimbot — BattlEye 유지보수 포함.",
     "subtitleShort": "PUBG PC용 ESP, radar, Aimbot",
     "buyNow": "지금 구매",
     "seeFeatures": "기능 보기",
@@ -50,8 +50,8 @@
     "statusShort": "가동 중",
     "delivery": "즉시 디지털 배송",
     "platform": "Windows 10 & 11",
-    "antiCheat": "VAC 유지보수 지원",
-    "antiCheatShort": "VAC 지원"
+    "antiCheat": "BattlEye 유지보수 지원",
+    "antiCheatShort": "BattlEye 지원"
   },
   "product": {
     "title": "PUBG Hack",
@@ -220,7 +220,7 @@
   },
   "home": {
     "aboutTitle": "PUBG용 치트",
-    "aboutP1": "PUBG Windows PC 패키지: ESP wallhack, radar, Aimbot, VAC 유지보수 포함. 가격 · 업데이트.",
+    "aboutP1": "PUBG Windows PC 패키지: ESP wallhack, radar, Aimbot, BattlEye 유지보수 포함. 가격 · 업데이트.",
     "aboutPricingCta": "가격 비교",
     "aboutP2Before": "먼저",
     "aboutPillar": "PUBG Hack 가이드",
@@ -257,12 +257,12 @@
     "linkRadar": "Radar",
     "linkLiveStatus": "업데이트",
     "linkReliableCheats": "PUBG hacks guide",
-    "linkVAC": "VAC",
+    "linkBattlEye": "BattlEye",
     "linkSetup": "설치",
     "linkPlans": "가격",
     "linkReviews": "플레이어 후기",
     "linkBuyerReviews": "Review hub",
-    "linkFinalsCheats": "PUBG Hack",
+    "linkPillarHacks": "PUBG hacks",
     "linkFaqHub": "FAQ hub",
     "linkFaq": "FAQ",
     "linkSupport": "Support",
@@ -478,7 +478,7 @@
       },
       "pubg-cheats-windows-11": {
         "q": "Do PUBG hacks work on Windows 11?",
-        "a": "Yes. PUBG Hack supports Windows 10 and Windows 11 on PC. Use a clean install path from the Setup guide, keep VAC status green on the Updates page, and avoid running outdated builds after major patches."
+        "a": "Yes. PUBG Hack supports Windows 10 and Windows 11 on PC. Use a clean install path from the Setup guide, keep BattlEye status green on the Updates page, and avoid running outdated builds after major patches."
       },
       "what-is-pubg-soft-aim": {
         "q": "PUBG Skillshot assist이란?",
@@ -549,7 +549,7 @@
     "accent": "PUBG 치트",
     "accentShort": "PUBG Hack",
     "title": "PUBG Hack",
-    "subtitle": "PUBG Windows PC용 ESP wallhack, radar hack, Aimbot — VAC 유지보수 포함.",
+    "subtitle": "PUBG Windows PC용 ESP wallhack, radar hack, Aimbot — BattlEye 유지보수 포함.",
     "subtitleShort": "PUBG PC용 ESP, radar, Aimbot",
     "buyNow": "지금 구매",
     "seeFeatures": "기능 보기",

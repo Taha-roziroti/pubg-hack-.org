@@ -253,7 +253,7 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 			{
 				h2: 'patch status & patches',
 				paragraphs: [
-					'PUBG uses VAC. No cheat stays reliable forever — maintenance after patches is what matters. Check the Status page after every PUBG or BattlEye update before you load in.',
+					'PUBG uses BattlEye. No cheat stays reliable forever — maintenance after patches is what matters. Check the Status page after every PUBG or BattlEye update before you load in.',
 				],
 				list: [
 					'<a href="/updates/">Live status & patch notes</a>',

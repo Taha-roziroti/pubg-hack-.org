@@ -29,11 +29,11 @@ Every product page must follow:
 
 | Nav label | Purpose | Do not rename meaning |
 |-----------|---------|------------------------|
-| Preview | What the product is | Not a blog |
+| Preview | What the product is (EN nav: **Hacks** → `/pubg-cheats/`) | Not a blog |
 | Features | What’s included | Not pricing |
-| Store | Plans / buy | Not feature list |
-| Status | Patch / undetected updates | Not changelog essay |
-| Reviews | Social proof | Keep real reviews |
+| Store | Plans / buy (EN nav: **Store** → `/pubg-cheat-price/`) | Not feature list |
+| Status | Patch maintenance updates (EN nav: **Updates**) | Not “undetected” claims |
+| Reviews | Social proof (`/pubg-cheat-reviews/`) | Keep real reviews |
 
 ## Tokens to swap for a new game
 
@@ -44,11 +44,14 @@ Then run `npm run sync:brand` (also runs on `prebuild`). Brand Studio does this 
 Also update as needed:
 
 - FAQs / reviews meta in `src/data/site.ts` (keep `{brand}` `{game}` `{antiCheat}` `{email}` tokens)
-- EN copy in `src/data/i18n/simple-pages.ts`
-- Images + `src/data/rust.ts` paths
-- Sitemap labels in `brand.sitemap` (or Brand Studio → Sitemap) — domain is always `brand.url` (Site URL); XML regenerates from routes + that domain
-- Site colors in `brand.theme` (or Brand Studio → Colors) — accent + bg; soft/deep/panels auto-derive
-- Keyword landing hrefs if slugs change
+- EN copy in `src/data/i18n/simple-pages.ts` and keyword hubs in `src/data/pubg-keyword-pages.ts`
+- Owner keywords: `src/data/pubg-keyword-registry.ts` (one term → one URL; no stuffing)
+- Images: `src/data/product-images.ts`, `public/images/pubg-screenshot-*.webp`, hero `public/videos/PUBG_Cinematic_5s_removed_1080p60.webp`
+- Sitemap labels in `brand.sitemap` — domain is always `brand.url`; run `npm run sync:brand` before build
+- Site colors in `brand.theme` — PUBG canvas: `#0D0A14` main, `#0F0C18` panel, `#0E0B17` hover, `#0F0C19` elevated, `#040306` edge/shadow
+- Canonical keyword URLs (EN): `/`, `/pubg-cheats/`, `/pubg-cheat-price/`, `/best-pubg-cheats/`, `/pubg-cheat-reviews/`, `/pubg-aimbot/`, `/pubg-esp/`
+- Anti-cheat copy must use **BattlEye** (`{antiCheat}`), not VAC or other games
+- Purchase CTAs → `brand.checkoutUrl` with `rel="sponsored nofollow"` (no affiliate disclosure page)
 
 Do **not** hardcode brand/domain in components — use `siteConfig`, `productInfo`, `blogLabel`, or `fillBrandTokens()`.
 

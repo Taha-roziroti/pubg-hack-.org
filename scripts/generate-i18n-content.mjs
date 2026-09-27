@@ -39,6 +39,20 @@ function serialize(value, indent = 1) {
 	return `{\n${lines.join(',\n')},\n${pad}}`;
 }
 
+/** Align all locales with seo-locked BattlEye copy; skip URL slugs like `...-VAC/`. */
+function replaceVacInStrings(value) {
+	if (typeof value === 'string') {
+		return value.replace(/(?<![-/])\bVAC\b(?!\/)/g, 'BattlEye');
+	}
+	if (Array.isArray(value)) return value.map(replaceVacInStrings);
+	if (value && typeof value === 'object') {
+		return Object.fromEntries(
+			Object.entries(value).map(([k, v]) => [k, replaceVacInStrings(v)]),
+		);
+	}
+	return value;
+}
+
 function buildI18nContent() {
 	/** @type {Record<string, { ui: object; pages: object }>} */
 	const content = {};
@@ -98,7 +112,7 @@ function buildI18nContent() {
 			}
 		}
 
-		content[locale] = { ui, pages };
+		content[locale] = replaceVacInStrings({ ui, pages });
 	}
 
 	return content;

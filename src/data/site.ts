@@ -383,7 +383,7 @@ export const customerReviews = [
 		text: 'my last cheat died the day after a BattlEye patch. switched to PUBG Hack and the loader was back the same night they posted the rebuild. running ESP plus radar, still fine after two weeks. grabbed lifetime instead of monthly.',
 		short: 'Old hack died on BattlEye patch. Rebuild posted same night, still running clean after two weeks.',
 		slug: 'pubg-cloud-dma-review-dma-wizard',
-		seoTitle: 'VAC Update Review by @dma_wizard — 5/5 | {brand}',
+		seoTitle: 'BattlEye Update Review by @dma_wizard — 5/5 | {brand}',
 		seoDescription:
 			'@dma_wizard rates {brand} 5/5 after a {antiCheat} update — fast rebuild on Windows PC.',
 		date: '2026-06-27',

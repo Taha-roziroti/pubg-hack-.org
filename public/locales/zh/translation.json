@@ -23,7 +23,7 @@
     "accent": "PUBG作弊",
     "accentShort": "PUBG Hack",
     "title": "PUBG Hack",
-    "subtitle": "适用于PUBG Windows PC的ESP wallhack、radar hack和Aimbot — 含VAC维护。",
+    "subtitle": "适用于PUBG Windows PC的ESP wallhack、radar hack和Aimbot — 含BattlEye维护。",
     "subtitleShort": "PUBG PC版ESP、radar与Aimbot",
     "buyNow": "立即购买",
     "seeFeatures": "查看功能",
@@ -50,8 +50,8 @@
     "statusShort": "运行中",
     "delivery": "即时数字交付",
     "platform": "Windows 10 和 11",
-    "antiCheat": "支持VAC维护",
-    "antiCheatShort": "VAC支持"
+    "antiCheat": "支持BattlEye维护",
+    "antiCheatShort": "BattlEye支持"
   },
   "product": {
     "title": "PUBG Hack",
@@ -220,7 +220,7 @@
   },
   "home": {
     "aboutTitle": "PUBG的premium外挂",
-    "aboutP1": "PUBG Windows PC套餐：ESP wallhack、radar、Aimbot，含VAC维护。 价格 · 更新.",
+    "aboutP1": "PUBG Windows PC套餐：ESP wallhack、radar、Aimbot，含BattlEye维护。 价格 · 更新.",
     "aboutPricingCta": "比较价格",
     "aboutP2Before": "从",
     "aboutPillar": "PUBG Hack指南",
@@ -257,12 +257,12 @@
     "linkRadar": "Radar",
     "linkLiveStatus": "更新",
     "linkReliableCheats": "PUBG hacks guide",
-    "linkVAC": "VAC",
+    "linkBattlEye": "BattlEye",
     "linkSetup": "安装",
     "linkPlans": "价格",
     "linkReviews": "玩家评价",
     "linkBuyerReviews": "Review hub",
-    "linkFinalsCheats": "PUBG Hack",
+    "linkPillarHacks": "PUBG hacks",
     "linkFaqHub": "FAQ hub",
     "linkFaq": "常见问题",
     "linkSupport": "Support",
@@ -478,7 +478,7 @@
       },
       "pubg-cheats-windows-11": {
         "q": "Do PUBG hacks work on Windows 11?",
-        "a": "Yes. PUBG Hack supports Windows 10 and Windows 11 on PC. Use a clean install path from the Setup guide, keep VAC status green on the Updates page, and avoid running outdated builds after major patches."
+        "a": "Yes. PUBG Hack supports Windows 10 and Windows 11 on PC. Use a clean install path from the Setup guide, keep BattlEye status green on the Updates page, and avoid running outdated builds after major patches."
       },
       "what-is-pubg-soft-aim": {
         "q": "什么是 PUBG Skillshot assist？",
@@ -549,7 +549,7 @@
     "accent": "PUBG作弊",
     "accentShort": "PUBG Hack",
     "title": "PUBG Hack",
-    "subtitle": "适用于PUBG Windows PC的ESP wallhack、radar hack和Aimbot — 含VAC维护。",
+    "subtitle": "适用于PUBG Windows PC的ESP wallhack、radar hack和Aimbot — 含BattlEye维护。",
     "subtitleShort": "PUBG PC版ESP、radar与Aimbot",
     "buyNow": "立即购买",
     "seeFeatures": "查看功能",

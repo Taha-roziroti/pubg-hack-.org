@@ -343,7 +343,7 @@ export const HERO_CHIPS = {
 };
 
 export const BLOG_CATEGORIES = {
-	en: { Setup: 'Setup', ESP: 'ESP', Aimbot: 'Aimbot', Features: 'Features', Maphack: 'Maphack', Scripts: 'Scripts', Camera: 'Camera', Troubleshooting: 'Troubleshooting', Pricing: 'Pricing', Radar: 'Radar', 'Combo Scripts': 'Combo Scripts', VAC: 'VAC' },
+	en: { Setup: 'Setup', ESP: 'ESP', Aimbot: 'Aimbot', Features: 'Features', Maphack: 'Maphack', Scripts: 'Scripts', Camera: 'Camera', Troubleshooting: 'Troubleshooting', Pricing: 'Pricing', Radar: 'Radar', 'Combo Scripts': 'Combo Scripts', BattlEye: 'BattlEye' },
 	es: { Setup: 'Instalación', ESP: 'ESP', Aimbot: 'Aimbot', Features: 'Funciones', Maphack: 'Maphack', Scripts: 'Scripts', Camera: 'Cámara', Troubleshooting: 'Solución', Pricing: 'Precios', Radar: 'Radar', 'Combo Scripts': 'Scripts combo', VAC: 'VAC' },
 	fr: { Setup: 'Installation', ESP: 'ESP', Aimbot: 'Aimbot', Features: 'Fonctions', Maphack: 'Maphack', Scripts: 'Scripts', Camera: 'Caméra', Troubleshooting: 'Dépannage', Pricing: 'Tarifs', Radar: 'Radar', 'Combo Scripts': 'Scripts combo', VAC: 'VAC' },
 	de: { Setup: 'Setup', ESP: 'ESP', Aimbot: 'Aimbot', Features: 'Features', Maphack: 'Maphack', Scripts: 'Scripts', Camera: 'Kamera', Troubleshooting: 'Fehlerbehebung', Pricing: 'Preise', Radar: 'Radar', 'Combo Scripts': 'Combo-Scripts', VAC: 'VAC' },

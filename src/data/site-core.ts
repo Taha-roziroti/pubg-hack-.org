@@ -57,7 +57,7 @@ const seoDefaults = {
 	storeTitle: 'PUBG Hack Pricing | $35/mo or $150 Lifetime',
 	storeDescription:
 		'Buy PUBG hacks at pubg-hack.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.',
-	statusTitle: 'PUBG Hack Status | VAC Patch Updates',
+	statusTitle: 'PUBG Hack Status | BattlEye Patch Updates',
 	statusDescription:
 		'Live status after {game} and {antiCheat} patches. Check ESP, aimbot and maphack rebuilds on PC before you queue ranked.',
 	previewTitle: 'PUBG Hack | ESP, Aimbot & Wallhack Guide',

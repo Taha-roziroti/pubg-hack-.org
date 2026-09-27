@@ -15,7 +15,7 @@ export type PageSitemapMeta = {
 /**
  * SEO priority and crawl hints per page — keyed by PageId (single source of truth).
  * English URLs use `priority`; localized URLs use `i18nPriority`.
- * `lastmod` reflects when VAC page's content actually changed — do NOT reset all
+ * `lastmod` reflects when status page content actually changed — do NOT reset all
  * pages to the same date on deploy, only bump pages whose content was edited.
  */
 export const pageSitemapMeta: Record<PageId, PageSitemapMeta> = {

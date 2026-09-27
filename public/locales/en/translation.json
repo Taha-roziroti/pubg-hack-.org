@@ -51,7 +51,7 @@
     "delivery": "Instant digital delivery",
     "platform": "Windows 10 & 11",
     "antiCheat": "BattlEye maintenance supported",
-    "antiCheatShort": "VAC supported"
+    "antiCheatShort": "BattlEye supported"
   },
   "product": {
     "title": "PUBG Hack",
@@ -195,12 +195,12 @@
     "linkRadar": "Radar",
     "linkLiveStatus": "Live status",
     "linkReliableCheats": "PUBG hacks guide",
-    "linkVAC": "VAC",
+    "linkBattlEye": "BattlEye",
     "linkSetup": "Setup",
     "linkPlans": "Plans",
     "linkReviews": "Reviews",
     "linkBuyerReviews": "Review hub",
-    "linkFinalsCheats": "PUBG Hack",
+    "linkPillarHacks": "PUBG hacks",
     "linkFaqHub": "FAQ hub",
     "linkFaq": "FAQ",
     "linkSupport": "Support",
@@ -325,7 +325,7 @@
       "Pricing": "Pricing",
       "Radar": "Radar",
       "Combo Scripts": "Combo Scripts",
-      "VAC": "VAC"
+      "BattlEye": "BattlEye"
     }
   },
   "gallery": {
@@ -381,8 +381,8 @@
         "a": "Yes. PUBG Hack includes 2D radar overlays that highlight nearby threats outside your view — useful for ganks and rotations."
       },
       "vac-anti-cheat-and-pubg-cheats": {
-        "q": "How does VAC affect PUBG hacks?",
-        "a": "VAC monitors PUBG on Windows PC. PUBG Hack posts maintenance notes after patches that may need a rebuild. Check Status before you queue."
+        "q": "How does BattlEye affect PUBG hacks?",
+        "a": "BattlEye monitors PUBG on Windows PC. PUBG Hack posts maintenance notes after patches that may need a rebuild. Check Status before you queue."
       },
       "buy-reliable-pubg-cheats-windows-pc": {
         "q": "Can I buy PUBG hacks for Windows PC?",
@@ -414,7 +414,7 @@
       },
       "pubg-cheats-windows-11": {
         "q": "Do PUBG hacks work on Windows 11?",
-        "a": "Yes. PUBG Hack supports Windows 10 and Windows 11 on PC. Use a clean install path from the Setup guide, keep VAC status green on the Updates page, and avoid running outdated builds after major patches."
+        "a": "Yes. PUBG Hack supports Windows 10 and Windows 11 on PC. Use a clean install path from the Setup guide, keep BattlEye status green on the Updates page, and avoid running outdated builds after major patches."
       },
       "what-is-pubg-soft-aim": {
         "q": "What is PUBG skillshot assist?",
@@ -484,7 +484,7 @@
   "player": {
     "accent": "2026 — ESP, Aimbot & Wallhack",
     "accentShort": "PUBG hacks 2026",
-    "title": "PUBG Hack",
+    "title": "PUBG Hack & Cheats",
     "subtitle": "ESP, aimbot, and wallhack for PUBG on Windows PC — BattlEye maintenance included.",
     "subtitleShort": "ESP, aimbot & wallhack for PUBG PC",
     "buyNow": "Buy PUBG Hack",

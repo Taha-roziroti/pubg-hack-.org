@@ -11,14 +11,16 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
 const PATH_REPLACEMENTS = [
 	['/forums/premium-pubg-cheats-VAC/', '/forums/reliable-pubg-cheats-eac/'],
-	['/pubg-esp/', '/esp/'],
-	['/pubg-aimbot/', '/aimbot/'],
-	['/pubg-radar-hack/', '/radar/'],
 	['/pubg-cheats-2026/', '/2026/'],
-	['/pubg-cheats/', '/cheats/'],
 	['/vac-bypass/', '/vac/'],
-	['/premium-pubg-cheats/', '/cheats/'],
+	['/premium-pubg-cheats/', '/pubg-cheats/'],
 	['/reliable-pubg-cheats/', '/updates/'],
+	// Prefer keyword canonical URLs (see .cursor/rules/seo-locked.mdc)
+	['/cheats/', '/pubg-cheats/'],
+	['/esp/', '/pubg-esp/'],
+	['/aimbot/', '/pubg-aimbot/'],
+	['/pricing/', '/pubg-cheat-price/'],
+	['/reviews/', '/pubg-cheat-reviews/'],
 ];
 
 const TERM_REPLACEMENTS = [
@@ -61,6 +63,7 @@ const TERM_REPLACEMENTS = [
 	[/Soft aim/gi, 'Skillshot assist'],
 	[/Soft Aim/gi, 'Skillshot assist'],
 	[/checkout checkout/gi, 'checkout'],
+	[/\bVAC\b/g, 'BattlEye'],
 	[/permanent reliable/gi, 'permanent patch status'],
 	// Do not globally replace EAC→VAC — it corrupts forum slugs like reliable-pubg-cheats-eac.
 	[/indetectable/gi, ''],
@@ -129,12 +132,12 @@ const linkLabelsPath = path.join(ROOT, 'scripts/i18n-data/link-labels.mjs');
 let linkLabels = readFileSync(linkLabelsPath, 'utf8');
 const canonicalEn = {
 	"'/'": "'Full product'",
-	"'/esp/'": "'ESP & wallhack guide'",
-	"'/aimbot/'": "'Aimbot & skillshot assist'",
+	"'/pubg-esp/'": "'ESP & wallhack guide'",
+	"'/pubg-aimbot/'": "'Aimbot & skillshot assist'",
 	"'/radar/'": "'2D radar overlay'",
-	"'/cheats/'": "'PUBG Hack overview'",
+	"'/pubg-cheats/'": "'PUBG hacks guide'",
 	"'/features/'": "'All features'",
-	"'/pricing/'": "'Store'",
+	"'/pubg-cheat-price/'": "'Store'",
 	"'/setup/'": "'Setup guide'",
 	"'/updates/'": "'Live status'",
 	"'/faq/'": "'FAQ'",
@@ -144,6 +147,8 @@ const canonicalEn = {
 	"'/forums/'": "'PUBG hacks forums'",
 	"'/2026/'": "'PUBG hacks 2026'",
 	"'/compare/'": "'Compare'",
+	"'/pubg-cheat-reviews/'": "'Buyer reviews'",
+	"'/best-pubg-cheats/'": "'Best PUBG cheats'",
 };
 for (const [href, label] of Object.entries(canonicalEn)) {
 	const re = new RegExp(`${href.replace(/\//g, '\\/')}: '[^']*'`, 'g');

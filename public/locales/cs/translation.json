@@ -23,7 +23,7 @@
     "accent": "PUBG hacky",
     "accentShort": "PUBG Hack",
     "title": "PUBG Hack",
-    "subtitle": "ESP wallhack, radar hack a Aimbot pro PUBG na Windows PC — údržba VAC v ceně.",
+    "subtitle": "ESP wallhack, radar hack a Aimbot pro PUBG na Windows PC — údržba BattlEye v ceně.",
     "subtitleShort": "ESP, radar a Aimbot pro PUBG PC",
     "buyNow": "Koupit",
     "seeFeatures": "Zobrazit funkce",
@@ -50,8 +50,8 @@
     "statusShort": "Aktivní",
     "delivery": "Okamžité digitální doručení",
     "platform": "Windows 10 a 11",
-    "antiCheat": "Podpora údržby VAC",
-    "antiCheatShort": "VAC podpora"
+    "antiCheat": "Podpora údržby BattlEye",
+    "antiCheatShort": "BattlEye podpora"
   },
   "product": {
     "title": "PUBG Hack",
@@ -220,7 +220,7 @@
   },
   "home": {
     "aboutTitle": "cheaty pro PUBG",
-    "aboutP1": "balíček pro PUBG na Windows PC: ESP wallhack, radar, Aimbot s údržbou VAC. Ceny · Aktualizace.",
+    "aboutP1": "balíček pro PUBG na Windows PC: ESP wallhack, radar, Aimbot s údržbou BattlEye. Ceny · Aktualizace.",
     "aboutPricingCta": "Porovnat ceny",
     "aboutP2Before": "Začněte",
     "aboutPillar": "průvodcem PUBG Hack",
@@ -257,12 +257,12 @@
     "linkRadar": "Radar",
     "linkLiveStatus": "Aktualizace",
     "linkReliableCheats": "PUBG hacks guide",
-    "linkVAC": "VAC",
+    "linkBattlEye": "BattlEye",
     "linkSetup": "Instalace",
     "linkPlans": "Ceny",
     "linkReviews": "Co říkají hráči",
     "linkBuyerReviews": "Review hub",
-    "linkFinalsCheats": "PUBG Hack",
+    "linkPillarHacks": "PUBG hacks",
     "linkFaqHub": "FAQ hub",
     "linkFaq": "FAQ",
     "linkSupport": "Support",
@@ -478,7 +478,7 @@
       },
       "pubg-cheats-windows-11": {
         "q": "Do PUBG hacks work on Windows 11?",
-        "a": "Yes. PUBG Hack supports Windows 10 and Windows 11 on PC. Use a clean install path from the Setup guide, keep VAC status green on the Updates page, and avoid running outdated builds after major patches."
+        "a": "Yes. PUBG Hack supports Windows 10 and Windows 11 on PC. Use a clean install path from the Setup guide, keep BattlEye status green on the Updates page, and avoid running outdated builds after major patches."
       },
       "what-is-pubg-soft-aim": {
         "q": "Co je PUBG Skillshot assist?",
@@ -549,7 +549,7 @@
     "accent": "PUBG hacky",
     "accentShort": "PUBG Hack",
     "title": "PUBG Hack",
-    "subtitle": "ESP wallhack, radar hack a Aimbot pro PUBG na Windows PC — údržba VAC v ceně.",
+    "subtitle": "ESP wallhack, radar hack a Aimbot pro PUBG na Windows PC — údržba BattlEye v ceně.",
     "subtitleShort": "ESP, radar a Aimbot pro PUBG PC",
     "buyNow": "Koupit",
     "seeFeatures": "Zobrazit funkce",

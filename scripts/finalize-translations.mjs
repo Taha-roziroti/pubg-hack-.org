@@ -155,6 +155,14 @@ async function main() {
 			t.homeSeo.linkBlog = FORUMS[loc] ?? FORUMS.en;
 			t.homeSeo.linkPatchStatus = PATCH_STATUS[loc] ?? 'Patch status';
 			delete t.homeSeo.linkReliable;
+			if (t.homeSeo.linkFinalsCheats && !t.homeSeo.linkPillarHacks) {
+				t.homeSeo.linkPillarHacks = t.homeSeo.linkFinalsCheats;
+			}
+			delete t.homeSeo.linkFinalsCheats;
+			if (t.homeSeo.linkVAC && !t.homeSeo.linkBattlEye) {
+				t.homeSeo.linkBattlEye = 'BattlEye';
+			}
+			delete t.homeSeo.linkVAC;
 			if (loc === 'en') t.homeSeo.eyebrow = 'Explore';
 		}
 		if (t.blog) {

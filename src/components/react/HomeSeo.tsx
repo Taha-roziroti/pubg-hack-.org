@@ -27,7 +27,7 @@ function HomeSeoInner({ faqs }: Props) {
 			hintKey: 'homeSeo.catStatusHint',
 			links: [
 				{ href: '/updates/', labelKey: 'homeSeo.linkLiveStatus' },
-				{ href: '/', labelKey: 'homeSeo.linkReliable' },
+				{ href: '/pubg-cheats/', labelKey: 'homeSeo.linkReliableCheats' },
 				{ href: '/setup/', labelKey: 'homeSeo.linkSetup' },
 				{ href: '/faq/', labelKey: 'homeSeo.linkFaq' },
 			],
@@ -36,10 +36,10 @@ function HomeSeoInner({ faqs }: Props) {
 			titleKey: 'homeSeo.catStore',
 			hintKey: 'homeSeo.catStoreHint',
 			links: [
-				{ href: '/pricing/', labelKey: 'homeSeo.linkPlans' },
-				{ href: '/reviews/', labelKey: 'homeSeo.linkReviews' },
-				{ href: '/', labelKey: 'homeSeo.linkFinalsCheats' },
-				{ href: '/features/', labelKey: 'homeSeo.linkAllFeatures' },
+				{ href: '/pubg-cheat-price/', labelKey: 'homeSeo.linkPlans' },
+				{ href: '/pubg-cheat-reviews/', labelKey: 'homeSeo.linkBuyerReviews' },
+				{ href: '/pubg-cheats/', labelKey: 'homeSeo.linkPillarHacks' },
+				{ href: '/faq/', labelKey: 'homeSeo.linkFaqHub' },
 			],
 		},
 		{
