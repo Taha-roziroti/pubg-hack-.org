@@ -1,8 +1,5 @@
 import { brand } from './brand';
 
-/** English-only policy page (linked from footer and nav disclosure). */
-export const AFFILIATE_DISCLOSURE_PATH = '/affiliate-disclosure/';
-
 /** Google-recommended rel for paid / affiliate outbound purchase links. */
 export const AFFILIATE_REL = 'sponsored nofollow noopener noreferrer';
 

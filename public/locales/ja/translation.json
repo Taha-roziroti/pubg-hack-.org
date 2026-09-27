@@ -38,12 +38,6 @@
     "buy": "今すぐ購入",
     "buyShort": "今すぐ購入"
   },
-  "affiliate": {
-    "disclosureLead": "Affiliate:",
-    "disclosureLink": "disclosure",
-    "disclosureTail": "— we may earn a commission on purchases.",
-    "footerLink": "Affiliate disclosure"
-  },
   "trust": {
     "status": "オンライン",
     "statusNote": "PUBG HackパッケージはPUBG Windows PCで利用可能です。",

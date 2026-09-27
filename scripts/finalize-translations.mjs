@@ -140,6 +140,7 @@ async function main() {
 		t.blog = { ...t.blog, categories: BLOG_CATEGORIES[loc] ?? BLOG_CATEGORIES.en };
 		delete t.common.guides;
 		delete t.guides;
+		delete t.affiliate;
 		if (t.categoryRow) {
 			t.categoryRow.forums = FORUMS[loc] ?? FORUMS.en;
 			t.categoryRow.blog = FORUMS[loc] ?? FORUMS.en;
