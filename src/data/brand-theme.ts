@@ -15,7 +15,11 @@ export type BrandThemeInput = {
 	hover?: string;
 	panel?: string;
 	elevated?: string;
+	/** Transition shade between surfaces */
+	bgHover?: string;
 	line?: string;
+	lineStrong?: string;
+	toneVoid?: string;
 	ink?: string;
 	inkHeading?: string;
 	inkSecondary?: string;
@@ -165,11 +169,13 @@ export function deriveBrandTheme(input: Partial<BrandThemeInput> = {}): BrandThe
 	const bgPanel = normalizeHex(input.panel) ?? panelAuto;
 	const bgElevated =
 		normalizeHex(input.elevated) ?? (deepIsDarkSurface ? deepIn! : mixHex(bg, '#ffffff', 0.07));
-	const bgHover = mixHex(bgElevated, '#ffffff', 0.06);
+	const bgHover = normalizeHex(input.bgHover) ?? mixHex(bgElevated, '#ffffff', 0.06);
 	const lineSoft = normalizeHex(input.line) ? mixHex(input.line!, bg, 0.45) : mixHex(bg, '#ffffff', 0.08);
 	const line = normalizeHex(input.line) ?? mixHex(bg, '#ffffff', 0.12);
-	const lineStrong = normalizeHex(input.line) ? mixHex(input.line!, '#ffffff', 0.22) : mixHex(bg, '#ffffff', 0.18);
-	const toneVoid = mixHex(bg, '#000000', 0.35);
+	const lineStrong =
+		normalizeHex(input.lineStrong) ??
+		(normalizeHex(input.line) ? mixHex(input.line!, '#ffffff', 0.22) : mixHex(bg, '#ffffff', 0.18));
+	const toneVoid = normalizeHex(input.toneVoid) ?? mixHex(bg, '#000000', 0.35);
 	const ink = normalizeHex(input.ink) ?? '#F8FAFC';
 	const inkHeading = normalizeHex(input.inkHeading) ?? ink;
 	const inkMuted = normalizeHex(input.inkMuted) ?? '#A1A1AA';
@@ -226,7 +232,10 @@ export const brandTheme: BrandThemeResolved = deriveBrandTheme({
 	hover: raw.theme?.hover,
 	panel: raw.theme?.panel,
 	elevated: raw.theme?.elevated,
+	bgHover: (raw.theme as { bgHover?: string })?.bgHover,
 	line: raw.theme?.line,
+	lineStrong: (raw.theme as { lineStrong?: string })?.lineStrong,
+	toneVoid: (raw.theme as { toneVoid?: string })?.toneVoid,
 	ink: raw.theme?.ink,
 	inkHeading: raw.theme?.inkHeading,
 	inkSecondary: raw.theme?.inkSecondary,

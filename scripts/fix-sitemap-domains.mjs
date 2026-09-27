@@ -17,7 +17,7 @@ function readBrandUrl() {
 	const url = m[1].replace(/\\'/g, "'").replace(/\/$/, '');
 	if (/pubgcheats\.org/i.test(url)) {
 		throw new Error(
-			`brand.ts url must be pubg-hack.org, not ${url}. Run: node scripts/rebrand-pubg-cheats.mjs`,
+			`brand.ts url must be pubg-hack.org, not ${url}`,
 		);
 	}
 	return url;

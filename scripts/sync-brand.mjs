@@ -30,7 +30,7 @@ function readBrand() {
 	const url = str('url').replace(/\/$/, '');
 	if (/pubgcheat\.com/i.test(url)) {
 		throw new Error(
-			`brand.ts url is ${url} — must be https://pubg-hack.org. Run: node scripts/rebrand-pubg-cheats.mjs`,
+			`brand.ts url is ${url} — must be https://pubg-hack.org`,
 		);
 	}
 	return {

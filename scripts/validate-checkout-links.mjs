@@ -31,6 +31,8 @@ const BUY_SELECTORS = [
 	'faq-detail__buy',
 	'plan__cta',
 	'product__buy',
+	'kw-cta__btn',
+	'home__price-card-cta',
 ];
 
 /** btn-buy on product pages and banners — exclude 404 home link */
