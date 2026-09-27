@@ -74,7 +74,7 @@ export const pubgKeywordPages: Record<
 				h2: 'PUBG Cheats for PC',
 				paragraphs: [
 					'Cheats for PUBG on Steam target Windows 10 and 11. Licenses deliver digitally after payment; setup walks through loader steps and overlay toggles.',
-					'If you are comparing PUBG: Battlegrounds hacks from several sites, verify BattlEye maintenance notes and support email before you load in after a patch.',
+					'If you are comparing pubg battlegrounds hacks from several sites, verify BattlEye maintenance notes and support email before you load in after a patch.',
 				],
 			},
 			{
