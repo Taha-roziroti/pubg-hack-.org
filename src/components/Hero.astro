@@ -17,9 +17,11 @@ const title = t('hero.title');
 const subtitle = t('hero.subtitle');
 const imageAlt = t('hero.imageAlt', { brand: siteConfig.name });
 
+const heroCinematicWebp = brand.heroCinematicWebp;
 const heroVideoMp4 = brand.heroVideoMp4;
 const heroVideoWebm = brand.heroVideoUrl;
-const hasHeroVideo = Boolean(heroVideoMp4 || heroVideoWebm);
+const hasHeroCinematic = Boolean(heroCinematicWebp);
+const hasHeroVideo = !hasHeroCinematic && Boolean(heroVideoMp4 || heroVideoWebm);
 const poster = brand.demoVideoPoster ?? heroSrc;
 
 const chips = [
@@ -38,7 +40,19 @@ const chips = [
 	<section class="hero" aria-label={title}>
 		<div class="hero__media">
 			{
-				hasHeroVideo ? (
+				hasHeroCinematic ? (
+					<img
+						class="hero__video hero__cinematic"
+						src={heroCinematicWebp}
+						alt=""
+						width={1920}
+						height={1080}
+						fetchpriority="high"
+						loading="eager"
+						decoding="async"
+						aria-hidden="true"
+					/>
+				) : hasHeroVideo ? (
 					<video
 						class="hero__video"
 						autoPlay
@@ -63,10 +77,10 @@ const chips = [
 				alt={imageAlt}
 				width={heroWidth}
 				height={heroHeight}
-				fetchpriority="high"
-				loading="eager"
-				decoding="sync"
-				class={hasHeroVideo ? 'hero__poster-fallback' : undefined}
+				fetchpriority={hasHeroCinematic || hasHeroVideo ? 'low' : 'high'}
+				loading={hasHeroCinematic || hasHeroVideo ? 'lazy' : 'eager'}
+				decoding="async"
+				class={hasHeroCinematic || hasHeroVideo ? 'hero__poster-fallback' : undefined}
 			/>
 		</div>
 		<div class="hero__veil" aria-hidden="true"></div>
@@ -335,7 +349,8 @@ const chips = [
 			animation: none;
 		}
 
-		.hero__media video {
+		.hero__media video,
+		.hero__media img.hero__cinematic {
 			display: none;
 		}
 

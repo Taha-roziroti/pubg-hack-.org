@@ -90,11 +90,11 @@ const extraGraph: Record<string, unknown>[] = isEnglishHome
 	pageId="home"
 	breadcrumbs={[{ label: ui.nav.home }]}
 	extraGraph={extraGraph}
-	lcpImage={heroPreloadSrc}
-	lcpImageSrcSet={heroSrcSet}
+	lcpImage={brand.heroCinematicWebp || heroPreloadSrc}
+	lcpImageSrcSet={brand.heroCinematicWebp ? undefined : heroSrcSet}
 	lcpImageSizes={heroSizes}
-	heroVideoMp4={brand.heroVideoMp4 || undefined}
-	heroVideoWebm={brand.heroVideoUrl || undefined}
+	heroVideoMp4={brand.heroCinematicWebp ? undefined : brand.heroVideoMp4 || undefined}
+	heroVideoWebm={brand.heroCinematicWebp ? undefined : brand.heroVideoUrl || undefined}
 >
 	<Navbar locale={locale} pageId="home" />
 	<main id="main-content" class="home">
