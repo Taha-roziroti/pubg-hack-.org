@@ -2,12 +2,12 @@ import { siteConfig } from './site';
 
 /** User-provided PUBG gameplay screenshots (6 unique). */
 export const PRODUCT_SCREENSHOT_SOURCES = [
-	'user:13be2916-8042-448d-8b88-a282c00c22b4.png',
-	'user:f422ed6d-143e-434c-88e8-6c492f64d752.png',
-	'user:198f0c2b-9d76-4ffb-bb9c-dfde83999fbf.png',
-	'user:c43cb5d5-b6f2-4e58-8506-fb591f4a7b51.png',
-	'user:1d49a213-56a6-4bdb-878e-655613144c66.png',
-	'user:f7f8f852-cfcb-45c2-a5ff-84dc50e6b2c0.png',
+	'user:e9856150-255c-41fd-80ae-3de5ea0b228b.png',
+	'user:132f67f1-43fd-49a1-bf83-18956c54c349.png',
+	'user:00f87a79-1a7c-4182-8eac-56b13eac96a5.png',
+	'user:15f781d2-22ce-479d-a904-45ee24abb367.png',
+	'user:cbdaa48f-f2e5-4ade-be53-db8846cdd46d.png',
+	'user:effc020e-d2ba-42f7-9445-61192e87355a.png',
 ] as const;
 
 export const PRODUCT_SCREENSHOT_COUNT = PRODUCT_SCREENSHOT_SOURCES.length;
@@ -25,34 +25,34 @@ export type ProductScreenshotMeta = {
 
 const alts: Record<number, { alt: string; title: string; caption: string }> = {
 	1: {
-		alt: 'PUBG hack ESP player boxes during an battle royale match',
-		title: 'PUBG ESP player outlines',
-		caption: 'PUBG hacks ESP highlighting enemy players during a raid on PC',
+		alt: 'PUBG player ESP boxes with distance markers on Sanhok',
+		title: 'PUBG player ESP with distance',
+		caption: 'PUBG ESP hack showing enemy boxes and meter readouts through foliage on PC',
 	},
 	2: {
-		alt: 'PUBG soft aim FOV ring during a firefight',
-		title: 'PUBG soft aim overlay',
-		caption: 'PUBG aimbot soft aim FOV ring during close-range combat on PC',
+		alt: 'PUBG sniper scope view during long-range aim',
+		title: 'PUBG sniper scope gameplay',
+		caption: 'PUBG aimbot-friendly scope view for zeroing and target acquisition on PC',
 	},
 	3: {
-		alt: 'PUBG loot ESP tags on crates and gear',
-		title: 'PUBG loot ESP markers',
-		caption: 'PUBG hacks loot ESP marking high-value gear during a raid on PC',
+		alt: 'PUBG wallhack skeleton ESP through rock cover',
+		title: 'PUBG skeleton ESP wallhack',
+		caption: 'PUBG ESP skeleton lines revealing a player behind hard cover on PC',
 	},
 	4: {
-		alt: 'PUBG radar map with nearby threat arrows',
-		title: 'PUBG 2D radar overlay',
-		caption: 'PUBG radar hack showing off-screen squad movement on PC',
+		alt: 'PUBG ESP enemy box through concrete with distance readout',
+		title: 'PUBG wallhack distance ESP',
+		caption: 'PUBG ESP wallhack with distance tag through a structure at Bootcamp on PC',
 	},
 	5: {
-		alt: 'PUBG wallhack skeleton and distance readouts',
-		title: 'PUBG ESP skeleton overlay',
-		caption: 'PUBG ESP wallhack with skeleton lines and distance tags on PC',
+		alt: 'PUBG player ESP box at 20 meters behind cover',
+		title: 'PUBG close-range player ESP',
+		caption: 'PUBG ESP hack highlighting a nearby enemy with a 20m distance label on PC',
 	},
 	6: {
-		alt: 'PUBG mod menu with ESP and aim toggles',
-		title: 'PUBG in-match mod menu',
-		caption: 'PUBG mod menu toggles for ESP, radar, and soft aim on PC',
+		alt: 'PUBG Bootcamp ESP box while holding M249',
+		title: 'PUBG Bootcamp ESP overlay',
+		caption: 'PUBG ESP player box during a Bootcamp push with gear level and distance on PC',
 	},
 };
 
