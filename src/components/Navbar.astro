@@ -96,15 +96,7 @@ const closeMenuLabel = t('nav.closeMenu');
 <header class="site-header" data-nav>
 	<div class="shell site-header__bar">
 		<a href={homeHref} class="site-brand" aria-label={siteConfig.logoAlt}>
-			<img
-				class="site-brand__mark"
-				src="/pubg-cheats-logo-nav.svg"
-				width={200}
-				height={28}
-				alt={siteConfig.logoAlt}
-				decoding="async"
-				fetchpriority="high"
-			/>
+			<span class="site-brand__mark" aria-hidden="true">{t('nav.brandMark')}</span>
 		</a>
 
 		<nav class="site-nav" aria-label={t('nav.primaryAria')}>
@@ -364,12 +356,19 @@ const closeMenuLabel = t('nav.closeMenu');
 	}
 
 	.site-brand__mark {
-		width: auto;
-		height: 100%;
-		max-width: 100%;
 		display: block;
-		object-fit: contain;
-		object-position: left center;
+		max-width: 100%;
+		font-family: var(--font-display);
+		font-size: clamp(0.95rem, 3.2vw, 1.28rem);
+		font-weight: 900;
+		letter-spacing: 0.14em;
+		line-height: 1;
+		text-transform: uppercase;
+		white-space: nowrap;
+		background: linear-gradient(135deg, #c4b5fd 0%, #a78bfa 45%, #8b5cf6 100%);
+		-webkit-background-clip: text;
+		background-clip: text;
+		color: transparent;
 	}
 
 	.site-nav {

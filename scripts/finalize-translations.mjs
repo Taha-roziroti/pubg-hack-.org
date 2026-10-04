@@ -152,6 +152,9 @@ async function main() {
 			t.home.aboutReliable = PATCH_STATUS[loc] ?? 'patch status';
 			if (loc === 'es') t.home.aboutAimbot = 'controles de asistencia';
 		}
+		if (t.nav) {
+			t.nav.brandMark = t.nav.brandMark ?? 'PUBG HACKS';
+		}
 		if (t.homeSeo) {
 			t.homeSeo.linkBlog = FORUMS[loc] ?? FORUMS.en;
 			t.homeSeo.linkPatchStatus = PATCH_STATUS[loc] ?? 'Patch status';

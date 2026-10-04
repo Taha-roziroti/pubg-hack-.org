@@ -51,7 +51,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				hero: {
 					accent: "2026 — ESP, Aimbot & Wallhack",
 					accentShort: "PUBG hacks 2026",
-					title: "PUBG Hack",
+					title: "PUBG Hacks",
 					subtitle: "ESP, aimbot, and wallhack for PUBG on Windows PC — BattlEye maintenance included.",
 					subtitleShort: "ESP, aimbot & wallhack for PUBG PC",
 					buyNow: "Buy PUBG Hack",

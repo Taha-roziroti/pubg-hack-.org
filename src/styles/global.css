@@ -480,6 +480,22 @@
 		box-shadow: var(--btn-red-glow-hover);
 	}
 
+	.site-brand__mark {
+		display: block;
+		max-width: 100%;
+		font-family: var(--font-display);
+		font-size: clamp(0.95rem, 3.2vw, 1.28rem);
+		font-weight: 900;
+		letter-spacing: 0.14em;
+		line-height: 1;
+		text-transform: uppercase;
+		white-space: nowrap;
+		background: linear-gradient(135deg, #c4b5fd 0%, #a78bfa 45%, #8b5cf6 100%);
+		-webkit-background-clip: text;
+		background-clip: text;
+		color: transparent;
+	}
+
 	.lang-switcher__toggle,
 	.site-header .lang-switcher__toggle {
 		border-color: transparent;

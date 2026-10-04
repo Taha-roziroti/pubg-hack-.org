@@ -1,20 +1,14 @@
 type Props = {
-	/** Accessible label when the logo is decorative inside a named link */
-	alt?: string;
+	/** Visible wordmark text (parent link should carry aria-label). */
+	label?: string;
 	className?: string;
 };
 
-/** PUBG Hack wordmark — SVG nav asset (purple gradient, no template branding). */
-export default function BrandLogo({ alt = 'PUBG Hack logo', className }: Props) {
+/** PUBG wordmark — HTML text so stale SVG/CDN assets cannot show old template branding. */
+export default function BrandLogo({ label = 'PUBG HACKS', className }: Props) {
 	return (
-		<img
-			className={className}
-			src="/pubg-cheats-logo-nav.svg"
-			width={200}
-			height={28}
-			alt={alt}
-			decoding="async"
-			fetchPriority="high"
-		/>
+		<span className={className} aria-hidden="true">
+			{label}
+		</span>
 	);
 }

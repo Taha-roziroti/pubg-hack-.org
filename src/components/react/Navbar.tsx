@@ -89,7 +89,7 @@ function NavbarInner({
 		<header ref={headerRef} className="site-header" data-nav>
 			<div className="shell site-header__bar">
 				<a href={homeHref} className="site-brand" aria-label={logoAlt}>
-					<BrandLogo className="site-brand__mark" alt={logoAlt} />
+					<BrandLogo className="site-brand__mark" label={t('nav.brandMark')} />
 				</a>
 
 				<nav className="site-nav" aria-label={t('nav.primaryAria')}>

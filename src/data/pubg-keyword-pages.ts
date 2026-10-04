@@ -52,7 +52,7 @@ export const pubgKeywordPages: Record<
 		title: 'PUBG Hack & Cheats – Compare Current Options',
 		description:
 			'Compare PUBG hack and cheat options, features, pricing, and reviews. Explore available options and choose the right fit.',
-		h1: 'PUBG Hack & Cheats',
+		h1: 'PUBG Hacks',
 		intro:
 			'This hub compares current PUBG hack options for PC — including how popular PUBG hacks differ on features, pricing, and support — so you can pick a license that matches how you play.',
 		sections: [
