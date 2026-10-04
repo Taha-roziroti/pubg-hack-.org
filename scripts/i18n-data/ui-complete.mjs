@@ -419,7 +419,7 @@ export const REVIEWS_PAGE_UI = {
 		readFull: 'Vollständige Bewertung lesen',
 		ctaAria: '{{brand}} kaufen',
 		ctaTitle: 'Bereit für PUBG Hack?',
-		ctaBody: 'Dota-2-Hacks und Cheats in einem Paket — ESP, Skillshot-Assist und Radar für Windows-PC, mit {{game}}-Patch-Wartung.',
+		ctaBody: 'PUBG-Hacks und Cheats in einem Paket — ESP, Skillshot-Assist und Radar für Windows-PC, mit {{game}}-Patch-Wartung.',
 		ctaBuy: 'Jetzt kaufen — ${{price}}',
 		comparePricing: 'Preise vergleichen',
 		reviewBy: '{{brand}}-Bewertung von @{{handle}}',

@@ -11,7 +11,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		featured: true,
 		translations: {
 		en: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "How to Install PUBG Hack on Windows PC",
 		metaDescription: "Step-by-step PUBG hacks install for Windows 10 and 11. Download, license key, ESP overlay, and first launch checklist before ranked.",
 		h1: "How to Install PUBG Hack on Windows PC",
@@ -35,14 +35,14 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		es: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "Cómo instalar trucos de PUBG en PC Windows",
 		metaDescription: "Instalación de trucos PUBG en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
 		h1: "Cómo instalar trucos de PUBG en PC Windows",
@@ -66,14 +66,14 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		fr: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "Installer des triches PUBG sur PC Windows",
 		metaDescription: "Installation triches PUBG Windows 10/11. Clé, overlay ESP, checklist ranked.",
 		h1: "Installer des triches PUBG sur PC Windows",
@@ -97,14 +97,14 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		de: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "PUBG Hack auf Windows installieren",
 		metaDescription: "PUBG Hack Installation Windows 10/11. Lizenz, ESP-Overlay, Ranked-Checkliste.",
 		h1: "PUBG Hack auf Windows installieren",
@@ -128,14 +128,14 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		pt: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "Como instalar cheats PUBG no Windows",
 		metaDescription: "Instalação de cheats PUBG no Windows. Chave, overlay ESP e checklist.",
 		h1: "Como instalar cheats PUBG no Windows",
@@ -159,14 +159,14 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		it: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "Come installare cheat PUBG su Windows",
 		metaDescription: "Installazione cheat PUBG su Windows. Chiave, overlay ESP, checklist.",
 		h1: "Come installare cheat PUBG su Windows",
@@ -190,14 +190,14 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		nl: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "Cómo instalar trucos de PUBG en PC Windows",
 		metaDescription: "Instalación de trucos PUBG en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
 		h1: "Cómo instalar trucos de PUBG en PC Windows",
@@ -221,14 +221,14 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		pl: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "Cómo instalar trucos de PUBG en PC Windows",
 		metaDescription: "Instalación de trucos PUBG en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
 		h1: "Cómo instalar trucos de PUBG en PC Windows",
@@ -252,14 +252,14 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		ru: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "Как установить читы PUBG на Windows",
 		metaDescription: "Установка читов PUBG на Windows. Ключ, ESP-оверлей, чеклист.",
 		h1: "Как установить читы PUBG на Windows",
@@ -283,14 +283,14 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		tr: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "Cómo instalar trucos de PUBG en PC Windows",
 		metaDescription: "Instalación de trucos PUBG en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
 		h1: "Cómo instalar trucos de PUBG en PC Windows",
@@ -314,14 +314,14 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		ar: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "Cómo instalar trucos de PUBG en PC Windows",
 		metaDescription: "Instalación de trucos PUBG en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
 		h1: "Cómo instalar trucos de PUBG en PC Windows",
@@ -345,14 +345,14 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		ja: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "WindowsでPUBGチートをインストールする方法",
 		metaDescription: "Windows 10/11向けPUBGチートのインストール手順。",
 		h1: "WindowsでPUBGチートをインストールする方法",
@@ -376,14 +376,14 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		ko: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "Windows에서 PUBG 치트 설치 방법",
 		metaDescription: "Windows 10/11 PUBG 치트 설치 가이드.",
 		h1: "Windows에서 PUBG 치트 설치 방법",
@@ -407,14 +407,14 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		zh: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "在 Windows 上安装 PUBG 作弊",
 		metaDescription: "Windows 10/11 的 PUBG 作弊安装步骤。",
 		h1: "在 Windows 上安装 PUBG 作弊",
@@ -438,14 +438,14 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		hi: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "Cómo instalar trucos de PUBG en PC Windows",
 		metaDescription: "Instalación de trucos PUBG en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
 		h1: "Cómo instalar trucos de PUBG en PC Windows",
@@ -469,14 +469,14 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		id: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "Cómo instalar trucos de PUBG en PC Windows",
 		metaDescription: "Instalación de trucos PUBG en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
 		h1: "Cómo instalar trucos de PUBG en PC Windows",
@@ -500,14 +500,14 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		th: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "Cómo instalar trucos de PUBG en PC Windows",
 		metaDescription: "Instalación de trucos PUBG en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
 		h1: "Cómo instalar trucos de PUBG en PC Windows",
@@ -531,14 +531,14 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		vi: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "Cómo instalar trucos de PUBG en PC Windows",
 		metaDescription: "Instalación de trucos PUBG en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
 		h1: "Cómo instalar trucos de PUBG en PC Windows",
@@ -562,14 +562,14 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		uk: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "Cómo instalar trucos de PUBG en PC Windows",
 		metaDescription: "Instalación de trucos PUBG en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
 		h1: "Cómo instalar trucos de PUBG en PC Windows",
@@ -593,14 +593,14 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		cs: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "Cómo instalar trucos de PUBG en PC Windows",
 		metaDescription: "Instalación de trucos PUBG en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
 		h1: "Cómo instalar trucos de PUBG en PC Windows",
@@ -624,14 +624,14 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		ro: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "Cómo instalar trucos de PUBG en PC Windows",
 		metaDescription: "Instalación de trucos PUBG en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
 		h1: "Cómo instalar trucos de PUBG en PC Windows",
@@ -655,14 +655,14 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		sv: {
-		slug: "how-to-install-dota-2-cheats-windows",
+		slug: "how-to-install-pubg-hacks-windows",
 		title: "Cómo instalar trucos de PUBG en PC Windows",
 		metaDescription: "Instalación de trucos PUBG en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
 		h1: "Cómo instalar trucos de PUBG en PC Windows",
@@ -686,10 +686,10 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
-			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
-			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
-			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched PUBG before the loader. this order fixed it" },
+			{ author: "hotdrop_or_die", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "drop_king_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "loot_runner", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
 		},
@@ -703,37 +703,37 @@ export const blogPosts: BlogPostDefinition[] = [
 		featured: true,
 		translations: {
 		en: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "PUBG ESP Settings: What Works Best in Ranked?",
-		metaDescription: "PUBG ESP settings for ranked — player boxes, ward vision, rune timers, and opacity levels that stay readable without cluttering your screen.",
+		metaDescription: "PUBG ESP settings for ranked — player boxes, loot ESP, vehicle markers, and opacity levels that stay readable without cluttering your screen.",
 		h1: "PUBG ESP Settings: What Works Best in Ranked?",
-		intro: "Ranked ESP is not about seeing everything — it is about seeing the right things at the right time. Here is how I run player ESP, ward dots, and courier tags without turning the screen into a Christmas tree.",
+		intro: "Ranked ESP is not about seeing everything — it is about seeing the right things at the right time. Here is how I run player ESP, loot filters, and vehicle markers without turning the screen into a Christmas tree.",
 		keywords: ["PUBG esp settings","PUBG esp ranked","PUBG wallhack settings"],
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
 		],
 		},
 		es: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
 		metaDescription: "Ajustes ESP PUBG para ranked — cajas, wards, runas y opacidad.",
 		h1: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
@@ -742,28 +742,28 @@ export const blogPosts: BlogPostDefinition[] = [
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
 		],
 		},
 		fr: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "Réglages ESP PUBG : que choisir en ranked ?",
 		metaDescription: "Réglages ESP PUBG ranked — boîtes, wards, runes, opacité.",
 		h1: "Réglages ESP PUBG : que choisir en ranked ?",
@@ -772,28 +772,28 @@ export const blogPosts: BlogPostDefinition[] = [
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "classé feels smoother at 60% box opacity. trust" }
 		],
 		},
 		de: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "PUBG ESP-Einstellungen für Ranked",
 		metaDescription: "PUBG ESP für Ranked — Boxen, Wards, Runen, Deckkraft.",
 		h1: "PUBG ESP-Einstellungen für Ranked",
@@ -802,28 +802,28 @@ export const blogPosts: BlogPostDefinition[] = [
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "Ranked feels smoother at 60% box opacity. trust" }
 		],
 		},
 		pt: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
 		metaDescription: "Ajustes ESP PUBG para ranked — cajas, wards, runas y opacidad.",
 		h1: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
@@ -832,28 +832,28 @@ export const blogPosts: BlogPostDefinition[] = [
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
 		],
 		},
 		it: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
 		metaDescription: "Ajustes ESP PUBG para ranked — cajas, wards, runas y opacidad.",
 		h1: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
@@ -862,28 +862,28 @@ export const blogPosts: BlogPostDefinition[] = [
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
 		],
 		},
 		nl: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
 		metaDescription: "Ajustes ESP PUBG para ranked — cajas, wards, runas y opacidad.",
 		h1: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
@@ -892,28 +892,28 @@ export const blogPosts: BlogPostDefinition[] = [
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
 		],
 		},
 		pl: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
 		metaDescription: "Ajustes ESP PUBG para ranked — cajas, wards, runas y opacidad.",
 		h1: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
@@ -922,28 +922,28 @@ export const blogPosts: BlogPostDefinition[] = [
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
 		],
 		},
 		ru: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
 		metaDescription: "Ajustes ESP PUBG para ranked — cajas, wards, runas y opacidad.",
 		h1: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
@@ -952,28 +952,28 @@ export const blogPosts: BlogPostDefinition[] = [
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "ранкед feels smoother at 60% box opacity. trust" }
 		],
 		},
 		tr: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
 		metaDescription: "Ajustes ESP PUBG para ranked — cajas, wards, runas y opacidad.",
 		h1: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
@@ -982,28 +982,28 @@ export const blogPosts: BlogPostDefinition[] = [
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
 		],
 		},
 		ar: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
 		metaDescription: "Ajustes ESP PUBG para ranked — cajas, wards, runas y opacidad.",
 		h1: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
@@ -1012,28 +1012,28 @@ export const blogPosts: BlogPostDefinition[] = [
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
 		],
 		},
 		ja: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
 		metaDescription: "Ajustes ESP PUBG para ranked — cajas, wards, runas y opacidad.",
 		h1: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
@@ -1042,28 +1042,28 @@ export const blogPosts: BlogPostDefinition[] = [
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "ランク feels smoother at 60% box opacity. trust" }
 		],
 		},
 		ko: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
 		metaDescription: "Ajustes ESP PUBG para ranked — cajas, wards, runas y opacidad.",
 		h1: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
@@ -1072,28 +1072,28 @@ export const blogPosts: BlogPostDefinition[] = [
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "랭크 feels smoother at 60% box opacity. trust" }
 		],
 		},
 		zh: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
 		metaDescription: "Ajustes ESP PUBG para ranked — cajas, wards, runas y opacidad.",
 		h1: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
@@ -1102,28 +1102,28 @@ export const blogPosts: BlogPostDefinition[] = [
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "排位 feels smoother at 60% box opacity. trust" }
 		],
 		},
 		hi: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
 		metaDescription: "Ajustes ESP PUBG para ranked — cajas, wards, runas y opacidad.",
 		h1: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
@@ -1132,28 +1132,28 @@ export const blogPosts: BlogPostDefinition[] = [
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
 		],
 		},
 		id: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
 		metaDescription: "Ajustes ESP PUBG para ranked — cajas, wards, runas y opacidad.",
 		h1: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
@@ -1162,28 +1162,28 @@ export const blogPosts: BlogPostDefinition[] = [
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
 		],
 		},
 		th: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
 		metaDescription: "Ajustes ESP PUBG para ranked — cajas, wards, runas y opacidad.",
 		h1: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
@@ -1192,28 +1192,28 @@ export const blogPosts: BlogPostDefinition[] = [
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
 		],
 		},
 		vi: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
 		metaDescription: "Ajustes ESP PUBG para ranked — cajas, wards, runas y opacidad.",
 		h1: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
@@ -1222,28 +1222,28 @@ export const blogPosts: BlogPostDefinition[] = [
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
 		],
 		},
 		uk: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
 		metaDescription: "Ajustes ESP PUBG para ranked — cajas, wards, runas y opacidad.",
 		h1: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
@@ -1252,28 +1252,28 @@ export const blogPosts: BlogPostDefinition[] = [
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
 		],
 		},
 		cs: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
 		metaDescription: "Ajustes ESP PUBG para ranked — cajas, wards, runas y opacidad.",
 		h1: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
@@ -1282,28 +1282,28 @@ export const blogPosts: BlogPostDefinition[] = [
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
 		],
 		},
 		ro: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
 		metaDescription: "Ajustes ESP PUBG para ranked — cajas, wards, runas y opacidad.",
 		h1: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
@@ -1312,28 +1312,28 @@ export const blogPosts: BlogPostDefinition[] = [
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
 		],
 		},
 		sv: {
-		slug: "dota-2-esp-settings-ranked-matches",
+		slug: "pubg-esp-settings-ranked-matches",
 		title: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
 		metaDescription: "Ajustes ESP PUBG para ranked — cajas, wards, runas y opacidad.",
 		h1: "Ajustes ESP PUBG: ¿qué funciona en ranked?",
@@ -1342,22 +1342,22 @@ export const blogPosts: BlogPostDefinition[] = [
 		imageAlt: "PUBG ESP settings panel with player overlay toggles",
 		sections: [
 			{
-				h2: "Hero ESP vs map clutter",
+				h2: "Player ESP vs screen clutter",
 				paragraphs: [
-					"Keep enemy player boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
-					"Ward ESP saved me more rank than any aim feature. Set ward dots to pulse only when within smoke range.",
+					"Keep enemy player boxes at 70% opacity and hide teammate clutter in squads. Distance tags past 400m are noise in late game.",
+					"Loot ESP and vehicle markers saved more wins than raw aim assist. Pulse vehicle icons only inside 150m.",
 				],
 			},
 			{
-				h2: "Profiles per role",
+				h2: "Profiles per weapon",
 				paragraphs: [
-					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, player ESP medium, courier tag on.",
-					"Save profiles per player if you swap roles. Copying a carry config on Rubick feels awful.",
+					"DMR profile: skillshot assist low, ESP high, minimap radar medium. SMG rush: loot ESP max, player ESP medium, vehicle tag on.",
+					"Save weapon profiles per gun. Copying an AR config on a DMR feels awful.",
 				],
 			}
 		],
 		comments: [
-			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "squad_lead", date: "2026-08-19", body: "loot ESP alone worth the sub. finally looting spots i never checked" },
 			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
 			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
 		],
@@ -1375,9 +1375,9 @@ export const blogPosts: BlogPostDefinition[] = [
 		en: {
 		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
 		title: "Skillshot Assist Settings: What Level & Why Won't I Get Banned?",
-		metaDescription: "PUBG skillshot assist settings explained — smoothing, FOV, and humanizer sliders. What levels look natural and how VAC flags obvious automation.",
+		metaDescription: "PUBG skillshot assist settings explained — smoothing, FOV, and humanizer sliders. What levels look natural and how BattlEye flags obvious automation.",
 		h1: "Skillshot Assist Settings: What Level & Why Won't I Get Banned?",
-		intro: "Everyone asks the same question in every cheat Discord: \"what slider gets me banned?\" Short answer: max everything and clip it on TikTok. Long answer: here is what I run on raider, operator, and Mirana without looking like a bot.",
+		intro: "Everyone asks the same question in every cheat Discord: \"what slider gets me banned?\" Short answer: max everything and clip it on TikTok. Long answer: here is what I run on DMRs, ARs, and SMGs without looking like a bot.",
 		keywords: ["PUBG aimbot settings","PUBG skillshot assist","PUBG hack ban"],
 		imageAlt: "PUBG skillshot assist FOV and smoothing sliders",
 		sections: [
@@ -1385,13 +1385,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in ranked.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in ranked.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -1400,7 +1400,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -1417,13 +1417,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in ranked.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in ranked.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -1432,7 +1432,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -1449,13 +1449,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in classé.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in classé.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -1464,7 +1464,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -1481,13 +1481,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in Ranked.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in Ranked.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -1496,7 +1496,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -1513,13 +1513,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in ranked.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in ranked.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -1528,7 +1528,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -1545,13 +1545,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in ranked.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in ranked.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -1560,7 +1560,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -1577,13 +1577,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in ranked.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in ranked.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -1592,7 +1592,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -1609,13 +1609,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in ranked.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in ranked.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -1624,7 +1624,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -1641,13 +1641,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in ранкед.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in ранкед.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -1656,7 +1656,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -1673,13 +1673,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in ranked.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in ranked.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -1688,7 +1688,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -1705,13 +1705,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in ranked.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in ranked.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -1720,7 +1720,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -1737,13 +1737,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in ランク.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in ランク.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -1752,7 +1752,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -1769,13 +1769,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in 랭크.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in 랭크.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -1784,7 +1784,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -1801,13 +1801,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in 排位.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in 排位.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -1816,7 +1816,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -1833,13 +1833,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in ranked.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in ranked.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -1848,7 +1848,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -1865,13 +1865,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in ranked.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in ranked.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -1880,7 +1880,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -1897,13 +1897,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in ranked.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in ranked.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -1912,7 +1912,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -1929,13 +1929,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in ranked.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in ranked.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -1944,7 +1944,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -1961,13 +1961,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in ranked.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in ranked.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -1976,7 +1976,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -1993,13 +1993,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in ranked.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in ranked.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -2008,7 +2008,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -2025,13 +2025,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in ranked.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in ranked.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -2040,7 +2040,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -2057,13 +2057,13 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Smoothing beats raw snap",
 				paragraphs: [
 					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
-					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+					"BattlEye does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
 				],
 			},
 			{
-				h2: "Hero-specific caps",
+				h2: "Weapon-specific caps",
 				paragraphs: [
-					"operator: medium assist, manual finish on clutch hooks. raider: only Sun Strike assist, not full combo scripts in ranked.",
+					"DMR: low assist with manual finish on long shots. SMG: short FOV bursts only — no full lock in ranked.",
 					"If you climb two ranks in a week, tone it down. Players notice before KRAFTON does.",
 				],
 			}
@@ -2072,7 +2072,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
 			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
 			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
-			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on max FOV snaps. you are not fooling anyone" },
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
@@ -2087,9 +2087,9 @@ export const blogPosts: BlogPostDefinition[] = [
 		featured: false,
 		translations: {
 		en: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack Features — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack Features — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2098,28 +2098,28 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
 		es: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack Funciones — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack Funciones — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2128,28 +2128,28 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
 		fr: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack Fonctions — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack Fonctions — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real classé game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2158,28 +2158,28 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
 		de: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack Funktionen — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack Funktionen — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real Ranked game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2188,28 +2188,28 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
 		pt: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack Recursos — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack Recursos — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2218,28 +2218,28 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
 		it: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack Funzioni — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack Funzioni — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2248,28 +2248,28 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
 		nl: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack Functies — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack Functies — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2278,28 +2278,28 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
 		pl: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack Funkcje — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack Funkcje — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2308,28 +2308,28 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
 		ru: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack Функции — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack Функции — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ранкед game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2338,28 +2338,28 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
 		tr: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack Özellikler — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack Özellikler — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2368,28 +2368,28 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
 		ar: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack الميزات — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack الميزات — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2398,28 +2398,28 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
 		ja: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack 機能 — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack 機能 — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ランク game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2428,28 +2428,28 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
 		ko: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack 기능 — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack 기능 — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real 랭크 game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2458,28 +2458,28 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
 		zh: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack 功能 — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack 功能 — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real 排位 game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2488,28 +2488,28 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
 		hi: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack फ़ीचर — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack फ़ीचर — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2518,28 +2518,28 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
 		id: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack Fitur — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack Fitur — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2548,28 +2548,28 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
 		th: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack ฟีเจอร์ — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack ฟีเจอร์ — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2578,28 +2578,28 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
 		vi: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack Tính năng — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack Tính năng — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2608,28 +2608,28 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
 		uk: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack Функції — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack Функції — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2638,28 +2638,28 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
 		cs: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack Funkce — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack Funkce — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2668,28 +2668,28 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
 		ro: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack Funcții — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack Funcții — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2698,28 +2698,28 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
 		sv: {
-		slug: "dota-2-cheats-features-full-breakdown",
+		slug: "pubg-hacks-features-full-breakdown",
 		title: "PUBG Hack Funktioner — Full Breakdown",
-		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		metaDescription: "Every PUBG hacks feature explained — ESP, maphack, skillshot assist, loot filter, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "PUBG Hack Funktioner — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
 		keywords: ["PUBG hacks features","PUBG hack features","PUBG esp aimbot"],
@@ -2728,21 +2728,21 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Vision tools",
 				paragraphs: [
-					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
-					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+					"Player ESP, loot filters, vehicle markers, and airdrop cues fall under vision. Maphack highlights compound layouts and last-known enemy positions through terrain.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for solo players.",
 				],
 			},
 			{
 				h2: "Mechanical assists",
 				paragraphs: [
-					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Skillshot assist, recoil control, trigger assist, and lean peek helpers helpers are mechanical. Higher risk, higher reward.",
 					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
 				],
 			}
 		],
 		comments: [
-			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
-			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for recoil script is heavy but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "loot filter at 85% feels legit. 100% looks robotic in replays" },
 			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
 		],
 		},
@@ -2757,640 +2757,640 @@ export const blogPosts: BlogPostDefinition[] = [
 		featured: false,
 		translations: {
 		en: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
 		es: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
 		fr: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
 		de: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
 		pt: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
 		it: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
 		nl: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
 		pl: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
 		ru: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
 		tr: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
 		ar: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
 		ja: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
 		ko: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
 		zh: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
 		hi: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
 		id: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
 		th: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
 		vi: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
 		uk: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
 		cs: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
 		ro: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
 		sv: {
-		slug: "maphack-vs-ward-vision-difference",
-		title: "Maphack vs Ward Vision — What's the Difference?",
-		metaDescription: "PUBG maphack vs ward ESP explained. Fog removal, player positions, and which setting gives better info for dewarding and ganks.",
-		h1: "Maphack vs Ward Vision — What's the Difference?",
-		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
-		keywords: ["PUBG maphack","PUBG ward hack","PUBG wallhack"],
-		imageAlt: "PUBG maphack fog removal compared to ward ESP dots",
+		slug: "maphack-vs-loot-esp-difference",
+		title: "Maphack vs Loot ESP — What's the Difference?",
+		metaDescription: "PUBG maphack vs loot ESP explained. Fog removal, player positions, and which setting gives better info for looting and ganks.",
+		h1: "Maphack vs Loot ESP — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and loot ESP solve different problems — here is when to use each.",
+		keywords: ["PUBG maphack","PUBG loot esp","PUBG wallhack"],
+		imageAlt: "PUBG maphack fog removal compared to loot ESP dots",
 		sections: [
 			{
 				h2: "Maphack draws geometry",
 				paragraphs: [
-					"Maphack removes fog of war on terrain and shows enemy players last seen on map. It does not replace true vision — you still cannot see invisible players without sentries.",
-					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+					"Maphack draws player trails and compound outlines on the minimap overlay and shows enemy players last seen on map. It does not replace true vision — you still cannot see prone players without line-of-sight.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of the firefight in front of you.",
 				],
 			},
 			{
-				h2: "Ward vision is precision",
+				h2: "Loot ESP is precision",
 				paragraphs: [
-					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
-					"I run ward vision always, maphack only on supports and initiators.",
+					"Loot ESP highlights weapons, meds, and attachments through walls. Pair with filter presets for hot-drop looting.",
+					"I run loot ESP always, maphack only on supports and initiators.",
 				],
 			}
 		],
 		comments: [
-			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "solo queue_king", date: "2026-08-29", body: "loot ESP > maphack for climbing. learned that the hard way" },
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
@@ -3405,13 +3405,13 @@ export const blogPosts: BlogPostDefinition[] = [
 		featured: false,
 		translations: {
 		en: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3423,19 +3423,19 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		es: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3447,19 +3447,19 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		fr: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3471,19 +3471,19 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		de: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3495,19 +3495,19 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		pt: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3519,19 +3519,19 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		it: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3543,19 +3543,19 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		nl: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3567,19 +3567,19 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		pl: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3591,19 +3591,19 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		ru: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3615,19 +3615,19 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		tr: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3639,19 +3639,19 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		ar: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3663,19 +3663,19 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		ja: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3687,19 +3687,19 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		ko: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3711,19 +3711,19 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		zh: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3735,19 +3735,19 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		hi: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3759,19 +3759,19 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		id: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3783,19 +3783,19 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		th: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3807,19 +3807,19 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		vi: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3831,19 +3831,19 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		uk: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3855,19 +3855,19 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		cs: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3879,19 +3879,19 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		ro: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3903,19 +3903,19 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		sv: {
-		slug: "auto-last-hit-script-natural-settings",
-		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
-		metaDescription: "PUBG auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
-		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		slug: "loot-filter-script-natural-settings",
+		title: "Loot Filter Script: Settings That Actually Feel Natural",
+		metaDescription: "PUBG loot filter script settings for lane — miss rate, attack move delay, and attachment priority. Stay believable while securing CS.",
+		h1: "Loot Filter Script: Settings That Actually Feel Natural",
 		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
-		keywords: ["PUBG auto last hit","PUBG scripts","PUBG hack lane"],
-		imageAlt: "PUBG auto last hit script timing settings",
+		keywords: ["PUBG loot filter","PUBG scripts","PUBG hack lane"],
+		imageAlt: "PUBG loot filter script timing settings",
 		sections: [
 			{
 				h2: "Miss rate matters",
@@ -3927,9 +3927,9 @@ export const blogPosts: BlogPostDefinition[] = [
 		],
 		comments: [
 			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
-			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
-			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
-			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+			{ author: "recoil_gap", date: "2026-09-03", body: "attachment priority too obvious in replays. turned off" },
+			{ author: "compound_rush", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on DMR. just practice" }
 		],
 		},
 		},
@@ -3947,7 +3947,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -3969,7 +3969,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -3991,7 +3991,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in classé replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -4013,7 +4013,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in Ranked replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -4035,7 +4035,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -4057,7 +4057,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -4079,7 +4079,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -4101,7 +4101,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -4123,7 +4123,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in ранкед replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -4145,7 +4145,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -4167,7 +4167,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -4189,7 +4189,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in ランク replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -4211,7 +4211,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in 랭크 replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -4233,7 +4233,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in 排位 replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -4255,7 +4255,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -4277,7 +4277,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -4299,7 +4299,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -4321,7 +4321,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -4343,7 +4343,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -4365,7 +4365,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -4387,7 +4387,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -4409,7 +4409,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Camera Hack Distance: How Far Is Too Far?",
 		metaDescription: "PUBG camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
 		h1: "Camera Hack Distance: How Far Is Too Far?",
-		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your solo queue feels different at +15%.",
 		keywords: ["PUBG camera hack","PUBG zoom hack","PUBG hacks camera"],
 		imageAlt: "PUBG camera distance hack slider comparison",
 		sections: [
@@ -4442,7 +4442,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -4467,7 +4467,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -4492,7 +4492,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -4517,7 +4517,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -4542,7 +4542,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -4567,7 +4567,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -4592,7 +4592,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -4617,7 +4617,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -4642,7 +4642,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -4667,7 +4667,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -4692,7 +4692,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -4717,7 +4717,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -4742,7 +4742,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -4767,7 +4767,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -4792,7 +4792,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -4817,7 +4817,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -4842,7 +4842,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -4867,7 +4867,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -4892,7 +4892,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -4917,7 +4917,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -4942,7 +4942,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -4967,7 +4967,7 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "PUBG hack not working after patch — loader errors, BattlEye update, overlay crash fixes. Checklist before opening a support ticket.",
 		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
 		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
-		keywords: ["PUBG hack not working","PUBG hack patch","PUBG vac update"],
+		keywords: ["PUBG hack not working","PUBG hack patch","PUBG BattlEye update"],
 		imageAlt: "PUBG hack loader error after game patch",
 		sections: [
 			{
@@ -5524,15 +5524,15 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		es: {
@@ -5547,15 +5547,15 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		fr: {
@@ -5570,15 +5570,15 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		de: {
@@ -5593,15 +5593,15 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		pt: {
@@ -5616,15 +5616,15 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		it: {
@@ -5639,15 +5639,15 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		nl: {
@@ -5662,15 +5662,15 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		pl: {
@@ -5685,15 +5685,15 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		ru: {
@@ -5708,15 +5708,15 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		tr: {
@@ -5731,15 +5731,15 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		ar: {
@@ -5754,15 +5754,15 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		ja: {
@@ -5777,15 +5777,15 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		ko: {
@@ -5800,15 +5800,15 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		zh: {
@@ -5823,15 +5823,15 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		hi: {
@@ -5846,15 +5846,15 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		id: {
@@ -5869,15 +5869,15 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		th: {
@@ -5892,15 +5892,15 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		vi: {
@@ -5915,15 +5915,15 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		uk: {
@@ -5938,15 +5938,15 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		cs: {
@@ -5961,15 +5961,15 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		ro: {
@@ -5984,15 +5984,15 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		sv: {
@@ -6007,21 +6007,21 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Audio vs visual pings",
 				paragraphs: [
-					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
-					"Disable ally false positives — courier and illusions spam the log otherwise.",
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on flank audio when a squad crosses your sector.",
+					"Disable ally false positives — decoy smokes and vehicle noise spam the log otherwise.",
 				],
 			}
 		],
 		comments: [
 			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
-			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
-			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with smoke pops. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with loot ESP. radar alone not enough high rank" }
 		],
 		},
 		},
 	},
 	{
-		id: "meepo-combo",
+		id: "recoil-profiles",
 		imageKey: "raidFight",
 		published: "2026-09-11",
 		updated: "2026-09-15",
@@ -6029,528 +6029,528 @@ export const blogPosts: BlogPostDefinition[] = [
 		featured: false,
 		translations: {
 		en: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — Setup Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
-		h1: "Meepo Combo Scripts — Setup Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — Setup Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Recoil Control Profiles — Setup Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		es: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — Configuración Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
-		h1: "Meepo Combo Scripts — Configuración Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — Configuración Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Recoil Control Profiles — Configuración Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		fr: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — Configuration Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in classé without locking your screen.",
-		h1: "Meepo Combo Scripts — Configuration Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — Configuration Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in classé without locking your screen.",
+		h1: "Recoil Control Profiles — Configuration Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		de: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — Setup Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in Ranked without locking your screen.",
-		h1: "Meepo Combo Scripts — Setup Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — Setup Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in Ranked without locking your screen.",
+		h1: "Recoil Control Profiles — Setup Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		pt: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — Configuração Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
-		h1: "Meepo Combo Scripts — Configuração Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — Configuração Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Recoil Control Profiles — Configuração Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		it: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — Configurazione Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
-		h1: "Meepo Combo Scripts — Configurazione Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — Configurazione Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Recoil Control Profiles — Configurazione Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		nl: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — Setup Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
-		h1: "Meepo Combo Scripts — Setup Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — Setup Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Recoil Control Profiles — Setup Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		pl: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — Konfiguracja Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
-		h1: "Meepo Combo Scripts — Konfiguracja Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — Konfiguracja Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Recoil Control Profiles — Konfiguracja Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		ru: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — Настройка Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ранкед without locking your screen.",
-		h1: "Meepo Combo Scripts — Настройка Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — Настройка Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in ранкед without locking your screen.",
+		h1: "Recoil Control Profiles — Настройка Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		tr: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — Kurulum Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
-		h1: "Meepo Combo Scripts — Kurulum Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — Kurulum Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Recoil Control Profiles — Kurulum Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		ar: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — الإعداد Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
-		h1: "Meepo Combo Scripts — الإعداد Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — الإعداد Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Recoil Control Profiles — الإعداد Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		ja: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — セットアップ Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ランク without locking your screen.",
-		h1: "Meepo Combo Scripts — セットアップ Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — セットアップ Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in ランク without locking your screen.",
+		h1: "Recoil Control Profiles — セットアップ Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		ko: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — 설정 Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in 랭크 without locking your screen.",
-		h1: "Meepo Combo Scripts — 설정 Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — 설정 Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in 랭크 without locking your screen.",
+		h1: "Recoil Control Profiles — 설정 Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		zh: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — 设置 Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in 排位 without locking your screen.",
-		h1: "Meepo Combo Scripts — 设置 Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — 设置 Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in 排位 without locking your screen.",
+		h1: "Recoil Control Profiles — 设置 Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		hi: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — सेटअप Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
-		h1: "Meepo Combo Scripts — सेटअप Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — सेटअप Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Recoil Control Profiles — सेटअप Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		id: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — Pengaturan Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
-		h1: "Meepo Combo Scripts — Pengaturan Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — Pengaturan Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Recoil Control Profiles — Pengaturan Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		th: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — การตั้งค่า Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
-		h1: "Meepo Combo Scripts — การตั้งค่า Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — การตั้งค่า Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Recoil Control Profiles — การตั้งค่า Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		vi: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — Cài đặt Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
-		h1: "Meepo Combo Scripts — Cài đặt Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — Cài đặt Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Recoil Control Profiles — Cài đặt Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		uk: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — Налаштування Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
-		h1: "Meepo Combo Scripts — Налаштування Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — Налаштування Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Recoil Control Profiles — Налаштування Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		cs: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — Nastavení Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
-		h1: "Meepo Combo Scripts — Nastavení Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — Nastavení Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Recoil Control Profiles — Nastavení Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		ro: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — Configurare Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
-		h1: "Meepo Combo Scripts — Configurare Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — Configurare Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Recoil Control Profiles — Configurare Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		sv: {
-		slug: "meepo-combo-script-setup-guide",
-		title: "Meepo Combo Scripts — Installation Guide",
-		metaDescription: "PUBG meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
-		h1: "Meepo Combo Scripts — Installation Guide",
-		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
-		keywords: ["PUBG meepo script","PUBG combo script","PUBG hacks meepo"],
-		imageAlt: "PUBG meepo combo script keybind configuration",
+		slug: "recoil-control-profiles-setup-guide",
+		title: "Recoil Control Profiles — Installation Guide",
+		metaDescription: "PUBG recoil control profile setup — recoil pulls, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Recoil Control Profiles — Installation Guide",
+		intro: "Recoil scripts are easy to over-tune. This is how I bound tap-fire and pull-down chains without locking onto every shot.",
+		keywords: ["PUBG recoil profile","PUBG recoil script","PUBG hacks recoil"],
+		imageAlt: "PUBG recoil control profile keybind configuration",
 		sections: [
 			{
 				h2: "Keybind layout",
 				paragraphs: [
-					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
-					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+					"One key for tap-fire pull-down, separate key for crouch peek reset. Never bind full spray lock to spacebar — you will panic press it in the lobby.",
+					"Human delay between recoil steps at 40–60 ms looks cleaner on replay than instant frame-perfect control.",
 				],
 			}
 		],
 		comments: [
-			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
-			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "tap_fire_99", date: "2026-09-12", body: "finally hit Diamond after tuning setup. still over-pull on Beryl sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin muscle memory. learn recoil" },
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
 		},
 	},
 	{
-		id: "vac-maintenance",
+		id: "battleye-maintenance",
 		imageKey: "hero",
 		published: "2026-09-13",
 		updated: "2026-09-16",
-		category: "VAC",
+		category: "BattlEye",
 		featured: false,
 		translations: {
 		en: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -6562,19 +6562,19 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
 		],
 		},
 		es: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -6586,19 +6586,19 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
 		],
 		},
 		fr: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -6610,19 +6610,19 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
 		],
 		},
 		de: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -6634,19 +6634,19 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
 		],
 		},
 		pt: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -6658,19 +6658,19 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
 		],
 		},
 		it: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -6682,19 +6682,19 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
 		],
 		},
 		nl: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -6706,19 +6706,19 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
 		],
 		},
 		pl: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -6730,19 +6730,19 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
 		],
 		},
 		ru: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -6754,19 +6754,19 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
 		],
 		},
 		tr: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -6778,19 +6778,19 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
 		],
 		},
 		ar: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -6802,19 +6802,19 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
 		],
 		},
 		ja: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -6826,19 +6826,19 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
 		],
 		},
 		ko: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -6850,19 +6850,19 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
 		],
 		},
 		zh: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -6874,19 +6874,19 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
 		],
 		},
 		hi: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -6898,19 +6898,19 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
 		],
 		},
 		id: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -6922,19 +6922,19 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
 		],
 		},
 		th: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -6946,19 +6946,19 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
 		],
 		},
 		vi: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -6970,19 +6970,19 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
 		],
 		},
 		uk: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -6994,19 +6994,19 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
 		],
 		},
 		cs: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -7018,19 +7018,19 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
 		],
 		},
 		ro: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -7042,19 +7042,19 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
 		],
 		},
 		sv: {
-		slug: "vac-update-what-to-do-before-ranked",
-		title: "VAC Update: What to Do Before Queuing Ranked",
+		slug: "battleye-update-what-to-do-before-ranked",
+		title: "BattlEye update: What to Do Before Queuing Ranked",
 		metaDescription: "PUBG BattlEye update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after KRAFTON patches.",
-		h1: "VAC Update: What to Do Before Queuing Ranked",
+		h1: "BattlEye update: What to Do Before Queuing Ranked",
 		intro: "KRAFTON pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
-		keywords: ["PUBG vac update","PUBG hack vac","PUBG hack ban risk"],
+		keywords: ["PUBG BattlEye update","PUBG hack BattlEye","PUBG hack ban risk"],
 		imageAlt: "PUBG BattlEye update status check before launching cheats",
 		sections: [
 			{
@@ -7066,7 +7066,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			}
 		],
 		comments: [
-			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after BattlEye notes. no issues since" },
 			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
 			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
 			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }

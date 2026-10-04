@@ -53,7 +53,7 @@ const seoDefaults = {
 		'PUBG hacks with ESP, aimbot and wallhack for battle royale matches on PC. Hero vision, maphack, skillshot assist, and BattlEye maintenance after patches.',
 	featuresTitle: 'PUBG Hack Features | ESP, Aimbot & Maphack',
 	featuresDescription:
-		'Full PUBG hacks feature list — player ESP, ward vision, maphack, skillshot assist, and config profiles on PC. {antiCheat} maintenance at pubg-hack.org.',
+		'Full PUBG hacks feature list — player ESP, loot ESP, maphack, skillshot assist, and config profiles on PC. {antiCheat} maintenance at pubg-hack.org.',
 	storeTitle: 'PUBG Hack Pricing | $35/mo or $150 Lifetime',
 	storeDescription:
 		'Buy PUBG hacks at pubg-hack.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.',

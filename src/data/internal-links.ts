@@ -285,11 +285,11 @@ const blogCategoryLinks: Record<string, InternalLinkTarget[]> = {
 
 const gameplayIntelCategories = new Set([
 	'Cosmetics',
-	'Heroes',
-	'Ward Vision',
+	'Loot ESP',
 	'Map Control',
 	'Settings',
 	'Warmup',
+	'Patch Notes',
 ]);
 
 const gameplayIntelLinks: InternalLinkTarget[] = [

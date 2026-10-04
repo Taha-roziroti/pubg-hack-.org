@@ -110,7 +110,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "PUBG ESP, Aimbot & Wallhack",
-					description: "PUBG hacks with ESP, aimbot and wallhack for battle royale matches on PC. player ESP, ward vision, Skillshot assist, and radar with BattlEye maintenance.",
+					description: "PUBG hacks with ESP, aimbot and wallhack for battle royale matches on PC. player ESP, loot ESP, Skillshot assist, and radar with BattlEye maintenance.",
 					h1: "PUBG Hack",
 					intro: "PUBG Hack is the PUBG hacks package for Windows PC — player ESP, item ESP, 2D radar, and configurable aimbot with BattlEye maintenance after every major patch.",
 					imageAlt: "PUBG hacks player — extraction zone fight over the map with PUBG player overlooking the map",

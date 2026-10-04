@@ -13,8 +13,8 @@ export const REVIEW_ITEMS_I18N = {
 			seoDescription: '@xKrypt0_PUBG note le soft aim de PUBG Hack 5/5 après des tests en ranked sur PC Windows.',
 		},
 		de: {
-			short: 'Habe vorher 3 Dota-2-Cheats getestet. PUBG Hack wirken in Ranked menschlich, sobald man Soft Aim einstellt.',
-			text: 'Ich habe drei verschiedene Dota-2-Hacks ausprobiert — alle wirkten in Ranked zu abrupt. PUBG Hack lässt Soft Aim so fein einstellen, dass es in hohem rank nicht auffällt. Eine Woche grinden; Setup dauerte ca. 12 Minuten nach Loader-Whitelist. Bisher kein Drama.',
+			short: 'Habe vorher 3 PUBG-Cheats getestet. PUBG Hack wirken in Ranked menschlich, sobald man Soft Aim einstellt.',
+			text: 'Ich habe drei verschiedene PUBG-Hacks ausprobiert — alle wirkten in Ranked zu abrupt. PUBG Hack lässt Soft Aim so fein einstellen, dass es in hohem rank nicht auffällt. Eine Woche grinden; Setup dauerte ca. 12 Minuten nach Loader-Whitelist. Bisher kein Drama.',
 			seoTitle: 'Soft-Aim-Test von @xKrypt0_PUBG — 5/5 | PUBG Hack',
 			seoDescription: '@xKrypt0_PUBG bewertet Soft Aim bei PUBG Hack mit 5/5 nach Ranked-Tests auf Windows-PC.',
 		},
@@ -912,7 +912,7 @@ export const REVIEW_ITEMS_I18N = {
 			short: '2D-Radar bei PUBG Hack hat Flanken auf der Map zweimal erwischt. ESP plus Radar wirkt wie echte Cheats.',
 			text: 'Alle reden von ESP, aber das 2D-Radar bei PUBG Hack ist krass. Habe in einem Match zweimal eine Flanke auf der Map erwischt, ohne auf Wallhack-Boxen zu starren. ESP plus Radar wirkt wie Tier-1-Cheats. Lauf mit niedriger Deckkraft, damit es in Clips nicht schreit.',
 			seoTitle: 'Radar-Test von @vanLifePUBG — 5/5 | PUBG Hack',
-			seoDescription: '@vanLifePUBG bewertet Radar bei PUBG Hack mit 5/5 für Flanken-Erkennung auf der Dota-2-Map auf Windows-PC.',
+			seoDescription: '@vanLifePUBG bewertet Radar bei PUBG Hack mit 5/5 für Flanken-Erkennung auf der PUBG-Map auf Windows-PC.',
 		},
 		pt: {
 			short: 'O radar 2D do PUBG Hack pegou flancos no mapa duas vezes. Combo ESP e radar parece cheat de verdade.',
@@ -1037,8 +1037,8 @@ export const REVIEW_ITEMS_I18N = {
 			seoDescription: '@patchDayMike note les mises à jour statut de PUBG Hack 4/5 après patchs VAC sur PUBG pour PC Windows.',
 		},
 		de: {
-			short: 'Patch-Tag killt oft Dota-2-Hacks. PUBG Hack war am nächsten Morgen zurück; alter Anbieter brauchte vier Tage.',
-			text: 'Am Dota-2-Patch-Tag schweigen die halben Cheat-Discords. Das PUBG Hack-Team postete nach ~3 Stunden im Status und ich war am nächsten Morgen wieder in der Ranked-Queue. Mein alter Anbieter ließ mich vier Tage ohne Loader warten. Nicht perfekt, aber Support ist viel besser als gewohnt.',
+			short: 'Patch-Tag killt oft PUBG-Hacks. PUBG Hack war am nächsten Morgen zurück; alter Anbieter brauchte vier Tage.',
+			text: 'Am PUBG-Patch-Tag schweigen die halben Cheat-Discords. Das PUBG Hack-Team postete nach ~3 Stunden im Status und ich war am nächsten Morgen wieder in der Ranked-Queue. Mein alter Anbieter ließ mich vier Tage ohne Loader warten. Nicht perfekt, aber Support ist viel besser als gewohnt.',
 			seoTitle: 'Status-Test von @patchDayMike — 4/5 | PUBG Hack',
 			seoDescription: '@patchDayMike bewertet PUBG Hack Status-Updates mit 4/5 nach VAC-Patches auf PUBG für Windows-PC.',
 		},
@@ -1166,7 +1166,7 @@ export const REVIEW_ITEMS_I18N = {
 		},
 		de: {
 			short: 'Carry-Main. Soft Aim plus ESP bei PUBG Hack trifft anders auf der Map, wenn die Einstellungen subtil bleiben.',
-			text: 'Carry-Main hier. Langstrecken-Soft-Aim bei PUBG Hack mit ESP-Callouts ist stark, wenn die Settings dezent bleiben. Kein aufgeblähter Loader, einfache Installation auf Windows 11. Beste Dota-2-Hacks, die ich für Ranked-Sessions auf der Map genutzt habe — cranked den FOV nicht wie ein Idiot.',
+			text: 'Carry-Main hier. Langstrecken-Soft-Aim bei PUBG Hack mit ESP-Callouts ist stark, wenn die Settings dezent bleiben. Kein aufgeblähter Loader, einfache Installation auf Windows 11. Beste PUBG-Hacks, die ich für Ranked-Sessions auf der Map genutzt habe — cranked den FOV nicht wie ein Idiot.',
 			seoTitle: 'Carry Soft Aim von @snipezOnly_ — 5/5 | PUBG Hack',
 			seoDescription: '@snipezOnly_ bewertet Carry-Soft-Aim bei PUBG Hack mit 5/5 mit ESP auf PUBG für Windows-PC.',
 		},

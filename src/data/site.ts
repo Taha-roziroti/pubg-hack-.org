@@ -121,7 +121,7 @@ export const homeFaqs: readonly FaqItem[] = [
 	faq({
 		question: 'Does this work in ranked and casual matches?',
 		answer:
-			'Yes. ESP, radar, and skillshot assist are built for {game} match flow — tracking enemy players, reading ward vision, and staying aware during lane pushes and team fights.',
+			'Yes. ESP, radar, and skillshot assist are built for {game} match flow — tracking enemy players, reading loot and vehicle cues, and staying aware during rotations and team fights.',
 		slug: 'pubg-ranked-competitive-play',
 		seoTitle: 'Ranked & Casual Play | {brand} FAQ',
 		seoDescription:
@@ -130,7 +130,7 @@ export const homeFaqs: readonly FaqItem[] = [
 	faq({
 		question: 'What is included — ESP, wallhack, radar, or Aimbot?',
 		answer:
-			'{brand} bundles ESP wallhack, player markers, ward vision, 2D radar cues, and configurable skillshot assist in one license. See Features for the full list.',
+			'{brand} bundles ESP wallhack, player markers, loot ESP, 2D radar cues, and configurable skillshot assist in one license. See Features for the full list.',
 		slug: 'esp-wallhack-radar-or-aimbot',
 		seoTitle: 'What Is Included: ESP, Wallhack, Radar, Aimbot | FAQ',
 		seoDescription:
@@ -188,16 +188,16 @@ export const seoFaqs: readonly FaqItem[] = [
 	faq({
 		question: 'What is a {game} wallhack?',
 		answer:
-			'A {game} wallhack is an ESP overlay that shows enemy players, wards, and runes through the fog of war. {brand} includes distance readouts, player ability cues, and toggleable categories.',
+			'A {game} wallhack is an ESP overlay that shows enemy players, loot, and vehicles through terrain and smoke. {brand} includes distance readouts, weapon cues, and toggleable categories.',
 		slug: 'what-is-a-pubg-wallhack',
 		seoTitle: 'What Is a {game} Wallhack? | FAQ',
 		seoDescription:
-			'A {game} wallhack is ESP that reveals players, wards, and objectives — with distance tags and category toggles.',
+			'A {game} wallhack is ESP that reveals players, loot, and vehicles — with distance tags and category toggles.',
 	}),
 	faq({
 		question: 'Does {brand} include a radar hack?',
 		answer:
-			'Yes. {brand} includes 2D radar overlays that highlight missing players and ganks outside your screen — useful for map awareness and lane safety.',
+			'Yes. {brand} includes 2D radar overlays that highlight nearby squads outside your screen — useful for map awareness and third-party safety.',
 		slug: 'does-pubg-cheats-include-radar-hack',
 		seoTitle: 'Does {brand} Include a Radar Hack? | FAQ',
 		seoDescription:
@@ -224,16 +224,16 @@ export const seoFaqs: readonly FaqItem[] = [
 	faq({
 		question: 'What is a {game} ESP hack?',
 		answer:
-			'A {game} ESP hack is a visibility overlay that shows enemy players, wards, and runes through the fog of war. {brand} ESP includes player boxes, distance tags, ability cooldown cues, and toggleable categories for ranked and casual matches.',
+			'A {game} ESP hack is a visibility overlay that shows enemy players, loot, and vehicles through terrain. {brand} ESP includes player boxes, distance tags, weapon cues, and toggleable categories for ranked and casual matches.',
 		slug: 'what-is-pubg-esp-hack',
 		seoTitle: 'What Is a {game} ESP Hack? | FAQ',
 		seoDescription:
-			'{game} ESP hack explained — player wallhack, ward vision, and distance tags in one {brand} license for Windows PC.',
+			'{game} ESP hack explained — player wallhack, loot ESP, and distance tags in one {brand} license for Windows PC.',
 	}),
 	faq({
 		question: 'What is a {game} aimbot hack?',
 		answer:
-			'A {game} aimbot hack provides skillshot assist with configurable FOV, smoothing, and target priority. {brand} uses natural assist profiles for team fights and lane duels — tune settings in the overlay before ranked queues.',
+			'A {game} aimbot hack provides skillshot assist with configurable FOV, smoothing, and target priority. {brand} uses natural assist profiles for team fights and close-range duels — tune settings in the overlay before ranked queues.',
 		slug: 'what-is-pubg-aimbot-hack',
 		seoTitle: 'What Is a {game} Aimbot Hack? | FAQ',
 		seoDescription:
@@ -416,12 +416,12 @@ export const customerReviews = [
 	reviewMeta({
 		handle: 'wardVisionGoblin',
 		rating: 5,
-		text: 'mainly wanted player ESP and ward tracking. PUBG Hack shows missing mids and jungle paths earlier than I would spot them. duo queue is less chaotic when you see ganks coming. way better than random free cheats.',
-		short: 'Hero ESP catches missing players and ganks early. Much better than sketchy free cheats.',
+		text: 'mainly wanted player ESP and loot filters. PUBG Hack shows flanking squads and vehicle pushes earlier than I would spot them. duo queue is less chaotic when you see third parties coming. way better than random free cheats.',
+		short: 'Player ESP catches flanks and third parties early. Much better than sketchy free cheats.',
 		slug: 'pubg-agent-esp-review-weapondrops-goblinx',
-		seoTitle: 'Hero ESP Review by @wardVisionGoblin — 5/5 | {brand}',
+		seoTitle: 'ESP Review by @wardVisionGoblin — 5/5 | {brand}',
 		seoDescription:
-			'@wardVisionGoblin rates {brand} player ESP 5/5 for ward and rotation tracking on Windows PC.',
+			'@wardVisionGoblin rates {brand} player ESP 5/5 for flank and rotation tracking on Windows PC.',
 		date: '2026-08-01',
 		tag: 'ESP',
 	}),
