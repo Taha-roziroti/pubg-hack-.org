@@ -28,12 +28,12 @@ export const brand = {
 	logoRasterHeight: 512,
 	logoAlt: 'PUBG hack site icon — player ESP, loot ESP and world overlays for Windows PC',
 	defaultOgImage: '/og/home.jpg',
-	heroImage: '/images/pubg-cheats-hero.webp',
-	/** Looping animated WebP — homepage hero background (replaces legacy MP4/WebM). */
-	heroCinematicWebp: '/videos/PUBG_Cinematic_5s_removed_1080p60.webp',
+	heroImage: '/images/pubg-hero-bg.webp',
+	/** Static hero only — no cinematic WebP or background video. */
+	heroCinematicWebp: '',
 	heroVideoUrl: '',
 	heroVideoMp4: '',
-	demoVideoPoster: '/images/pubg-cheats-hero-1199w.webp',
+	demoVideoPoster: '/images/pubg-hero-bg-1024w.webp',
 	demoScreenshot: '/images/pubg-screenshot-01.webp',
 
 	plans: [

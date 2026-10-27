@@ -47,26 +47,25 @@ export function contentSrcSet(baseSrc: string): string | undefined {
  * Homepage / banner agent — wide banner (~2.37:1); LCP uses the 1199w WebP variant.
  */
 export const heroResponsive: ResponsiveWidth[] = [
-	{ src: '/images/pubg-cheats-hero-480w.webp', width: 480 },
-	{ src: '/images/pubg-cheats-hero-640w.webp', width: 640 },
-	{ src: '/images/pubg-cheats-hero-1024w.webp', width: 1024 },
-	{ src: '/images/pubg-cheats-hero-1199w.webp', width: 1199 },
+	{ src: '/images/pubg-hero-bg-480w.webp', width: 480 },
+	{ src: '/images/pubg-hero-bg-640w.webp', width: 640 },
+	{ src: '/images/pubg-hero-bg-1024w.webp', width: 1024 },
 ];
 
 export const heroDesktopResponsive: ResponsiveWidth[] = heroResponsive;
 
-/** Default LCP src — full native-width WebP for retina desktops. */
-export const heroSrc = '/images/pubg-cheats-hero-1199w.webp';
+/** Default LCP src — native 16:9 hero (1024w master). */
+export const heroSrc = '/images/pubg-hero-bg-1024w.webp';
 export const heroSrcSet = buildSrcSet(heroResponsive);
-export const heroSizes = '(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 1199px';
+export const heroSizes = '100vw';
 
 /** LCP preload — same compressed WebP. */
 export const heroPreloadSrc = heroSrc;
 export const heroMimeType = 'image/webp';
 
-/** Intrinsic dimensions of the default LCP asset (1199w variant). */
-export const heroWidth = 1199;
-export const heroHeight = 380;
+/** Intrinsic dimensions of the default LCP asset (1024w variant). */
+export const heroWidth = 1024;
+export const heroHeight = 576;
 
 /** Responsive widths for below-fold content images. */
 export const contentWidths = [480, 960] as const;
