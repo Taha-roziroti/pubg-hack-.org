@@ -10,6 +10,7 @@ import { absoluteFaqUrl, getFaqPath } from '../data/faq';
 import { getT } from '../i18n/server';
 import { getPageCrawlImage, getPageGalleryImages } from '../data/page-images';
 import { screenshotImageObjects } from '../data/product-images';
+import { pageSeoFaqs } from '../data/page-seo-faqs';
 
 interface Props {
 	locale: LocaleCode;
@@ -134,11 +135,26 @@ const articleSchema =
 			}
 		: null;
 
+const pageFaqEntries = pageSeoFaqs[pageId];
+const pageFaqSchema =
+	pageFaqEntries && pageFaqEntries.length > 0
+		? {
+				'@type': 'FAQPage',
+				'@id': `${pageUrl}#page-faq`,
+				mainEntity: pageFaqEntries.map((item) => ({
+					'@type': 'Question',
+					name: item.question,
+					acceptedAnswer: { '@type': 'Answer', text: item.answer },
+				})),
+			}
+		: null;
+
 const extraGraph = [
 	...(faqSchema ? [faqSchema] : []),
 	...(howToSchema ? [howToSchema] : []),
 	...(vacFaqSchema ? [vacFaqSchema] : []),
 	...(articleSchema ? [articleSchema] : []),
+	...(pageFaqSchema ? [pageFaqSchema] : []),
 	...screenshotImageObjects(4),
 ] as Record<string, unknown>[];
 

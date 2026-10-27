@@ -64,14 +64,16 @@ function buildExtraGraph(): Record<string, unknown>[] {
 			})),
 		});
 	}
-	if (config.schema === 'article-faq' && config.faqs?.length) {
-		graph.push({
-			'@type': 'Article',
-			'@id': `${pageUrl}#article`,
-			headline: config.h1,
-			description,
-			url: pageUrl,
-		});
+	if (config.faqs?.length) {
+		if (config.schema === 'article-faq') {
+			graph.push({
+				'@type': 'Article',
+				'@id': `${pageUrl}#article`,
+				headline: config.h1,
+				description,
+				url: pageUrl,
+			});
+		}
 		graph.push({
 			'@type': 'FAQPage',
 			'@id': `${pageUrl}#faq`,

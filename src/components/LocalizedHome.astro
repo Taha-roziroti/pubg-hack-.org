@@ -67,15 +67,12 @@ const productGraph: Record<string, unknown> = {
 	aggregateRating,
 };
 
-/** EN keyword hub: Product + WebSite + Organization (from Layout). Other locales keep FAQ rich results. */
-const extraGraph: Record<string, unknown>[] = isEnglishHome
-	? [productGraph]
-	: [
-			productGraph,
-			{
+const homeFaqGraph =
+	localizedHomeFaqs.length > 0
+		? {
 				'@type': 'FAQPage',
 				'@id': `${canonicalURL}#faq`,
-				mainEntity: localizedHomeFaqs.map((item) => ({
+				mainEntity: localizedHomeFaqs.slice(0, 5).map((item) => ({
 					'@type': 'Question',
 					name: item.question,
 					url: `${siteConfig.url}/faq/${item.slug}/`,
@@ -84,8 +81,14 @@ const extraGraph: Record<string, unknown>[] = isEnglishHome
 						text: item.answer,
 					},
 				})),
-			},
-		];
+			}
+		: null;
+
+/** Product + optional homepage FAQ (EN hub + locales). */
+const extraGraph: Record<string, unknown>[] = [
+	productGraph,
+	...(homeFaqGraph ? [homeFaqGraph] : []),
+];
 ---
 
 <Layout

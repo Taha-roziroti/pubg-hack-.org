@@ -51,7 +51,7 @@ export const pubgKeywordPages: Record<
 		primaryKeyword: 'PUBG hack',
 		title: 'PUBG Hack & Cheats | Compare PC Plans',
 		description:
-			'Compare PUBG hack and cheat options for Windows PC: ESP, loot filters, pricing, reviews, and BattlEye patch notes at pubghack.org.',
+			'Compare PUBG hack options for Windows PC — ESP, loot filters, store plans, reviews, and BattlEye status. Full guides at pubghack.org.',
 		h1: 'PUBG Hack',
 		intro:
 			'This hub compares current PUBG hack options for PC — including how popular PUBG hacks differ on features, pricing, and support — so you can pick a license that matches how you play.',
@@ -159,9 +159,9 @@ export const pubgKeywordPages: Record<
 	price: {
 		path: paths.price,
 		primaryKeyword: 'PUBG cheat price',
-		title: 'PUBG Cheat Price & Plans | Daily, Monthly, Lifetime',
+		title: 'PUBG Cheat Price | $35/mo & $150 Lifetime',
 		description:
-			'Compare PUBG cheat prices, license durations, and plan features. Check daily, weekly, monthly, and lifetime options before buying.',
+			'PUBG cheat price — $35 monthly or $150 lifetime on Windows PC. Same ESP, loot, and world overlays on both plans. Compare before you buy at pubghack.org.',
 		h1: 'PUBG Cheat Price & Plans',
 		intro:
 			'PUBG cheat price varies by license duration and bundled modules. Use this page to compare monthly, lifetime, and short-term options before you pay.',
@@ -331,10 +331,10 @@ export const pubgKeywordPages: Record<
 	aimbot: {
 		path: paths.aimbot,
 		primaryKeyword: 'PUBG aimbot',
-		title: 'PUBG Aimbot Cheats | Features & Pricing',
+		title: 'PUBG Aimbot | Skillshot Assist & Pricing',
 		description:
-			'Compare PUBG aimbot options by targeting features, pricing, and license length. Review available choices before buying.',
-		h1: 'PUBG Aimbot Cheats',
+			'PUBG aimbot-style skillshot assist with FOV, smoothing, and hitbox priority on Windows PC. Bundled with ESP in one license — plans at pubghack.org.',
+		h1: 'PUBG Aimbot',
 		intro:
 			'PUBG aimbot listings often bundle targeting assist with ESP. Here is how our package treats aim settings, pricing, and PC requirements.',
 		sections: [
@@ -369,21 +369,47 @@ export const pubgKeywordPages: Record<
 					'ESP answers “where are they and what loot is nearby?” Aim assist answers “can I land shots faster?” Many players buy for ESP first; add aim tuning only after overlays feel stable.',
 				],
 			},
+			{
+				h2: 'Responsible aim settings',
+				paragraphs: [
+					'Lower FOV, add smoothing, and avoid rage settings in ranked modes. Pair with player ESP so you choose fights instead of snapping to every target.',
+					'After BattlEye patches, verify rebuild notes on <a href="/updates/">Updates</a> before changing profiles.',
+				],
+			},
+			{
+				h2: 'Plans and proof',
+				paragraphs: [
+					'Monthly ($35) and lifetime ($150) include aim assist plus ESP. Read <a href="/pubg-cheat-reviews/">buyer reviews</a> and compare <a href="/pubg-cheat-price/">pricing</a> before checkout.',
+				],
+			},
 		],
 		internalLinks: [
-			{ href: paths.pubgCheats, label: 'Buy PUBG cheats' },
 			{ href: paths.esp, label: 'PUBG ESP hack' },
+			{ href: paths.price, label: 'PUBG hack pricing' },
 			{ href: paths.reviews, label: 'PUBG cheat reviews' },
+			{ href: '/features/', label: 'Features' },
 		],
 		imageAlt: (feature) => `PUBG aimbot cheat interface showing ${feature}`,
 		schema: 'collection-itemlist',
+		faqs: [
+			{
+				question: 'Is aimbot sold without ESP?',
+				answer:
+					'Skillshot assist ships in the same license as player ESP, loot ESP, and radar on Windows PC.',
+			},
+			{
+				question: 'What aim settings should I start with?',
+				answer:
+					'Use a narrow FOV, medium smoothing, and chest or pelvis priority until you learn how the assist feels in live matches.',
+			},
+		],
 	},
 	esp: {
 		path: paths.esp,
 		primaryKeyword: 'PUBG ESP hack',
-		title: 'PUBG ESP Hack | Features, Pricing & Options',
+		title: 'PUBG ESP Hack | Player, Loot & World ESP',
 		description:
-			'Compare PUBG ESP hack options, including player, loot, and vehicle ESP features, pricing, and available licenses.',
+			'PUBG ESP hack for Windows PC — player boxes, loot filters, vehicles, and care packages. Pricing, license lengths, and setup notes at pubghack.org.',
 		h1: 'PUBG ESP Hack',
 		intro:
 			'A PUBG ESP hack in this context means player, loot, and world overlays — boxes, filters, vehicles, and care packages — on Windows PC.',
@@ -420,14 +446,40 @@ export const pubgKeywordPages: Record<
 					'ESP improves information; aim modules change gunfight execution. Start with player and loot ESP, then decide whether you need aim tuning for your play style.',
 				],
 			},
+			{
+				h2: 'BattlEye maintenance for ESP',
+				paragraphs: [
+					'ESP overlays are rebuilt after BattlEye patches. Read <a href="/updates/">Updates</a> before you queue and follow the <a href="/vac/">BattlEye maintenance</a> workflow on patch weeks.',
+					'Conservative toggles — fewer skeleton lines, sensible loot filters — reduce visual noise and report risk in kill cams.',
+				],
+			},
+			{
+				h2: 'Before you buy ESP',
+				paragraphs: [
+					'Cross-check <a href="/features/">Features</a>, <a href="/pubg-cheat-price/">pricing</a>, and <a href="/pubg-cheat-reviews/">reviews</a>. Finish <a href="/setup/">Setup</a> only after your license email arrives.',
+				],
+			},
 		],
 		internalLinks: [
-			{ href: paths.pubgCheats, label: 'Buy PUBG cheats' },
+			{ href: paths.pubgCheats, label: 'PUBG hacks guide' },
+			{ href: paths.price, label: 'PUBG hack pricing' },
 			{ href: paths.aimbot, label: 'PUBG aimbot' },
 			{ href: paths.reviews, label: 'PUBG cheat reviews' },
+			{ href: '/features/', label: 'Features' },
 		],
 		imageAlt: (feature) => `PUBG ESP hack showing player and loot information`,
 		schema: 'collection-itemlist',
+		faqs: [
+			{
+				question: 'Does PUBG ESP include loot and vehicles?',
+				answer:
+					'Yes — player ESP, loot filters, and world markers for vehicles, care packages, and corpses ship in one license on Windows PC.',
+			},
+			{
+				question: 'Is ESP included in monthly and lifetime plans?',
+				answer: 'Both $35/month and $150 lifetime plans include the same ESP stack.',
+			},
+		],
 	},
 };
 

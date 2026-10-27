@@ -50,7 +50,7 @@ const copyDefaults = {
 const seoDefaults = {
 	homeTitle: 'PUBG Hack & Cheats | Compare PC Plans',
 	homeDescription:
-		'Compare PUBG hack and cheat options for Windows PC: ESP, loot filters, pricing, reviews, and BattlEye patch notes at pubghack.org.',
+		'Compare PUBG hack options for Windows PC — ESP, loot filters, store plans, reviews, and BattlEye status. Full guides at pubghack.org.',
 	featuresTitle: 'PUBG Hack Features | ESP, Aimbot & Maphack',
 	featuresDescription:
 		'Full PUBG hacks feature list — player ESP, loot ESP, maphack, skillshot assist, and config profiles on PC. {antiCheat} maintenance at pubghack.org.',

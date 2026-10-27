@@ -85,7 +85,7 @@ export const brand = {
 	seo: {
 		homeTitle: 'PUBG Hack & Cheats | Compare PC Plans',
 		homeDescription:
-			'Compare PUBG hack and cheat options for Windows PC: ESP, loot filters, pricing, reviews, and BattlEye patch notes at pubghack.org.',
+			'Compare PUBG hack options for Windows PC — ESP, loot filters, store plans, reviews, and BattlEye status. Full guides at pubghack.org.',
 		featuresTitle: 'PUBG Hack Features | Player, Loot & World ESP',
 		featuresDescription:
 			'Full PUBG hack feature list — player ESP with boxes and skeleton, loot ESP with weapon filters, vehicles, airdrops, corpses, and grenade markers on PC.',
@@ -207,14 +207,16 @@ export function seoDescription(template: string): string {
 	let text = fillBrandTokens(template).trim();
 	if (text.length < 140) {
 		const pad = text.toLowerCase().includes('pubghack.org')
-			? ' Windows PC license with BattlEye maintenance after patches.'
-			: ' Compare plans and guides at pubghack.org.';
-		text = `${text.replace(/[.…]+$/, '')}.${pad}`;
+			? ' Windows PC license with BattlEye maintenance.'
+			: ' Details at pubghack.org.';
+		const candidate = `${text.replace(/[.…]+$/, '')}.${pad}`;
+		text = candidate.length <= 160 ? candidate : text;
 	}
 	if (text.length <= 160) return text;
-	const trimmed = text.slice(0, 160);
+	const trimmed = text.slice(0, 157);
 	const lastSpace = trimmed.lastIndexOf(' ');
-	return lastSpace > 130 ? trimmed.slice(0, lastSpace) : trimmed.slice(0, 160);
+	const cut = lastSpace > 100 ? trimmed.slice(0, lastSpace) : trimmed;
+	return `${cut.replace(/[.,;:\s]+$/, '')}.`;
 }
 
 export function homeSeo() {
