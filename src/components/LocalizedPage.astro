@@ -83,9 +83,62 @@ const howToSchema =
 			}
 		: null;
 
+const vacFaqSchema =
+	pageId === 'vac'
+		? {
+				'@type': 'FAQPage',
+				'@id': `${pageUrl}#faq`,
+				mainEntity: [
+					{
+						'@type': 'Question',
+						name: 'Does PUBG use VAC or BattlEye?',
+						acceptedAnswer: {
+							'@type': 'Answer',
+							text:
+								'PUBG on Steam uses BattlEye, not Valve Anti-Cheat (VAC). Maintenance for PUBG Hack targets BattlEye rebuilds after patches.',
+						},
+					},
+					{
+						'@type': 'Question',
+						name: 'When should I load in after a BattlEye patch?',
+						acceptedAnswer: {
+							'@type': 'Answer',
+							text:
+								'Wait until the Updates page posts a live rebuild for your license. Loading on an old build right after a major patch increases detection risk.',
+						},
+					},
+					{
+						'@type': 'Question',
+						name: 'Where do I check PUBG Hack status after an update?',
+						acceptedAnswer: {
+							'@type': 'Answer',
+							text:
+								'Use the Updates page for build dates, this BattlEye maintenance guide for workflow notes, and Support if activation fails after a posted rebuild.',
+						},
+					},
+				],
+			}
+		: null;
+
+const articleSchema =
+	pageId === 'vac'
+		? {
+				'@type': 'Article',
+				'@id': `${pageUrl}#article`,
+				headline: heading,
+				description: pageDescription,
+				url: pageUrl,
+				image: new URL(crawl.src, siteConfig.url).href,
+				author: { '@type': 'Organization', name: siteConfig.name },
+				publisher: { '@id': `${siteConfig.url}/#organization` },
+			}
+		: null;
+
 const extraGraph = [
 	...(faqSchema ? [faqSchema] : []),
 	...(howToSchema ? [howToSchema] : []),
+	...(vacFaqSchema ? [vacFaqSchema] : []),
+	...(articleSchema ? [articleSchema] : []),
 	...screenshotImageObjects(4),
 ] as Record<string, unknown>[];
 
@@ -106,7 +159,7 @@ const eyebrowByPage: Partial<Record<PageId, string>> = {
 	support: t('common.support'),
 	reliable: t('categoryRow.reliable'),
 	wallhack: t('categoryRow.wallhack'),
-	vac: 'VAC',
+	vac: 'BattlEye',
 	'cheats-2026': '2026',
 	'cheat-download': t('common.readGuide'),
 	'mod-menu': 'Mod Menu',

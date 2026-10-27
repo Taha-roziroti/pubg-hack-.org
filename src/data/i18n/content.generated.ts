@@ -699,10 +699,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/pubg-screenshot-03.webp",
 				},
 				vac: {
-					title: "PUBG BattlEye Maintenance Guide 2026 | PUBG Hack",
-					description: "PUBG vac bypass explained — how ESP, aimbot & radar rebuild after BattlEye patches on PC. HWID risk, maintenance workflow & status at pubghack.org.",
-					h1: "BattlEye Maintenance — PUBG Hack Maintenance",
-					intro: "Understand BattlEye maintenance for PUBG Hack — how ESP wallhack, radar hack, and Aimbot rebuild after PUBG security updates.",
+					title: "PUBG BattlEye Maintenance | PUBG Hack",
+					description: "How PUBG Hack handles BattlEye patches on PC — ESP, radar, and aimbot rebuilds, HWID risk, patch-day checklist, and live status at pubghack.org.",
+					h1: "BattlEye Maintenance",
+					intro: "PUBG runs BattlEye on Windows PC. This page explains how our package is rebuilt after anti-cheat updates, what to check before you queue, and where to read live status.",
 					imageAlt: "PUBG Hack maintenance after a BattlEye patch",
 					galleryTitle: "BattlEye maintenance visuals",
 					ctaPrimary: "Buy PUBG Hack",
@@ -737,7 +737,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "HWID bans, spoofers, and what we do not sell",
 							paragraphs: [
 								"PUBG can issue hardware (HWID) bans tied to your PC. Some competitors market HWID spoofers alongside cheats. PUBG Hack does not sell a spoofer — we focus on maintained ESP, radar, and Skillshot assist plus clear rebuild communication.",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/pubg-vac-bypass/\">BattlEye FAQ</a> before buying anywhere.",
+								"If you have a prior HWID ban, no cheat package magically resets PUBG hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/pubg-vac-bypass/\">BattlEye FAQ</a> before buying anywhere.",
 								"Responsible use: conservative settings, public status checks, and avoiding obvious rage clips reduce report-based penalties.",
 							],
 						},
@@ -747,6 +747,14 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 								"Maintenance prioritizes external-style overlays and behavioral tuning over risky injection patterns. Reduce on-screen ESP markers if you stream — pair with radar for awareness.",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Updates</a>, (2) confirm BattlEye notes on <a href=\"/vac/\">this page</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if player balance changed.",
 								"Deep dives: <a href=\"/cheats/\">guide</a> · <a href=\"/forums/reliable-pubg-cheats-eac/\">BattlEye reality blog</a> · <a href=\"/cheats/\">PUBG hacks pillar</a>.",
+							],
+						},
+						{
+							h2: "Related guides and money pages",
+							paragraphs: [
+								"Compare the full feature stack on <a href=\"/features/\">Features</a>, see <a href=\"/pubg-cheat-price/\">pricing</a> for monthly and lifetime plans, and read <a href=\"/pubg-cheat-reviews/\">buyer reviews</a> before checkout.",
+								"For ESP and aimbot specifics, open <a href=\"/pubg-esp/\">PUBG ESP</a> and <a href=\"/pubg-aimbot/\">PUBG aimbot</a>. Install steps live on <a href=\"/setup/\">Setup</a> once <a href=\"/updates/\">Updates</a> shows a live build.",
+								"Questions? Start with <a href=\"/faq/\">FAQ</a> or email support with your order ID from <a href=\"/support/\">Support</a>.",
 							],
 						},
 					],
