@@ -278,7 +278,7 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 	'pubg-esp': page({
 		title: 'PUBG ESP | Wallhack & Player Boxes | {brand}',
 		description:
-			'PUBG ESP wallhack — player boxes, operator markers & distance tags on PC. Reliable cheats with aimbot & radar. Shop at pubg-hack.org.',
+			'PUBG ESP wallhack — player boxes, operator markers & distance tags on PC. Reliable cheats with aimbot & radar. Shop at pubghack.org.',
 		h1: 'ESP',
 		intro: 'See players and weapon drops through walls during PUBG matches. Part of the same {brand} license.',
 		ctaPrimary: brandCopy.ctaBuy,
@@ -310,7 +310,7 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 	'pubg-aimbot': page({
 		title: 'PUBG Aimbot | Skillshot assist & FOV Settings | {brand}',
 		description:
-			'PUBG aimbot with Skillshot assist, FOV, bone priority & hotkeys on PC. Reliable {brand} with ESP & radar included. pubg-hack.org.',
+			'PUBG aimbot with Skillshot assist, FOV, bone priority & hotkeys on PC. Reliable {brand} with ESP & radar included. pubghack.org.',
 		h1: 'Aimbot',
 		intro: 'Skillshot assist and aim assist you can tune for PUBG. Included in the same {brand} license.',
 		ctaPrimary: brandCopy.ctaBuy,
@@ -342,7 +342,7 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 	radar: page({
 		title: 'PUBG Radar Hack | 2D Threat Map | {brand}',
 		description:
-			'2D radar hack for flank awareness on PC. Bundled with ESP wallhack & Skillshot assist in one license. BattlEye maintenance at pubg-hack.org.',
+			'2D radar hack for flank awareness on PC. Bundled with ESP wallhack & Skillshot assist in one license. BattlEye maintenance at pubghack.org.',
 		h1: 'Radar',
 		intro: 'A simple 2D radar for threats outside your view. Included in the same {brand} license.',
 		ctaPrimary: brandCopy.ctaBuy,

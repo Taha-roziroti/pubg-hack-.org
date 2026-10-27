@@ -30,7 +30,7 @@ const CORE_FAQ = {
 		},
 		'how-to-contact-support': {
 			q: '¿Cómo contacto soporte?',
-			a: 'Usa la página de Soporte o escribe a support@pubg-hack.org. Incluye los datos del pedido y una descripción clara del problema de instalación.',
+			a: 'Usa la página de Soporte o escribe a support@pubghack.org. Incluye los datos del pedido y una descripción clara del problema de instalación.',
 		},
 		'what-is-a-pubg-wallhack': {
 			q: '¿Qué es un wallhack de PUBG?',
@@ -76,7 +76,7 @@ const CORE_FAQ = {
 		},
 		'how-to-contact-support': {
 			q: 'Comment contacter le support ?',
-			a: "Utilisez la page Support ou écrivez à support@pubg-hack.org avec les détails de votre commande et une description claire du problème.",
+			a: "Utilisez la page Support ou écrivez à support@pubghack.org avec les détails de votre commande et une description claire du problème.",
 		},
 		'what-is-a-pubg-wallhack': {
 			q: "Qu'est-ce qu'un wallhack PUBG ?",
@@ -122,7 +122,7 @@ const CORE_FAQ = {
 		},
 		'how-to-contact-support': {
 			q: 'Wie kontaktiere ich den Support?',
-			a: 'Nutze die Support-Seite oder schreibe an support@pubg-hack.org mit Bestelldetails und einer klaren Problembeschreibung.',
+			a: 'Nutze die Support-Seite oder schreibe an support@pubghack.org mit Bestelldetails und einer klaren Problembeschreibung.',
 		},
 		'what-is-a-pubg-wallhack': {
 			q: 'Was ist ein PUBG Wallhack?',

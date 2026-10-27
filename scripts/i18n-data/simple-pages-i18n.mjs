@@ -277,7 +277,7 @@ export function buildSimplePagesForLocale(locale) {
 			title: clampTitle(simplePageTitle(h1, enPage.title)),
 			description: clampDesc(
 				stripcheckoutFromMeta(
-					`${h1} for PUBG ranked and casual matches on Windows PC — ${focus}. ${p.delivery}. Official PUBG hacks at pubg-hack.org.`,
+					`${h1} for PUBG ranked and casual matches on Windows PC — ${focus}. ${p.delivery}. Official PUBG hacks at pubghack.org.`,
 				),
 			),
 			h1,

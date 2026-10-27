@@ -63,7 +63,7 @@ function localizeMeta(enPage, locale, pageKey) {
 		title: clampTitle(stripcheckoutFromMeta(`${topicName} | ${suffix}`)),
 		description: clampDesc(
 			stripcheckoutFromMeta(
-				`${topicName} for PUBG ranked and casual matches on Windows PC — ${focus}. ${p.delivery}. ${p.reliable}. Official PUBG hacks at pubg-hack.org.`,
+				`${topicName} for PUBG ranked and casual matches on Windows PC — ${focus}. ${p.delivery}. ${p.reliable}. Official PUBG hacks at pubghack.org.`,
 			),
 		),
 		h1: `${topicName} — ${suffix}`,

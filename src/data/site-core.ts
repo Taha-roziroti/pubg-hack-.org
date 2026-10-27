@@ -50,34 +50,34 @@ const copyDefaults = {
 const seoDefaults = {
 	homeTitle: 'PUBG Hack & Cheats | Compare PC Plans',
 	homeDescription:
-		'Compare PUBG hack and cheat options for Windows PC: ESP, loot filters, pricing, reviews, and BattlEye patch notes at pubg-hack.org.',
+		'Compare PUBG hack and cheat options for Windows PC: ESP, loot filters, pricing, reviews, and BattlEye patch notes at pubghack.org.',
 	featuresTitle: 'PUBG Hack Features | ESP, Aimbot & Maphack',
 	featuresDescription:
-		'Full PUBG hacks feature list — player ESP, loot ESP, maphack, skillshot assist, and config profiles on PC. {antiCheat} maintenance at pubg-hack.org.',
+		'Full PUBG hacks feature list — player ESP, loot ESP, maphack, skillshot assist, and config profiles on PC. {antiCheat} maintenance at pubghack.org.',
 	storeTitle: 'PUBG Hack Pricing | $35/mo or $150 Lifetime',
 	storeDescription:
-		'Buy PUBG hacks at pubg-hack.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.',
+		'Buy PUBG hacks at pubghack.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.',
 	statusTitle: 'PUBG Hack Status | BattlEye Patch Updates',
 	statusDescription:
 		'Live status after {game} and {antiCheat} patches. Check ESP, aimbot and maphack rebuilds on PC before you queue ranked.',
 	previewTitle: 'PUBG Hack | ESP, Aimbot & Wallhack Guide',
 	previewDescription:
-		'PUBG hacks guide — ESP maphack, skillshot assist, radar overlays and {antiCheat} rebuilds for ranked on PC. Plans from $35 at pubg-hack.org.',
+		'PUBG hacks guide — ESP maphack, skillshot assist, radar overlays and {antiCheat} rebuilds for ranked on PC. Plans from $35 at pubghack.org.',
 	setupTitle: 'PUBG Hack Setup | Windows PC Install Guide',
 	setupDescription:
-		'Install {brand} on PC — activate ESP, skillshot assist, and radar step by step. Setup guide at pubg-hack.org. Check {antiCheat} status before your first match.',
+		'Install {brand} on PC — activate ESP, skillshot assist, and radar step by step. Setup guide at pubghack.org. Check {antiCheat} status before your first match.',
 	supportTitle: 'PUBG Hack Support | License & Setup Help',
 	supportDescription:
-		'Support for license delivery, ESP setup & billing on PC. Email {email} with your order ID. pubg-hack.org/support.',
+		'Support for license delivery, ESP setup & billing on PC. Email {email} with your order ID. pubghack.org/support.',
 	faqTitle: 'PUBG Hack FAQ | ESP, Aimbot & {antiCheat}',
 	faqDescription:
-		'FAQ for PUBG hacks — delivery, setup, ranked use, {antiCheat} updates and pricing on PC. Answers at pubg-hack.org before you buy.',
+		'FAQ for PUBG hacks — delivery, setup, ranked use, {antiCheat} updates and pricing on PC. Answers at pubghack.org before you buy.',
 	reviewsTitle: 'PUBG Hack Reviews | ESP, Aimbot & Maphack',
 	reviewsDescription:
-		'Real buyer reviews for PUBG hacks — ESP, skillshot assist, radar, and {antiCheat} maintenance on PC. See what license holders say at pubg-hack.org.',
+		'Real buyer reviews for PUBG hacks — ESP, skillshot assist, radar, and {antiCheat} maintenance on PC. See what license holders say at pubghack.org.',
 	blogTitle: 'PUBG Hack Forums | Setup Tips & Feature Talk',
 	blogDescription:
-		'PUBG hacks forums — setup walkthroughs, ESP settings, skillshot assist sliders, and BattlEye patch notes for PC at pubg-hack.org/forums/.',
+		'PUBG hacks forums — setup walkthroughs, ESP settings, skillshot assist sliders, and BattlEye patch notes for PC at pubghack.org/forums/.',
 } as const;
 
 type SeoShape = typeof seoDefaults;

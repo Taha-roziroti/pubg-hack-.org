@@ -1,10 +1,16 @@
 User-agent: *
 Allow: /
 Allow: /images/
+Allow: /og/
+Allow: /videos/
+Allow: /sitemap.xml
 Disallow: /brand-studio/
 Disallow: /brand-studio
 Disallow: /__brand/
 Disallow: /__brand
 
+User-agent: Googlebot
+Allow: /
+
 # Primary sitemap for Google Search Console — index covers EN, locale, and image sitemaps.
-Sitemap: https://pubg-hack.org/sitemap.xml
+Sitemap: https://pubghack.org/sitemap.xml

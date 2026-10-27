@@ -4,10 +4,10 @@
 export const brand = {
 	name: 'PUBG Hack',
 	shortName: 'PUBG Hack',
-	url: 'https://pubg-hack.org',
+	url: 'https://pubghack.org',
 	locale: 'en',
 	market: 'Worldwide',
-	supportEmail: 'support@pubg-hack.org',
+	supportEmail: 'support@pubghack.org',
 	checkoutUrl: 'https://zadeyo.com/go/TAHA?to=%2Fproducts%2Fpubg',
 
 	social: {
@@ -85,7 +85,7 @@ export const brand = {
 	seo: {
 		homeTitle: 'PUBG Hack & Cheats | Compare PC Plans',
 		homeDescription:
-			'Compare PUBG hack and cheat options for Windows PC: ESP, loot filters, pricing, reviews, and BattlEye patch notes at pubg-hack.org.',
+			'Compare PUBG hack and cheat options for Windows PC: ESP, loot filters, pricing, reviews, and BattlEye patch notes at pubghack.org.',
 		featuresTitle: 'PUBG Hack Features | Player, Loot & World ESP',
 		featuresDescription:
 			'Full PUBG hack feature list — player ESP with boxes and skeleton, loot ESP with weapon filters, vehicles, airdrops, corpses, and grenade markers on PC.',
@@ -106,13 +106,13 @@ export const brand = {
 			'Support for license delivery, ESP setup, and billing on PC. Email {email} with your order ID before you queue.',
 		faqTitle: 'PUBG Hack FAQ | ESP, Loot ESP & BattlEye',
 		faqDescription:
-			'FAQ for PUBG hack — delivery, setup, {antiCheat} updates, and pricing on PC. Answers at pubg-hack.org before you buy.',
+			'FAQ for PUBG hack — delivery, setup, {antiCheat} updates, and pricing on PC. Answers at pubghack.org before you buy.',
 		reviewsTitle: 'PUBG Hack Reviews | ESP & Loot Overlays',
 		reviewsDescription:
 			'Buyer reviews for PUBG hack — player ESP, loot ESP, world markers, and {antiCheat} maintenance on PC.',
 		blogTitle: 'PUBG Hack Forums | Setup Tips & ESP Talk',
 		blogDescription:
-			'PUBG hack forums — ESP presets, loot filters, and BattlEye patch notes for PC at pubg-hack.org/forums/.',
+			'PUBG hack forums — ESP presets, loot filters, and BattlEye patch notes for PC at pubghack.org/forums/.',
 	},
 
 	copy: {
@@ -206,9 +206,9 @@ export function seoTitle(topic: string): string {
 export function seoDescription(template: string): string {
 	let text = fillBrandTokens(template).trim();
 	if (text.length < 140) {
-		const pad = text.toLowerCase().includes('pubg-hack.org')
+		const pad = text.toLowerCase().includes('pubghack.org')
 			? ' Windows PC license with BattlEye maintenance after patches.'
-			: ' Compare plans and guides at pubg-hack.org.';
+			: ' Compare plans and guides at pubghack.org.';
 		text = `${text.replace(/[.…]+$/, '')}.${pad}`;
 	}
 	if (text.length <= 160) return text;

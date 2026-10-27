@@ -1,13 +1,13 @@
 import CANNIBAL_REDIRECTS from './cannibal-redirects.json';
 
-const CANONICAL_ORIGIN = 'https://pubg-hack.org';
-const CANONICAL_HOST = 'pubg-hack.org';
-const WWW_HOST = 'www.pubg-hack.org';
+const CANONICAL_ORIGIN = 'https://pubghack.org';
+const CANONICAL_HOST = 'pubghack.org';
+const WWW_HOST = 'www.pubghack.org';
 
 /** Legacy domains → canonical apex (301). Must NOT include CANONICAL_HOST. */
 const LEGACY_HOSTS = new Set([
-	'pubghack.org',
-	'www.pubghack.org',
+	'pubg-hack.org',
+	'www.pubg-hack.org',
 	'pubgcheat.com',
 	'www.pubgcheat.com',
 	'pubghacks.org',
@@ -191,10 +191,10 @@ const SITEMAP_PATH = /^\/sitemap(?:-[a-z0-9-]+)?\.xml$/;
 
 /** Legacy origins rewritten in sitemap XML (GSC "URL not allowed" when stale dist uses old apex). */
 const LEGACY_ORIGIN_REPLACEMENTS = [
-	['https://pubghack.org', CANONICAL_ORIGIN],
-	['http://pubghack.org', CANONICAL_ORIGIN],
-	['https://www.pubghack.org', CANONICAL_ORIGIN],
-	['http://www.pubghack.org', CANONICAL_ORIGIN],
+	['https://pubg-hack.org', CANONICAL_ORIGIN],
+	['http://pubg-hack.org', CANONICAL_ORIGIN],
+	['https://www.pubg-hack.org', CANONICAL_ORIGIN],
+	['http://www.pubg-hack.org', CANONICAL_ORIGIN],
 	['https://pubgcheat.com', CANONICAL_ORIGIN],
 	['http://pubgcheat.com', CANONICAL_ORIGIN],
 	['https://www.pubgcheat.com', CANONICAL_ORIGIN],

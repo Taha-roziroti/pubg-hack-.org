@@ -179,7 +179,7 @@ export const homeFaqs: readonly FaqItem[] = [
 		slug: 'how-to-install-pubg-cheats',
 		seoTitle: 'How to Install {game} Hacks on Windows PC | FAQ',
 		seoDescription:
-			'Step-by-step {brand} install on Windows PC — loader, mod menu, and ESP/aimbot toggles. Setup help at pubg-hack.org.',
+			'Step-by-step {brand} install on Windows PC — loader, mod menu, and ESP/aimbot toggles. Setup help at pubghack.org.',
 	}),
 ] as const;
 
@@ -201,7 +201,7 @@ export const seoFaqs: readonly FaqItem[] = [
 		slug: 'does-pubg-cheats-include-radar-hack',
 		seoTitle: 'Does {brand} Include a Radar Hack? | FAQ',
 		seoDescription:
-			'Yes — {brand} includes 2D radar overlays for off-screen threats. Compare ESP, skillshot assist, and radar in one license at pubg-hack.org.',
+			'Yes — {brand} includes 2D radar overlays for off-screen threats. Compare ESP, skillshot assist, and radar in one license at pubghack.org.',
 	}),
 	faq({
 		question: 'How does {antiCheat} affect {primaryKeyword}?',
@@ -264,7 +264,7 @@ export const seoFaqs: readonly FaqItem[] = [
 		slug: 'pubg-cheats-windows-11',
 		seoTitle: 'Do {game} Hacks Work on Windows 11? | FAQ',
 		seoDescription:
-			'{brand} runs on Windows 10 and 11 — ESP, aimbot, and radar with {antiCheat} maintenance on PC. Read setup notes at pubg-hack.org before you buy.',
+			'{brand} runs on Windows 10 and 11 — ESP, aimbot, and radar with {antiCheat} maintenance on PC. Read setup notes at pubghack.org before you buy.',
 	}),
 	faq({
 		question: 'What is {game} skillshot assist?',

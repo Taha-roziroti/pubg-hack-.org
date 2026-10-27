@@ -96,7 +96,7 @@ export const blogUi: Record<
 	en: {
 		blogTitle: 'PUBG Hack Forums | Setup Tips & Feature Talk',
 		blogDescription:
-			'PUBG hacks forums with setup walkthroughs, ESP settings, skillshot assist sliders, and BattlEye patch notes for PC at pubg-hack.org/forums/.',
+			'PUBG hacks forums with setup walkthroughs, ESP settings, skillshot assist sliders, and BattlEye patch notes for PC at pubghack.org/forums/.',
 		blogH1: 'Community Forums',
 		blogIntro:
 			'Setup guides, feature breakdowns, and patch-day threads from players running PUBG hacks on PC. Read before you buy — then compare ESP, maphack, and skillshot assist on our product pages.',

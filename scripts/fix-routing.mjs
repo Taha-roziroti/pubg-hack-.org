@@ -21,7 +21,7 @@ const REPLACEMENTS = [
 	['pubg-radar-hack', 'pubg-radar-hack'],
 	['pubg-cheats-2026', 'pubg-cheats-2026'],
 	['vac-bypass', 'vac-bypass'],
-	['pubg-hack.org', 'pubg-hack.org'],
+	['pubghack.org', 'pubghack.org'],
 	['trucos-pubg', 'trucos-pubg'],
 	['triche-pubg', 'triche-pubg'],
 	['pubg-cheats', 'pubg-cheats'],

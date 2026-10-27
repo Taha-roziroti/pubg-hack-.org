@@ -13,7 +13,6 @@ const distDir = path.join(root, 'dist');
 
 const LEGACY_TERMS = [
 	'valocheats',
-	'pubghack',
 	'the finals',
 	'naraka bladepoint',
 	'rust game',

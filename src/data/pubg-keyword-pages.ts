@@ -1,5 +1,5 @@
 /**
- * EN keyword landing copy — source of truth for primary SEO URLs (pubg-hack.org).
+ * EN keyword landing copy — source of truth for primary SEO URLs (pubghack.org).
  */
 
 export type KeywordInternalLink = { href: string; label: string };
@@ -51,7 +51,7 @@ export const pubgKeywordPages: Record<
 		primaryKeyword: 'PUBG hack',
 		title: 'PUBG Hack & Cheats | Compare PC Plans',
 		description:
-			'Compare PUBG hack and cheat options for Windows PC: ESP, loot filters, pricing, reviews, and BattlEye patch notes at pubg-hack.org.',
+			'Compare PUBG hack and cheat options for Windows PC: ESP, loot filters, pricing, reviews, and BattlEye patch notes at pubghack.org.',
 		h1: 'PUBG Hack',
 		intro:
 			'This hub compares current PUBG hack options for PC — including how popular PUBG hacks differ on features, pricing, and support — so you can pick a license that matches how you play.',

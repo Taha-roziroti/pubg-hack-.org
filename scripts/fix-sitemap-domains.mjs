@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * Rewrite legacy domains in built sitemap XML (safety net after astro build).
- * Fixes GSC "URL not allowed" when stale dist still references pubg-hack.org.
+ * Fixes GSC "URL not allowed" when stale dist still references pubghack.org.
  */
 import { readFileSync, writeFileSync, readdirSync } from 'node:fs';
 import path from 'node:path';
@@ -17,7 +17,7 @@ function readBrandUrl() {
 	const url = m[1].replace(/\\'/g, "'").replace(/\/$/, '');
 	if (/pubgcheats\.org/i.test(url)) {
 		throw new Error(
-			`brand.ts url must be pubg-hack.org, not ${url}`,
+			`brand.ts url must be pubghack.org, not ${url}`,
 		);
 	}
 	return url;
@@ -27,10 +27,10 @@ const CANONICAL = readBrandUrl();
 
 /** Ordered most-specific first. */
 const LEGACY_ORIGIN_REPLACEMENTS = [
-	['https://pubg-hack.org', CANONICAL],
-	['http://pubg-hack.org', CANONICAL],
-	['https://pubg-hack.org', CANONICAL],
-	['http://pubg-hack.org', CANONICAL],
+	['https://pubghack.org', CANONICAL],
+	['http://pubghack.org', CANONICAL],
+	['https://pubghack.org', CANONICAL],
+	['http://pubghack.org', CANONICAL],
 	['https://www.thefinalscheats.org', CANONICAL],
 	['http://www.thefinalscheats.org', CANONICAL],
 	['https://thefinalscheats.org', CANONICAL],

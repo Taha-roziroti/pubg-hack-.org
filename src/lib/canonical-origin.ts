@@ -1,11 +1,11 @@
 /** Canonical public origin — must match src/data/brand.ts url. */
-export const CANONICAL_ORIGIN = 'https://pubg-hack.org';
-export const CANONICAL_HOST = 'pubg-hack.org';
+export const CANONICAL_ORIGIN = 'https://pubghack.org';
+export const CANONICAL_HOST = 'pubghack.org';
 
 /** Legacy hosts that 301 to the canonical apex (see worker.ts LEGACY_HOSTS). */
 export const LEGACY_HOSTS = [
-	'pubghack.org',
-	'www.pubghack.org',
+	'pubg-hack.org',
+	'www.pubg-hack.org',
 	'pubgcheat.com',
 	'www.pubgcheat.com',
 	'pubghacks.org',

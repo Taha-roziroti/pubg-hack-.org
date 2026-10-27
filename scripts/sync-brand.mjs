@@ -30,7 +30,7 @@ function readBrand() {
 	const url = str('url').replace(/\/$/, '');
 	if (/pubgcheat\.com/i.test(url)) {
 		throw new Error(
-			`brand.ts url is ${url} — must be https://pubg-hack.org`,
+			`brand.ts url is ${url} — must be https://pubghack.org`,
 		);
 	}
 	return {
@@ -58,10 +58,16 @@ writeFileSync(
 	`User-agent: *
 Allow: /
 Allow: /images/
+Allow: /og/
+Allow: /videos/
+Allow: /sitemap.xml
 Disallow: /brand-studio/
 Disallow: /brand-studio
 Disallow: /__brand/
 Disallow: /__brand
+
+User-agent: Googlebot
+Allow: /
 
 # Primary sitemap for Google Search Console — index covers EN, locale, and image sitemaps.
 Sitemap: ${brand.url}/sitemap.xml

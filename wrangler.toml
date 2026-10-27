@@ -3,7 +3,7 @@ name = "pubg-hack"
 compatibility_date = "2026-01-01"
 main = "src/worker.ts"
 
-# Custom domains (pubg-hack.org) are attached in the Cloudflare dashboard — not here.
+# Custom domains (pubghack.org) are attached in the Cloudflare dashboard — not here.
 
 [build]
 command = "npm run build"

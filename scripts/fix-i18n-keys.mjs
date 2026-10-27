@@ -32,7 +32,7 @@ const UI_REPLACEMENTS = [
 	['the map', 'the map'],
 	['farming run', 'farming run'],
 	['extract', 'extract'],
-	['pubg-hack.org', 'pubg-hack.org'],
+	['pubghack.org', 'pubghack.org'],
 	['Trucos PUBG's, 'Trucos PUBG's],
 	['Triches PUBG's, 'Triches PUBG's],
 	['Cheats PUBG's, 'Cheats PUBG's],

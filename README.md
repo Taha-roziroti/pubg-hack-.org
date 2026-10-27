@@ -1,6 +1,6 @@
 # PUBG Hack — Marketing Site
 
-Static Astro site for [pubg-hack.org](https://pubg-hack.org). Primary SEO keyword: **pubg hack** (full owner list in `src/data/pubg-keyword-registry.ts`).
+Static Astro site for [pubghack.org](https://pubghack.org). Primary SEO keyword: **pubg hack** (full owner list in `src/data/pubg-keyword-registry.ts`).
 
 ## Locked SEO rules
 
@@ -33,4 +33,4 @@ Run `npm run sync:brand` before release builds (also runs on `prebuild`).
 
 ## Deploy
 
-See [DEPLOY.md](./DEPLOY.md) for Cloudflare setup on **pubg-hack.org**.
+See [DEPLOY.md](./DEPLOY.md) for Cloudflare setup on **pubghack.org**.

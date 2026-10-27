@@ -26,7 +26,7 @@ export const phrases = {
 		s1: (topic) => `${KW.product} ofrece ${KW.wallhack}, ${KW.radar} y ${KW.aimbot} para ${KW.game} en ${phrases.es.win}. ${topic}`,
 		s2: () => `Licencias con ${phrases.es.delivery} vía ${KW.checkout}. Planes ${phrases.es.monthly} y ${phrases.es.lifetime} incluyen mantenimiento ${KW.eac}.`,
 		s3: () => `Consulta la página Updates antes de jugar tras parches de ${KW.eac}. Ningún cheat garantiza estado permanente.`,
-		legal: () => 'Contacta support@pubg-hack.org para solicitudes legales o de soporte.',
+		legal: () => 'Contacta support@pubghack.org para solicitudes legales o de soporte.',
 	},
 	fr: {
 		buy: 'Acheter PUBG Hack', premium: '', maps: 'maps, sites, and shops',
@@ -34,7 +34,7 @@ export const phrases = {
 		s1: (topic) => `${KW.product} combine ${KW.wallhack}, ${KW.radar} et ${KW.aimbot} pour ${KW.game} sur ${phrases.fr.win}. ${topic}`,
 		s2: () => `Licences avec ${phrases.fr.delivery} via ${KW.checkout}. Forfaits ${phrases.fr.monthly} et ${phrases.fr.lifetime} incluent la maintenance ${KW.eac}.`,
 		s3: () => `Consultez Updates après les patchs ${KW.eac}. Aucune triche ne garantit un statut permanent.`,
-		legal: () => 'Contactez support@pubg-hack.org pour le support ou les demandes légales.',
+		legal: () => 'Contactez support@pubghack.org pour le support ou les demandes légales.',
 	},
 	de: {
 		buy: 'PUBG Hack kaufen', premium: '', maps: 'maps, sites, and shops',
@@ -42,7 +42,7 @@ export const phrases = {
 		s1: (topic) => `${KW.product} bündelt ${KW.wallhack}, ${KW.radar} und ${KW.aimbot} als Paket für ${KW.game} auf ${phrases.de.win}. ${topic}`,
 		s2: () => `Lizenzen mit ${phrases.de.delivery} über ${KW.checkout}. ${phrases.de.monthly} und ${phrases.de.lifetime} inkl. ${KW.eac}-Wartung.`,
 		s3: () => `Updates-Seite nach ${KW.eac}-Patches prüfen. Kein Cheat garantiert dauerhaft patch status.`,
-		legal: () => 'support@pubg-hack.org für Support und rechtliche Anfragen.',
+		legal: () => 'support@pubghack.org für Support und rechtliche Anfragen.',
 	},
 	pt: {
 		buy: 'Comprar PUBG Hack', premium: '', maps: 'maps, sites, and shops',
@@ -50,7 +50,7 @@ export const phrases = {
 		s1: (topic) => `${KW.product} reúne ${KW.wallhack}, ${KW.radar} e ${KW.aimbot} para ${KW.game} no ${phrases.pt.win}. ${topic}`,
 		s2: () => `Licenças com ${phrases.pt.delivery} via ${KW.checkout}. Planos ${phrases.pt.monthly} e ${phrases.pt.lifetime} incluem manutenção ${KW.eac}.`,
 		s3: () => `Verifique Updates após patches ${KW.eac}. Nenhum cheat garante status permanente.`,
-		legal: () => 'Contacte support@pubg-hack.org para suporte ou questões legais.',
+		legal: () => 'Contacte support@pubghack.org para suporte ou questões legais.',
 	},
 	it: {
 		buy: 'Acquista PUBG Hack', premium: '', maps: 'maps, sites, and shops',
@@ -58,7 +58,7 @@ export const phrases = {
 		s1: (topic) => `${KW.product} unisce ${KW.wallhack}, ${KW.radar} e ${KW.aimbot} per ${KW.game} su ${phrases.it.win}. ${topic}`,
 		s2: () => `Licenze con ${phrases.it.delivery} via ${KW.checkout}. Piani ${phrases.it.monthly} e ${phrases.it.lifetime} includono manutenzione ${KW.eac}.`,
 		s3: () => `Controlla Updates dopo patch ${KW.eac}. Nessun cheat garantisce stato permanente.`,
-		legal: () => 'Contatta support@pubg-hack.org per supporto o richieste legali.',
+		legal: () => 'Contatta support@pubghack.org per supporto o richieste legali.',
 	},
 	nl: {
 		buy: 'PUBG Hack kopen', premium: '', maps: 'maps, sites, and shops',
@@ -66,7 +66,7 @@ export const phrases = {
 		s1: (topic) => `${KW.product} bundelt ${KW.wallhack}, ${KW.radar} en ${KW.aimbot} als pakket voor ${KW.game} op ${phrases.nl.win}. ${topic}`,
 		s2: () => `Licenties met ${phrases.nl.delivery} via ${KW.checkout}. ${phrases.nl.monthly} en ${phrases.nl.lifetime} incl. ${KW.eac}-onderhoud.`,
 		s3: () => `Check Updates na ${KW.eac}-patches. Geen cheat garandeert permanent patch status.`,
-		legal: () => 'support@pubg-hack.org voor support en juridische vragen.',
+		legal: () => 'support@pubghack.org voor support en juridische vragen.',
 	},
 	pl: {
 		buy: 'Kup PUBG Hack', premium: '', maps: 'maps, sites, and shops',
@@ -74,7 +74,7 @@ export const phrases = {
 		s1: (topic) => `${KW.product} łączy ${KW.wallhack}, ${KW.radar} i ${KW.aimbot} jako pakiet dla ${KW.game} na ${phrases.pl.win}. ${topic}`,
 		s2: () => `Licencje z ${phrases.pl.delivery} przez ${KW.checkout}. Plany ${phrases.pl.monthly} i ${phrases.pl.lifetime} z konserwacją ${KW.eac}.`,
 		s3: () => `Sprawdź Updates po patchach ${KW.eac}. Żaden cheat nie gwarantuje permanentnego patch statusu.`,
-		legal: () => 'support@pubg-hack.org w sprawach wsparcia i prawnych.',
+		legal: () => 'support@pubghack.org w sprawach wsparcia i prawnych.',
 	},
 	ru: {
 		buy: 'Купить PUBG Hack', premium: '', maps: 'maps, sites, and shops',
@@ -82,7 +82,7 @@ export const phrases = {
 		s1: (topic) => `${KW.product} объединяет ${KW.wallhack}, ${KW.radar} и ${KW.aimbot} в пакете для ${KW.game} на ${phrases.ru.win}. ${topic}`,
 		s2: () => `Лицензии с ${phrases.ru.delivery} через ${KW.checkout}. Тарифы ${phrases.ru.monthly} и ${phrases.ru.lifetime} включают обслуживание ${KW.eac}.`,
 		s3: () => `Проверяйте Updates после патчей ${KW.eac}. Ни один чит не гарантирует постоянный patch status.`,
-		legal: () => 'support@pubg-hack.org для поддержки и юридических вопросов.',
+		legal: () => 'support@pubghack.org для поддержки и юридических вопросов.',
 	},
 	tr: {
 		buy: 'PUBG Hack satın al', premium: '', maps: 'maps, sites, and shops',
@@ -90,7 +90,7 @@ export const phrases = {
 		s1: (topic) => `${KW.product}, ${KW.game} için ${phrases.tr.win} üzerinde ${KW.wallhack}, ${KW.radar} ve ${KW.aimbot} paket sunar. ${topic}`,
 		s2: () => `${KW.checkout} ile ${phrases.tr.delivery}. ${phrases.tr.monthly} ve ${phrases.tr.lifetime} planları ${KW.eac} bakımı içerir.`,
 		s3: () => `${KW.eac} yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı patch status garantisi vermez.`,
-		legal: () => 'Destek ve yasal sorular için support@pubg-hack.org.',
+		legal: () => 'Destek ve yasal sorular için support@pubghack.org.',
 	},
 	ar: {
 		buy: 'اشترِ PUBG Hack', reliable: 'غير مكتشف', maps: 'maps, sites, and shops',
@@ -98,7 +98,7 @@ export const phrases = {
 		s1: (topic) => `${KW.product} يجمع ${KW.wallhack} و${KW.radar} و${KW.aimbot} لـ ${KW.game} على ${phrases.ar.win}. ${topic}`,
 		s2: () => `تراخيص مع ${phrases.ar.delivery} عبر ${KW.checkout}. خطط ${phrases.ar.monthly} و${phrases.ar.lifetime} تشمل صيانة ${KW.eac}.`,
 		s3: () => `راجع Updates بعد تص patches ${KW.eac}. لا يضمن أي غش حالة patch status دائمة.`,
-		legal: () => 'support@pubg-hack.org للدعم والطلبات القانونية.',
+		legal: () => 'support@pubghack.org للدعم والطلبات القانونية.',
 	},
 	ja: {
 		buy: 'PUBG Hackを購入', premium: '', maps: 'maps, sites, and shops',
@@ -106,7 +106,7 @@ export const phrases = {
 		s1: (topic) => `${KW.product}は${KW.game}向け${phrases.ja.win}用${KW.wallhack}、${KW.radar}、${KW.aimbot}のパッケージです。${topic}`,
 		s2: () => `${KW.checkout}で${phrases.ja.delivery}。${phrases.ja.monthly}と${phrases.ja.lifetime}プランに${KW.eac}メンテナンス含む。`,
 		s3: () => `${KW.eac}パッチ後はUpdatesページを確認。永久のpatch statusは保証されません。`,
-		legal: () => 'サポート・法務: support@pubg-hack.org',
+		legal: () => 'サポート・法務: support@pubghack.org',
 	},
 	ko: {
 		buy: 'PUBG Hack 구매', premium: '', maps: 'maps, sites, and shops',
@@ -114,7 +114,7 @@ export const phrases = {
 		s1: (topic) => `${KW.product}는 ${KW.game} ${phrases.ko.win}용 ${KW.wallhack}, ${KW.radar}, ${KW.aimbot} 패키지입니다. ${topic}`,
 		s2: () => `${KW.checkout}으로 ${phrases.ko.delivery}. ${phrases.ko.monthly} 및 ${phrases.ko.lifetime} 요금제에 ${KW.eac} 유지보수 포함.`,
 		s3: () => `${KW.eac} 패치 후 Updates 페이지 확인. 영구 patch status 보장 없음.`,
-		legal: () => '지원 및 법무: support@pubg-hack.org',
+		legal: () => '지원 및 법무: support@pubghack.org',
 	},
 	zh: {
 		buy: '购买 PUBG Hack', premium: '', maps: 'maps, sites, and shops',
@@ -122,7 +122,7 @@ export const phrases = {
 		s1: (topic) => `${KW.product}为${KW.game}${phrases.zh.win}提供${KW.wallhack}、${KW.radar}和${KW.aimbot}套餐。${topic}`,
 		s2: () => `通过${KW.checkout}${phrases.zh.delivery}。${phrases.zh.monthly}和${phrases.zh.lifetime}含${KW.eac}维护。`,
 		s3: () => `${KW.eac}补丁后请查看Updates页面。无任何作弊保证永久patch status。`,
-		legal: () => '支持与法务：support@pubg-hack.org',
+		legal: () => '支持与法务：support@pubghack.org',
 	},
 	hi: {
 		buy: 'PUBG Hack खरीदें', premium: '', maps: 'maps, sites, and shops',
@@ -130,7 +130,7 @@ export const phrases = {
 		s1: (topic) => `${KW.product} ${KW.game} के लिए ${phrases.hi.win} पर ${KW.wallhack}, ${KW.radar} और ${KW.aimbot} पैकेज देता है। ${topic}`,
 		s2: () => `${KW.checkout} से ${phrases.hi.delivery}। ${phrases.hi.monthly} और ${phrases.hi.lifetime} में ${KW.eac} maintenance शामिल।`,
 		s3: () => `${KW.eac} पैच के बाद Updates पेज देखें। कोई भी cheat permanent patch status गारंटी नहीं देता।`,
-		legal: () => 'सहायता: support@pubg-hack.org',
+		legal: () => 'सहायता: support@pubghack.org',
 	},
 	id: {
 		buy: 'Beli PUBG Hack', premium: '', maps: 'maps, sites, and shops',
@@ -138,7 +138,7 @@ export const phrases = {
 		s1: (topic) => `${KW.product} menyediakan ${KW.wallhack}, ${KW.radar}, dan ${KW.aimbot} untuk ${KW.game} di ${phrases.id.win}. ${topic}`,
 		s2: () => `${phrases.id.delivery} via ${KW.checkout}. Paket ${phrases.id.monthly} dan ${phrases.id.lifetime} termasuk pemeliharaan ${KW.eac}.`,
 		s3: () => `Periksa Updates setelah patch ${KW.eac}. Tidak ada cheat yang menjamin patch status permanen.`,
-		legal: () => 'support@pubg-hack.org untuk dukungan dan legal.',
+		legal: () => 'support@pubghack.org untuk dukungan dan legal.',
 	},
 	th: {
 		buy: 'ซื้อ PUBG Hack', premium: '', maps: 'maps, sites, and shops',
@@ -146,7 +146,7 @@ export const phrases = {
 		s1: (topic) => `${KW.product} รวม ${KW.wallhack}, ${KW.radar} และ ${KW.aimbot} แบบ สำหรับ ${KW.game} บน ${phrases.th.win} ${topic}`,
 		s2: () => `${phrases.th.delivery} ผ่าน ${KW.checkout} แพ็ก ${phrases.th.monthly} และ ${phrases.th.lifetime} รวมการดูแล ${KW.eac}`,
 		s3: () => `ตรวจ Updates หลังแพตช์ ${KW.eac} ไม่มี cheat รับประกัน patch status ถาวร`,
-		legal: () => 'support@pubg-hack.org สำหรับการสนับสนุน',
+		legal: () => 'support@pubghack.org สำหรับการสนับสนุน',
 	},
 	vi: {
 		buy: 'Mua PUBG Hack', premium: '', maps: 'maps, sites, and shops',
@@ -154,7 +154,7 @@ export const phrases = {
 		s1: (topic) => `${KW.product} cung cấp ${KW.wallhack}, ${KW.radar} và ${KW.aimbot} cho ${KW.game} trên ${phrases.vi.win}. ${topic}`,
 		s2: () => `${phrases.vi.delivery} qua ${KW.checkout}. Gói ${phrases.vi.monthly} và ${phrases.vi.lifetime} gồm bảo trì ${KW.eac}.`,
 		s3: () => `Kiểm tra Updates sau bản vá ${KW.eac}. Không cheat nào đảm bảo patch status vĩnh viễn.`,
-		legal: () => 'support@pubg-hack.org cho hỗ trợ và pháp lý.',
+		legal: () => 'support@pubghack.org cho hỗ trợ và pháp lý.',
 	},
 	uk: {
 		buy: 'Купити PUBG Hack', premium: '', maps: 'maps, sites, and shops',
@@ -162,7 +162,7 @@ export const phrases = {
 		s1: (topic) => `${KW.product} об'єднує ${KW.wallhack}, ${KW.radar} і ${KW.aimbot} у пакеті для ${KW.game} на ${phrases.uk.win}. ${topic}`,
 		s2: () => `Ліцензії з ${phrases.uk.delivery} через ${KW.checkout}. Тарифи ${phrases.uk.monthly} і ${phrases.uk.lifetime} включають обслуговування ${KW.eac}.`,
 		s3: () => `Перевіряйте Updates після патчів ${KW.eac}. Жоден чит не гарантує постійний patch status.`,
-		legal: () => 'support@pubg-hack.org для підтримки та правових питань.',
+		legal: () => 'support@pubghack.org для підтримки та правових питань.',
 	},
 	cs: {
 		buy: 'Koupit PUBG Hack', premium: '', maps: 'maps, sites, and shops',
@@ -170,7 +170,7 @@ export const phrases = {
 		s1: (topic) => `${KW.product} spojuje ${KW.wallhack}, ${KW.radar} a ${KW.aimbot} jako balíček pro ${KW.game} na ${phrases.cs.win}. ${topic}`,
 		s2: () => `Licence s ${phrases.cs.delivery} přes ${KW.checkout}. Plány ${phrases.cs.monthly} a ${phrases.cs.lifetime} včetně údržby ${KW.eac}.`,
 		s3: () => `Po patchích ${KW.eac} zkontrolujte Updates. Žádný cheat negarantuje trvalý patch status.`,
-		legal: () => 'support@pubg-hack.org pro podporu a právní dotazy.',
+		legal: () => 'support@pubghack.org pro podporu a právní dotazy.',
 	},
 	ro: {
 		buy: 'Cumpără PUBG Hack', premium: '', maps: 'maps, sites, and shops',
@@ -178,7 +178,7 @@ export const phrases = {
 		s1: (topic) => `${KW.product} combină ${KW.wallhack}, ${KW.radar} și ${KW.aimbot} pentru ${KW.game} pe ${phrases.ro.win}. ${topic}`,
 		s2: () => `Licențe cu ${phrases.ro.delivery} via ${KW.checkout}. Planuri ${phrases.ro.monthly} și ${phrases.ro.lifetime} includ mentenanță ${KW.eac}.`,
 		s3: () => `Verificați Updates după patch-uri ${KW.eac}. Niciun cheat nu garantează patch status permanent.`,
-		legal: () => 'support@pubg-hack.org pentru suport și legal.',
+		legal: () => 'support@pubghack.org pentru suport și legal.',
 	},
 	sv: {
 		buy: 'Köp PUBG Hack', premium: '', maps: 'maps, sites, and shops',
@@ -186,6 +186,6 @@ export const phrases = {
 		s1: (topic) => `${KW.product} kombinerar ${KW.wallhack}, ${KW.radar} och ${KW.aimbot} som paket för ${KW.game} på ${phrases.sv.win}. ${topic}`,
 		s2: () => `Licenser med ${phrases.sv.delivery} via ${KW.checkout}. ${phrases.sv.monthly} och ${phrases.sv.lifetime} inkl. ${KW.eac}-underhåll.`,
 		s3: () => `Kontrollera Updates ruster ${KW.eac}-patchar. Ingen cheat garanterar permanent patch status.`,
-		legal: () => 'support@pubg-hack.org för support och juridik.',
+		legal: () => 'support@pubghack.org för support och juridik.',
 	},
 };

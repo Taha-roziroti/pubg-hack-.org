@@ -1,5 +1,5 @@
 ---
-description: SEO Super Booster — canonical host, metadata, schema, sitemaps (pubg-hack.org)
+description: SEO Super Booster — canonical host, metadata, schema, sitemaps (pubghack.org)
 alwaysApply: true
 ---
 
@@ -9,7 +9,7 @@ Playbook: `SEO-SUPER-BOOSTER.md` + `src/data/seo-booster.ts`. CI: `npm run gener
 
 ## Canonical host
 
-- `brand.url` / `CANONICAL_ORIGIN` → `https://pubg-hack.org` (apex, no `www`).
+- `brand.url` / `CANONICAL_ORIGIN` → `https://pubghack.org` (apex, no `www`).
 - `pubghack.org`, `www.pubghack.org`, and other legacy hosts → **301** apex (`src/lib/canonical-origin.ts`, `functions/_middleware.js`, `src/worker.ts`).
 - Every page: self-referencing `rel=canonical`, `hreflang=en` + `x-default` on apex URLs.
 
@@ -24,7 +24,7 @@ Playbook: `SEO-SUPER-BOOSTER.md` + `src/data/seo-booster.ts`. CI: `npm run gener
 
 ## Structured data
 
-- Shared `@id` `https://pubg-hack.org/#product` on home and reviews.
+- Shared `@id` `https://pubghack.org/#product` on home and reviews.
 - `Organization` + `WebSite` on every page; `SITE_PURPOSE` + six `knowsAbout` terms in `seo-booster.ts`.
 - FAQPage graph on `/faq/` (not duplicated on EN home).
 

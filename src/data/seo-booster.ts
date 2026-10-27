@@ -1,5 +1,5 @@
 /**
- * SEO Super Booster — PUBG Hack (pubg-hack.org). Copy/intent map for writers; enforced in Layout + verify-seo.mjs.
+ * SEO Super Booster — PUBG Hack (pubghack.org). Copy/intent map for writers; enforced in Layout + verify-seo.mjs.
  */
 export const SITE_PURPOSE =
 	'PUBG (PlayerUnknown\'s Battlegrounds) hack guides, feature lists, and license checkout for Windows PC only.';

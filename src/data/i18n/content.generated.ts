@@ -144,7 +144,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"pubg-esp": {
 					title: "PUBG ESP | Wallhack & Player Boxes",
-					description: "PUBG ESP wallhack — player boxes, player markers & distance for ranked and casual matches on PC. Bundled with aimbot & radar at pubg-hack.org.",
+					description: "PUBG ESP wallhack — player boxes, player markers & distance for ranked and casual matches on PC. Bundled with aimbot & radar at pubghack.org.",
 					h1: "PUBG ESP — Player Boxes & Wallhack",
 					intro: "See players and wards and runes through walls during PUBG matches. Part of the same PUBG Hack license.",
 					imageAlt: "PUBG ESP player boxes and distance readouts in a match",
@@ -194,7 +194,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"pubg-aimbot": {
 					title: "PUBG Aimbot | Skillshot assist & FOV Settings",
-					description: "PUBG aimbot with Skillshot assist, FOV & bone priority for ranked team fights on PC. package with ESP & radar at pubg-hack.org.",
+					description: "PUBG aimbot with Skillshot assist, FOV & bone priority for ranked team fights on PC. package with ESP & radar at pubghack.org.",
 					h1: "PUBG Aimbot — Skillshot assist for Windows PC",
 					intro: "Skillshot assist and aim assist you can tune for PUBG. Included in the same PUBG Hack license.",
 					imageAlt: "PUBG Aimbot and Skillshot assist controls on Windows PC",
@@ -244,7 +244,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "PUBG Hack Features | ESP, Aimbot & Wallhack",
-					description: "Full PUBG hacks feature list — ESP wallhack, aimbot, triggerbot, radar and streamproof toggles for battle royale matches on PC. See every control at pubg-hack.org.",
+					description: "Full PUBG hacks feature list — ESP wallhack, aimbot, triggerbot, radar and streamproof toggles for battle royale matches on PC. See every control at pubghack.org.",
 					h1: "PUBG Hack Features — Full Control List",
 					intro: "Everything included in one license for PUBG on Windows PC — aimbot, ESP, wallhack, radar, and streamproof options.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -392,7 +392,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "PUBG Hack Setup | Windows PC Install Guide",
-					description: "Install PUBG Hack on PC — activate ESP, Skillshot assist & radar step by step. Setup guide at pubg-hack.org. Check BattlEye status first.",
+					description: "Install PUBG Hack on PC — activate ESP, Skillshot assist & radar step by step. Setup guide at pubghack.org. Check BattlEye status first.",
 					h1: "Setup",
 					intro: "Install and activate your license on Windows 10 or 11 before your first match.",
 					imageAlt: "PUBG Hack setup guide screenshot for Windows PC",
@@ -429,7 +429,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "If something fails",
 							paragraphs: [
-								"Check Status after a patch. Email support@pubg-hack.org with your order ID.",
+								"Check Status after a patch. Email support@pubghack.org with your order ID.",
 								"Include your Windows version and what you already tried for faster replies.",
 							],
 							list: [
@@ -443,7 +443,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "PUBG Status | BattlEye Updates | PUBG Hack",
-					description: "Live status after PUBG & BattlEye patches. Check ESP, aimbot & radar rebuilds on PC before you queue. pubg-hack.org.",
+					description: "Live status after PUBG & BattlEye patches. Check ESP, aimbot & radar rebuilds on PC before you queue. pubghack.org.",
 					h1: "Status",
 					intro: "Check maintenance notes before you load in after a PUBG or BattlEye patch.",
 					imageAlt: "PUBG Hack live status after BattlEye and game patches",
@@ -492,7 +492,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "PUBG Hack FAQ | ESP, Aimbot & BattlEye",
-					description: "FAQ for PUBG hacks — delivery, setup, ranked and casual matches use, BattlEye updates & pricing on PC. Answers at pubg-hack.org before you buy.",
+					description: "FAQ for PUBG hacks — delivery, setup, ranked and casual matches use, BattlEye updates & pricing on PC. Answers at pubghack.org before you buy.",
 					h1: "PUBG Hack FAQ — Common Questions",
 					intro: "Common questions about PUBG Hack — delivery, setup, updates, and refunds.",
 					imageAlt: "PUBG Hack FAQ — delivery, setup, and update answers",
@@ -540,7 +540,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "PUBG Hack Support | License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@pubg-hack.org with your order ID. pubg-hack.org/support.",
+					description: "Support for license delivery, ESP setup & billing on PC. Email support@pubghack.org with your order ID. pubghack.org/support.",
 					h1: "Support",
 					intro: "Get help with licenses, setup, and billing for PUBG Hack on Windows PC.",
 					imageAlt: "PUBG Hack support page for license and setup help",
@@ -552,7 +552,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to contact us",
 							paragraphs: [
-								"Email support@pubg-hack.org. Include your order ID and a short note about the issue.",
+								"Email support@pubghack.org. Include your order ID and a short note about the issue.",
 								"We review support requests daily for delivery, billing, and setup issues.",
 							],
 							list: [
@@ -578,7 +578,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				reliable: {
 					title: "PUBG hacks 2026 | BattlEye maintenance",
-					description: "PUBG hacks with BattlEye maintenance for ESP, skillshot assist and radar on PC. Public status, rebuild workflow — from $35 at pubg-hack.org.",
+					description: "PUBG hacks with BattlEye maintenance for ESP, skillshot assist and radar on PC. Public status, rebuild workflow — from $35 at pubghack.org.",
 					h1: "PUBG hacks — BattlEye maintenance",
 					intro: "How PUBG Hack stays maintained for PUBG after BattlEye patches — ESP wallhack, radar hack, and aimbot rebuilds for Windows PC.",
 					imageAlt: "PUBG Hack patch status overview for Windows PC",
@@ -624,7 +624,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "PUBG Wallhack | ESP Boxes & wards and runes Markers",
-					description: "PUBG wallhack ESP with player boxes, player markers & skeleton overlays on PC. PUBG hacks with BattlEye rebuilds. pubg-hack.org. Windows PC license with",
+					description: "PUBG wallhack ESP with player boxes, player markers & skeleton overlays on PC. PUBG hacks with BattlEye rebuilds. pubghack.org. Windows PC license with",
 					h1: "PUBG Wallhack — ESP Boxes & Visibility",
 					intro: "PUBG wallhack ESP for PUBG — see players, wards and runes, enemy players, and resource nodes through toggleable wallhack overlays built for ranked and casual matches.",
 					imageAlt: "PUBG wallhack visibility through walls in a match",
@@ -662,7 +662,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "PUBG Radar Hack | 2D Threat Map",
-					description: "2D radar hack for flank reads in PUBG ranked and casual matches on PC. Bundled with ESP wallhack & Skillshot assist in one license at pubg-hack.org.",
+					description: "2D radar hack for flank reads in PUBG ranked and casual matches on PC. Bundled with ESP wallhack & Skillshot assist in one license at pubghack.org.",
 					h1: "PUBG Radar Hack — 2D Threat Awareness",
 					intro: "A simple 2D radar for threats outside your view. Included in the same PUBG Hack license.",
 					imageAlt: "PUBG 2D radar overlay showing nearby threats",
@@ -700,7 +700,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				vac: {
 					title: "PUBG BattlEye Maintenance Guide 2026 | PUBG Hack",
-					description: "PUBG vac bypass explained — how ESP, aimbot & radar rebuild after BattlEye patches on PC. HWID risk, maintenance workflow & status at pubg-hack.org.",
+					description: "PUBG vac bypass explained — how ESP, aimbot & radar rebuild after BattlEye patches on PC. HWID risk, maintenance workflow & status at pubghack.org.",
 					h1: "BattlEye Maintenance — PUBG Hack Maintenance",
 					intro: "Understand BattlEye maintenance for PUBG Hack — how ESP wallhack, radar hack, and Aimbot rebuild after PUBG security updates.",
 					imageAlt: "PUBG Hack maintenance after a BattlEye patch",
@@ -754,7 +754,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "PUBG Hack 2026 | PC Hacks",
-					description: "Best PUBG hacks 2026 — ESP, Skillshot assist & 2D radar on PC. BattlEye maintenance & instant delivery at pubg-hack.org. Windows PC license with BattlEye",
+					description: "Best PUBG hacks 2026 — ESP, Skillshot assist & 2D radar on PC. BattlEye maintenance & instant delivery at pubghack.org. Windows PC license with BattlEye",
 					h1: "PUBG Hack 2026 — ESP, Skillshot assist & Radar",
 					intro: "The 2026 PUBG Hack package for PUBG — ESP wallhack, radar hack, and Aimbot with BattlEye maintenance, instant delivery, and Windows PC support.",
 					imageAlt: "PUBG Hack product overview for PUBG",
@@ -784,7 +784,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/cheats/\">PUBG hacks</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/cheats/\">PUBG hacks</a> checklist, <a href=\"/forums/pubg-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@pubg-hack.org via the <a href=\"/support/\">Support page</a>.",
+								"Support is available at support@pubghack.org via the <a href=\"/support/\">Support page</a>.",
 							],
 						},
 						{
@@ -800,7 +800,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "PUBG Hack Guide | ESP, Aimbot & Radar",
-					description: "PUBG hacks guide — ESP wallhack, Skillshot assist, radar & BattlEye rebuilds for ranked and casual matches on PC. Buy from $35 at pubg-hack.org.",
+					description: "PUBG hacks guide — ESP wallhack, Skillshot assist, radar & BattlEye rebuilds for ranked and casual matches on PC. Buy from $35 at pubghack.org.",
 					h1: "PUBG Hack — Full Guide",
 					intro: "PUBG hacks add ESP, radar, and Skillshot assist on top of the base game. This page explains what PUBG hacks are, what PUBG Hack includes, how BattlEye maintenance works, and where to go next before you buy.",
 					imageAlt: "PUBG Hack overview — ESP, aimbot, and radar for PUBG",
@@ -873,7 +873,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "PUBG Cheat Download | Instant Access | PUBG Hack",
-					description: "PUBG hacks download with instant license delivery — ESP, Skillshot assist & radar on PC. & activation at pubg-hack.org from $35. Windows PC license with",
+					description: "PUBG hacks download with instant license delivery — ESP, Skillshot assist & radar on PC. & activation at pubghack.org from $35. Windows PC license with",
 					h1: "PUBG Hack Download — Instant License Delivery",
 					intro: "How PUBG hack download works for PUBG — digital license delivery after payment confirmation, with ESP wallhack, radar hack, and Aimbot access on Windows PC.",
 					imageAlt: "PUBG Hack download and install delivery flow",
@@ -911,7 +911,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "PUBG Mod Menu | In-Match Toggles | PUBG Hack",
-					description: "PUBG mod menu for in-match ESP, Skillshot assist & radar toggles on PC. Hotkeys & BattlEye maintenance included. Get access at pubg-hack.org.",
+					description: "PUBG mod menu for in-match ESP, Skillshot assist & radar toggles on PC. Hotkeys & BattlEye maintenance included. Get access at pubghack.org.",
 					h1: "PUBG Mod Menu — In-Client Control Panel",
 					intro: "PUBG mod menu controls for PUBG — toggle ESP wallhack categories, radar range, and Aimbot profiles mid-match without leaving your PUBG match on Windows PC.",
 					imageAlt: "PUBG Hack in-game menu controls",
@@ -949,7 +949,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "PUBG Skillshot assist | Aimbot Settings | PUBG Hack",
-					description: "Skillshot assist settings for natural tracking on PC — smoothness, FOV & bone priority. Included in PUBG hacks at pubg-hack.org. Windows PC license with",
+					description: "Skillshot assist settings for natural tracking on PC — smoothness, FOV & bone priority. Included in PUBG hacks at pubghack.org. Windows PC license with",
 					h1: "PUBG Skillshot assist — Smooth Aimbot Controls",
 					intro: "PUBG Skillshot assist settings for PUBG — configurable Aimbot smoothness, FOV, bone priority, and hotkey toggles bundled with ESP wallhack and radar in one license.",
 					imageAlt: "PUBG Skillshot assist FOV and smoothness settings",
@@ -987,7 +987,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Best PUBG Hack 2026 | Compare & Buy | PUBG Hack",
-					description: "Best PUBG hacks for 2026 — ESP, Skillshot assist & BattlEye maintenance on PC. Buyer checklist before checkout at pubg-hack.org. Windows PC license with",
+					description: "Best PUBG hacks for 2026 — ESP, Skillshot assist & BattlEye maintenance on PC. Buyer checklist before checkout at pubghack.org. Windows PC license with",
 					h1: "Best PUBG Hack — 2026 Buyer Guide",
 					intro: "Compare PUBG hacks for PUBG in 2026 — ESP wallhack, radar hack, and Aimbot in one maintained package with BattlEye rebuilds and instant delivery.",
 					imageAlt: "PUBG Hack overview for PUBG on PC",
@@ -1033,7 +1033,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "PUBG Aimbot Hack | Skillshot assist | PUBG Hack",
-					description: "PUBG aimbot hack with Skillshot assist, FOV & bone priority on PC. ESP wallhack & radar bundled. with BattlEye updates at pubg-hack.org. Windows PC license",
+					description: "PUBG aimbot hack with Skillshot assist, FOV & bone priority on PC. ESP wallhack & radar bundled. with BattlEye updates at pubghack.org. Windows PC license",
 					h1: "PUBG Aimbot Hack — Skillshot assist",
 					intro: "PUBG Aimbot hack tools for PUBG — smoothness, FOV, bone priority, per-weapon profiles, and hotkey toggles bundled with ESP wallhack and radar in one license.",
 					imageAlt: "PUBG Aimbot hack controls and bone priority",
@@ -1071,7 +1071,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "PUBG ESP Hack | Wallhack Boxes | PUBG Hack",
-					description: "PUBG ESP hack with player boxes & player markers on PC. Wallhack, radar & aimbot included in one license. Buy at pubg-hack.org from $35. Windows PC license",
+					description: "PUBG ESP hack with player boxes & player markers on PC. Wallhack, radar & aimbot included in one license. Buy at pubghack.org from $35. Windows PC license",
 					h1: "PUBG ESP Hack — Player Boxes Guide",
 					intro: "PUBG ESP hack overlays for PUBG — player outlines, threat cues, player ability markers with distance readouts across ranked and casual matches.",
 					imageAlt: "PUBG ESP hack boxes and player markers",
@@ -1109,7 +1109,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "PUBG Unlock All | What It Really Means",
-					description: "Unlock-all vs real PUBG hacks — ESP wallhack, Skillshot assist & radar on PC. What PUBG Hack offers before you buy at pubg-hack.org. Windows PC license with",
+					description: "Unlock-all vs real PUBG hacks — ESP wallhack, Skillshot assist & radar on PC. What PUBG Hack offers before you buy at pubghack.org. Windows PC license with",
 					h1: "PUBG Unlock All — What Players Search For",
 					intro: "PUBG unlock-all is a common search term for PUBG — this page clarifies what unlock-all tools claim versus the ESP wallhack, radar hack, and Aimbot tools PUBG Hack actually provides on Windows PC.",
 					imageAlt: "PUBG Hack license features overview",
@@ -1147,9 +1147,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Privacy Policy | PUBG Hack",
-					description: "Privacy policy for PUBG Hack at pubg-hack.org. How we handle support emails, order data & checkout for PUBG hacks licenses on PC. Windows PC license with",
+					description: "Privacy policy for PUBG Hack at pubghack.org. How we handle support emails, order data & checkout for PUBG hacks licenses on PC. Windows PC license with",
 					h1: "Privacy Policy",
-					intro: "How PUBG Hack handles information when you browse pubg-hack.org or contact support about a PUBG license.",
+					intro: "How PUBG Hack handles information when you browse pubghack.org or contact support about a PUBG license.",
 					imageAlt: "PUBG Hack privacy policy page",
 					galleryTitle: "PUBG Hack legal resources",
 					ctaPrimary: "Email support",
@@ -1178,8 +1178,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Your choices and contact",
 							paragraphs: [
-								"You may request correction or deletion of support email data by contacting support@pubg-hack.org with your request details.",
-								"Policy updates publish on this page. Continued use of pubg-hack.org after updates means you accept the revised policy. Also see <a href=\"/terms/\">Terms of Use</a> and <a href=\"/refund-policy/\">Refund Policy</a>.",
+								"You may request correction or deletion of support email data by contacting support@pubghack.org with your request details.",
+								"Policy updates publish on this page. Continued use of pubghack.org after updates means you accept the revised policy. Also see <a href=\"/terms/\">Terms of Use</a> and <a href=\"/refund-policy/\">Refund Policy</a>.",
 							],
 						},
 						{
@@ -1193,14 +1193,14 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Data retention and international transfers",
 							paragraphs: [
 								"Support emails are retained only as long as needed to resolve your request or meet legal obligations, then deleted or anonymized.",
-								"Checkout data is processed by our payment provider. pubg-hack.org does not store full card numbers. International visitors are covered by the same policy.",
+								"Checkout data is processed by our payment provider. pubghack.org does not store full card numbers. International visitors are covered by the same policy.",
 							],
 						},
 						{
 							h2: "Children and California / EU rights",
 							paragraphs: [
 								"PUBG Hack is not directed at children under 13. We do not knowingly collect data from minors.",
-								"EU/UK users may request access, correction, or deletion under GDPR. California residents may exercise CCPA rights by emailing support@pubg-hack.org.",
+								"EU/UK users may request access, correction, or deletion under GDPR. California residents may exercise CCPA rights by emailing support@pubghack.org.",
 							],
 						},
 					],
@@ -1208,7 +1208,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "Refund Policy | PUBG Hack",
-					description: "Refund policy for PUBG Hack at pubg-hack.org. Eligibility, delivery terms & how to request a refund for ESP, aimbot & radar licenses. Windows PC license with",
+					description: "Refund policy for PUBG Hack at pubghack.org. Eligibility, delivery terms & how to request a refund for ESP, aimbot & radar licenses. Windows PC license with",
 					h1: "Refund Policy",
 					intro: "Refund terms for PUBG Hack licenses — ESP wallhack, radar hack, and Aimbot packages purchased through checkout for PUBG.",
 					imageAlt: "PUBG Hack refund policy page",
@@ -1234,7 +1234,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to request a refund",
 							paragraphs: [
-								"Email support@pubg-hack.org with subject \"Refund Request\", your order ID, purchase date, and issue summary — or use the <a href=\"/support/\">Support page</a>.",
+								"Email support@pubghack.org with subject \"Refund Request\", your order ID, purchase date, and issue summary — or use the <a href=\"/support/\">Support page</a>.",
 								"Approved refunds process back to the original payment method when possible. Pricing details live on <a href=\"/pubg-cheat-price/\">Pricing</a>.",
 							],
 						},
@@ -1257,9 +1257,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "Terms of Use | PUBG Hack",
-					description: "Terms of use for pubg-hack.org & PUBG Hack licenses. Usage rules, BattlEye risk disclaimer & liability for PC PUBG hacks. Windows PC license with BattlEye",
+					description: "Terms of use for pubghack.org & PUBG Hack licenses. Usage rules, BattlEye risk disclaimer & liability for PC PUBG hacks. Windows PC license with BattlEye",
 					h1: "Terms of Use",
-					intro: "Terms governing use of pubg-hack.org and PUBG Hack licenses for PUBG on Windows PC.",
+					intro: "Terms governing use of pubghack.org and PUBG Hack licenses for PUBG on Windows PC.",
 					imageAlt: "PUBG Hack terms of use page",
 					galleryTitle: "PUBG Hack legal pages",
 					ctaPrimary: "Email support",
@@ -1284,7 +1284,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Changes and governing law",
 							paragraphs: [
 								"We may update these terms by posting revisions on this page. Continued use after changes constitutes acceptance.",
-								"Contact support@pubg-hack.org for questions. Related policies: <a href=\"/privacy-policy/\">Privacy</a> and <a href=\"/refund-policy/\">Refunds</a>.",
+								"Contact support@pubghack.org for questions. Related policies: <a href=\"/privacy-policy/\">Privacy</a> and <a href=\"/refund-policy/\">Refunds</a>.",
 							],
 						},
 						{
@@ -1298,7 +1298,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Limitation of liability and disputes",
 							paragraphs: [
 								"PUBG Hack is provided \"as is.\" Our total liability is limited to the amount you paid for the license in the prior 30 days.",
-								"Disputes should first be emailed to support@pubg-hack.org. Governing law follows the jurisdiction of our payment processor unless local law requires otherwise.",
+								"Disputes should first be emailed to support@pubghack.org. Governing law follows the jurisdiction of our payment processor unless local law requires otherwise.",
 							],
 						},
 					],
@@ -1509,7 +1509,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funciones 2026 | ESP, Aimbot & Radar | PUBG Hack",
-					description: "Funciones: ESP, Skillshot assist, controles de radar. entrega digital instantánea. . Compare plans and guides at pubg-hack.org.",
+					description: "Funciones: ESP, Skillshot assist, controles de radar. entrega digital instantánea. . Compare plans and guides at pubghack.org.",
 					h1: "Funciones — Lista completa de funciones",
 					intro: "PUBG Hack ofrece ESP wallhack, radar hack y PUBG Aimbot para PUBG en Windows PC. Funciones für PUBG auf Windows PC.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -1693,7 +1693,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Si algo falla",
 							paragraphs: [
-								"Revisa Estado tras un parche. Email a support@pubg-hack.org con tu ID de pedido.",
+								"Revisa Estado tras un parche. Email a support@pubghack.org con tu ID de pedido.",
 								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
@@ -1816,7 +1816,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cómo contactarnos",
 							paragraphs: [
-								"Email a support@pubg-hack.org. Incluye tu ID de pedido y una nota breve sobre el problema.",
+								"Email a support@pubghack.org. Incluye tu ID de pedido y una nota breve sobre el problema.",
 								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento BattlEye.",
 							],
 							list: [
@@ -2411,9 +2411,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Política de privacidad | PUBG Hack",
-					description: "Política de privacidad para PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Política de privacidad para PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Política de privacidad",
-					intro: "PUBG Hack ofrece ESP wallhack, radar hack y PUBG Aimbot para PUBG en Windows PC. Política de privacidad para pubg-hack.org y licencias de PUBG.",
+					intro: "PUBG Hack ofrece ESP wallhack, radar hack y PUBG Aimbot para PUBG en Windows PC. Política de privacidad para pubghack.org y licencias de PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -2425,7 +2425,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Información que recopilamos",
 							paragraphs: [
 								"PUBG Hack ofrece ESP wallhack, radar hack y PUBG Aimbot para PUBG en Windows PC. Correo de contacto, referencias de pedido checkout y datos básicos de seguridad del sitio.",
-								"Los datos de pago se procesan en el checkout de checkout — no se almacenan en pubg-hack.org.",
+								"Los datos de pago se procesan en el checkout de checkout — no se almacenan en pubghack.org.",
 							],
 						},
 						{
@@ -2438,17 +2438,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Tus derechos",
 							paragraphs: [
-								"Contacta support@pubg-hack.org para solicitudes legales o de soporte.",
-								"Correo: support@pubg-hack.org",
+								"Contacta support@pubghack.org para solicitudes legales o de soporte.",
+								"Correo: support@pubghack.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Política de reembolso | PUBG Hack",
-					description: "Política de reembolso para PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Política de reembolso para PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Política de reembolso",
-					intro: "PUBG Hack ofrece ESP wallhack, radar hack y PUBG Aimbot para PUBG en Windows PC. Política de reembolso para pubg-hack.org y licencias de PUBG.",
+					intro: "PUBG Hack ofrece ESP wallhack, radar hack y PUBG Aimbot para PUBG en Windows PC. Política de reembolso para pubghack.org y licencias de PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -2473,17 +2473,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cómo solicitar",
 							paragraphs: [
-								"Contacta support@pubg-hack.org para solicitudes legales o de soporte.",
-								"Correo: support@pubg-hack.org",
+								"Contacta support@pubghack.org para solicitudes legales o de soporte.",
+								"Correo: support@pubghack.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Términos de uso | PUBG Hack",
-					description: "Términos de uso para PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Términos de uso para PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Términos de uso",
-					intro: "PUBG Hack ofrece ESP wallhack, radar hack y PUBG Aimbot para PUBG en Windows PC. Términos de uso para pubg-hack.org y licencias de PUBG.",
+					intro: "PUBG Hack ofrece ESP wallhack, radar hack y PUBG Aimbot para PUBG en Windows PC. Términos de uso para pubghack.org y licencias de PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-03.webp",
@@ -2508,8 +2508,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cambios de política",
 							paragraphs: [
-								"Contacta support@pubg-hack.org para solicitudes legales o de soporte.",
-								"Correo: support@pubg-hack.org",
+								"Contacta support@pubghack.org para solicitudes legales o de soporte.",
+								"Correo: support@pubghack.org",
 							],
 						},
 					],
@@ -2719,7 +2719,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Fonctions 2026 | ESP, Aimbot & Radar | PUBG Hack",
-					description: "Fonctions: ESP, Skillshot assist, contrôles radar. livraison numérique instantanée. . Compare plans and guides at pubg-hack.org.",
+					description: "Fonctions: ESP, Skillshot assist, contrôles radar. livraison numérique instantanée. . Compare plans and guides at pubghack.org.",
 					h1: "Fonctions — Liste complète des fonctions",
 					intro: "PUBG Hack combine ESP wallhack, radar hack et PUBG Aimbot pour PUBG sur PC Windows. Fonctions für PUBG auf PC Windows.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -2903,7 +2903,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Si quelque chose échoue",
 							paragraphs: [
-								"Consultez Statut après un patch. Email support@pubg-hack.org avec votre ID commande.",
+								"Consultez Statut après un patch. Email support@pubghack.org avec votre ID commande.",
 								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
@@ -3026,7 +3026,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Comment nous contacter",
 							paragraphs: [
-								"Email support@pubg-hack.org. Incluez votre ID commande et une brève note.",
+								"Email support@pubghack.org. Incluez votre ID commande et une brève note.",
 								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance BattlEye.",
 							],
 							list: [
@@ -3621,9 +3621,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Politique de confidentialité | PUBG Hack",
-					description: "Politique de confidentialité pour PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubg-hack.org.",
+					description: "Politique de confidentialité pour PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubghack.org.",
 					h1: "Politique de confidentialité",
-					intro: "PUBG Hack combine ESP wallhack, radar hack et PUBG Aimbot pour PUBG sur PC Windows. Politique de confidentialité pour pubg-hack.org et les licences PUBG.",
+					intro: "PUBG Hack combine ESP wallhack, radar hack et PUBG Aimbot pour PUBG sur PC Windows. Politique de confidentialité pour pubghack.org et les licences PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -3635,7 +3635,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informations collectées",
 							paragraphs: [
 								"PUBG Hack combine ESP wallhack, radar hack et PUBG Aimbot pour PUBG sur PC Windows. E-mail de contact, références de commande checkout et données de sécurité de base du site.",
-								"Les détails de paiement sont traités par le secure checkout — non stockés sur pubg-hack.org.",
+								"Les détails de paiement sont traités par le secure checkout — non stockés sur pubghack.org.",
 							],
 						},
 						{
@@ -3648,17 +3648,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Vos droits",
 							paragraphs: [
-								"Contactez support@pubg-hack.org pour le support ou les demandes légales.",
-								"E-mail : support@pubg-hack.org",
+								"Contactez support@pubghack.org pour le support ou les demandes légales.",
+								"E-mail : support@pubghack.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Politique de remboursement | PUBG Hack",
-					description: "Politique de remboursement pour PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubg-hack.org.",
+					description: "Politique de remboursement pour PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubghack.org.",
 					h1: "Politique de remboursement",
-					intro: "PUBG Hack combine ESP wallhack, radar hack et PUBG Aimbot pour PUBG sur PC Windows. Politique de remboursement pour pubg-hack.org et les licences PUBG.",
+					intro: "PUBG Hack combine ESP wallhack, radar hack et PUBG Aimbot pour PUBG sur PC Windows. Politique de remboursement pour pubghack.org et les licences PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -3683,17 +3683,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Comment demander",
 							paragraphs: [
-								"Contactez support@pubg-hack.org pour le support ou les demandes légales.",
-								"E-mail : support@pubg-hack.org",
+								"Contactez support@pubghack.org pour le support ou les demandes légales.",
+								"E-mail : support@pubghack.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Conditions d'utilisation | PUBG Hack",
-					description: "Conditions d'utilisation pour PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubg-hack.org.",
+					description: "Conditions d'utilisation pour PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubghack.org.",
 					h1: "Conditions d'utilisation",
-					intro: "PUBG Hack combine ESP wallhack, radar hack et PUBG Aimbot pour PUBG sur PC Windows. Conditions d'utilisation pour pubg-hack.org et les licences PUBG.",
+					intro: "PUBG Hack combine ESP wallhack, radar hack et PUBG Aimbot pour PUBG sur PC Windows. Conditions d'utilisation pour pubghack.org et les licences PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-03.webp",
@@ -3718,8 +3718,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Modifications",
 							paragraphs: [
-								"Contactez support@pubg-hack.org pour le support ou les demandes légales.",
-								"E-mail : support@pubg-hack.org",
+								"Contactez support@pubghack.org pour le support ou les demandes légales.",
+								"E-mail : support@pubghack.org",
 							],
 						},
 					],
@@ -3801,7 +3801,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "PUBG Hack 2026 | ESP, Wallhack & Aimbot",
-					description: "PUBG hacks für PUBG auf PC. ESP Wallhack, Radar Hack und Aimbot mit BattlEye-Wartung. Sofortige digitale Lieferung. Compare plans and guides at pubg-hack.org.",
+					description: "PUBG hacks für PUBG auf PC. ESP Wallhack, Radar Hack und Aimbot mit BattlEye-Wartung. Sofortige digitale Lieferung. Compare plans and guides at pubghack.org.",
 					h1: "PUBG hacks für PUBG",
 					intro: "Windows PC Paket für PUBG: ESP Wallhack, Radar und Aimbot mit BattlEye-Wartung nach jedem Patch.",
 					imageAlt: "PUBG ESP — Spieler-Tags Hack",
@@ -3929,7 +3929,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Features 2026 | ESP, Aimbot & Radar | PUBG Hack",
-					description: "Features: ESP, Skillshot assist, Radar-Steuerung. sofortige digitale Lieferung. . Compare plans and guides at pubg-hack.org.",
+					description: "Features: ESP, Skillshot assist, Radar-Steuerung. sofortige digitale Lieferung. . Compare plans and guides at pubghack.org.",
 					h1: "Features — Vollständige Feature-Liste",
 					intro: "PUBG Hack bündelt ESP wallhack, radar hack und PUBG Aimbot als Paket für PUBG auf Windows PC. Features für PUBG auf Windows PC.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -4113,7 +4113,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Wenn etwas schiefgeht",
 							paragraphs: [
-								"Status nach Patch prüfen. E-Mail an support@pubg-hack.org mit Bestell-ID.",
+								"Status nach Patch prüfen. E-Mail an support@pubghack.org mit Bestell-ID.",
 								"Lizenzen mit sofortige digitale Lieferung über secure checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
@@ -4236,7 +4236,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "So erreichst du uns",
 							paragraphs: [
-								"E-Mail an support@pubg-hack.org. Bestell-ID und kurze Problembeschreibung angeben.",
+								"E-Mail an support@pubghack.org. Bestell-ID und kurze Problembeschreibung angeben.",
 								"Lizenzen mit sofortige digitale Lieferung über secure checkout. $35/Monat und $150 Lifetime inkl. BattlEye-Wartung.",
 							],
 							list: [
@@ -4831,9 +4831,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Datenschutz | PUBG Hack",
-					description: "Datenschutz für PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Datenschutz für PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Datenschutz",
-					intro: "PUBG Hack bündelt ESP wallhack, radar hack und PUBG Aimbot als Paket für PUBG auf Windows PC. Datenschutz für pubg-hack.org und PUBG-Lizenzen.",
+					intro: "PUBG Hack bündelt ESP wallhack, radar hack und PUBG Aimbot als Paket für PUBG auf Windows PC. Datenschutz für pubghack.org und PUBG-Lizenzen.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -4845,7 +4845,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Erhobene Daten",
 							paragraphs: [
 								"PUBG Hack bündelt ESP wallhack, radar hack und PUBG Aimbot als Paket für PUBG auf Windows PC. Kontakt-E-Mail, checkout-Bestellreferenzen und grundlegende Sicherheitsdaten der Website.",
-								"Zahlungsdaten werden über checkout-Checkout verarbeitet — nicht auf pubg-hack.org gespeichert.",
+								"Zahlungsdaten werden über checkout-Checkout verarbeitet — nicht auf pubghack.org gespeichert.",
 							],
 						},
 						{
@@ -4858,17 +4858,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Ihre Rechte",
 							paragraphs: [
-								"support@pubg-hack.org für Support und rechtliche Anfragen.",
-								"E-Mail: support@pubg-hack.org",
+								"support@pubghack.org für Support und rechtliche Anfragen.",
+								"E-Mail: support@pubghack.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Rückerstattung | PUBG Hack",
-					description: "Rückerstattung für PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Rückerstattung für PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Rückerstattung",
-					intro: "PUBG Hack bündelt ESP wallhack, radar hack und PUBG Aimbot als Paket für PUBG auf Windows PC. Rückerstattung für pubg-hack.org und PUBG-Lizenzen.",
+					intro: "PUBG Hack bündelt ESP wallhack, radar hack und PUBG Aimbot als Paket für PUBG auf Windows PC. Rückerstattung für pubghack.org und PUBG-Lizenzen.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -4893,17 +4893,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "So beantragen",
 							paragraphs: [
-								"support@pubg-hack.org für Support und rechtliche Anfragen.",
-								"E-Mail: support@pubg-hack.org",
+								"support@pubghack.org für Support und rechtliche Anfragen.",
+								"E-Mail: support@pubghack.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Nutzungsbedingungen | PUBG Hack",
-					description: "Nutzungsbedingungen für PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Nutzungsbedingungen für PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Nutzungsbedingungen",
-					intro: "PUBG Hack bündelt ESP wallhack, radar hack und PUBG Aimbot als Paket für PUBG auf Windows PC. Nutzungsbedingungen für pubg-hack.org und PUBG-Lizenzen.",
+					intro: "PUBG Hack bündelt ESP wallhack, radar hack und PUBG Aimbot als Paket für PUBG auf Windows PC. Nutzungsbedingungen für pubghack.org und PUBG-Lizenzen.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-03.webp",
@@ -4928,8 +4928,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Richtlinienänderungen",
 							paragraphs: [
-								"support@pubg-hack.org für Support und rechtliche Anfragen.",
-								"E-Mail: support@pubg-hack.org",
+								"support@pubghack.org für Support und rechtliche Anfragen.",
+								"E-Mail: support@pubghack.org",
 							],
 						},
 					],
@@ -5139,7 +5139,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Recursos 2026 | ESP, Aimbot & Radar | PUBG Hack",
-					description: "Recursos: ESP, Skillshot assist, controles de radar. entrega digital instantânea. . Compare plans and guides at pubg-hack.org.",
+					description: "Recursos: ESP, Skillshot assist, controles de radar. entrega digital instantânea. . Compare plans and guides at pubghack.org.",
 					h1: "Recursos — Lista completa de recursos",
 					intro: "PUBG Hack reúne ESP wallhack, radar hack e PUBG Aimbot para PUBG no PC Windows. Recursos für PUBG auf PC Windows.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -5323,7 +5323,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Se algo falhar",
 							paragraphs: [
-								"Verifique Status após patch. Email support@pubg-hack.org com ID do pedido.",
+								"Verifique Status após patch. Email support@pubghack.org com ID do pedido.",
 								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
@@ -5446,7 +5446,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Como nos contactar",
 							paragraphs: [
-								"Email support@pubg-hack.org. Inclua ID do pedido e nota breve sobre o problema.",
+								"Email support@pubghack.org. Inclua ID do pedido e nota breve sobre o problema.",
 								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção BattlEye.",
 							],
 							list: [
@@ -6041,9 +6041,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Política de privacidade | PUBG Hack",
-					description: "Política de privacidade para PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubg-hack.org.",
+					description: "Política de privacidade para PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubghack.org.",
 					h1: "Política de privacidade",
-					intro: "PUBG Hack reúne ESP wallhack, radar hack e PUBG Aimbot para PUBG no PC Windows. Política de privacidade para pubg-hack.org e licenças PUBG.",
+					intro: "PUBG Hack reúne ESP wallhack, radar hack e PUBG Aimbot para PUBG no PC Windows. Política de privacidade para pubghack.org e licenças PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -6055,7 +6055,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informações que coletamos",
 							paragraphs: [
 								"PUBG Hack reúne ESP wallhack, radar hack e PUBG Aimbot para PUBG no PC Windows. E-mail de contato, referências de pedido checkout e dados básicos de segurança do site.",
-								"Detalhes de pagamento são processados pelo secure checkout — não armazenados em pubg-hack.org.",
+								"Detalhes de pagamento são processados pelo secure checkout — não armazenados em pubghack.org.",
 							],
 						},
 						{
@@ -6068,17 +6068,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Seus direitos",
 							paragraphs: [
-								"Contacte support@pubg-hack.org para suporte ou questões legais.",
-								"E-mail: support@pubg-hack.org",
+								"Contacte support@pubghack.org para suporte ou questões legais.",
+								"E-mail: support@pubghack.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Política de reembolso | PUBG Hack",
-					description: "Política de reembolso para PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubg-hack.org.",
+					description: "Política de reembolso para PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubghack.org.",
 					h1: "Política de reembolso",
-					intro: "PUBG Hack reúne ESP wallhack, radar hack e PUBG Aimbot para PUBG no PC Windows. Política de reembolso para pubg-hack.org e licenças PUBG.",
+					intro: "PUBG Hack reúne ESP wallhack, radar hack e PUBG Aimbot para PUBG no PC Windows. Política de reembolso para pubghack.org e licenças PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -6103,17 +6103,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Como solicitar",
 							paragraphs: [
-								"Contacte support@pubg-hack.org para suporte ou questões legais.",
-								"E-mail: support@pubg-hack.org",
+								"Contacte support@pubghack.org para suporte ou questões legais.",
+								"E-mail: support@pubghack.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Termos de uso | PUBG Hack",
-					description: "Termos de uso para PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubg-hack.org.",
+					description: "Termos de uso para PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubghack.org.",
 					h1: "Termos de uso",
-					intro: "PUBG Hack reúne ESP wallhack, radar hack e PUBG Aimbot para PUBG no PC Windows. Termos de uso para pubg-hack.org e licenças PUBG.",
+					intro: "PUBG Hack reúne ESP wallhack, radar hack e PUBG Aimbot para PUBG no PC Windows. Termos de uso para pubghack.org e licenças PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-03.webp",
@@ -6138,8 +6138,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Alterações de política",
 							paragraphs: [
-								"Contacte support@pubg-hack.org para suporte ou questões legais.",
-								"E-mail: support@pubg-hack.org",
+								"Contacte support@pubghack.org para suporte ou questões legais.",
+								"E-mail: support@pubghack.org",
 							],
 						},
 					],
@@ -6221,7 +6221,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "PUBG Hack 2026 | ESP, Wallhack e Aimbot",
-					description: "Cheat PUBG per PUBG su PC. ESP wallhack, radar hack e Aimbot con manutenzione BattlEye. Consegna digitale istantanea. Compare plans and guides at pubg-hack.org.",
+					description: "Cheat PUBG per PUBG su PC. ESP wallhack, radar hack e Aimbot con manutenzione BattlEye. Consegna digitale istantanea. Compare plans and guides at pubghack.org.",
 					h1: "cheat per PUBG",
 					intro: "Pacchetto per PUBG su PC Windows: ESP wallhack, radar e Aimbot con manutenzione BattlEye dopo ogni patch.",
 					imageAlt: "PUBG ESP player tags hack",
@@ -6349,7 +6349,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funzioni 2026 | ESP, Aimbot & Radar | PUBG Hack",
-					description: "Funzioni: ESP, Skillshot assist, controlli radar. consegna digitale istantanea. . Compare plans and guides at pubg-hack.org.",
+					description: "Funzioni: ESP, Skillshot assist, controlli radar. consegna digitale istantanea. . Compare plans and guides at pubghack.org.",
 					h1: "Funzioni — Elenco completo funzioni",
 					intro: "PUBG Hack unisce ESP wallhack, radar hack e PUBG Aimbot per PUBG su PC Windows. Funzioni für PUBG auf PC Windows.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -6533,7 +6533,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Se qualcosa non funziona",
 							paragraphs: [
-								"Controlla Stato dopo patch. Email support@pubg-hack.org con ID ordine.",
+								"Controlla Stato dopo patch. Email support@pubghack.org con ID ordine.",
 								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
@@ -6656,7 +6656,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Come contattarci",
 							paragraphs: [
-								"Email support@pubg-hack.org. Includi ID ordine e breve nota sul problema.",
+								"Email support@pubghack.org. Includi ID ordine e breve nota sul problema.",
 								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione BattlEye.",
 							],
 							list: [
@@ -7251,9 +7251,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Informativa privacy | PUBG Hack",
-					description: "Informativa privacy per PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubg-hack.org.",
+					description: "Informativa privacy per PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubghack.org.",
 					h1: "Informativa privacy",
-					intro: "PUBG Hack unisce ESP wallhack, radar hack e PUBG Aimbot per PUBG su PC Windows. Informativa privacy per pubg-hack.org e licenze PUBG.",
+					intro: "PUBG Hack unisce ESP wallhack, radar hack e PUBG Aimbot per PUBG su PC Windows. Informativa privacy per pubghack.org e licenze PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -7265,7 +7265,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informazioni raccolte",
 							paragraphs: [
 								"PUBG Hack unisce ESP wallhack, radar hack e PUBG Aimbot per PUBG su PC Windows. Email di contatto, riferimenti ordine checkout e dati di sicurezza di base del sito.",
-								"I dati di pagamento sono elaborati dal secure checkout — non memorizzati su pubg-hack.org.",
+								"I dati di pagamento sono elaborati dal secure checkout — non memorizzati su pubghack.org.",
 							],
 						},
 						{
@@ -7278,17 +7278,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "I tuoi diritti",
 							paragraphs: [
-								"Contatta support@pubg-hack.org per supporto o richieste legali.",
-								"Email: support@pubg-hack.org",
+								"Contatta support@pubghack.org per supporto o richieste legali.",
+								"Email: support@pubghack.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Politica di rimborso | PUBG Hack",
-					description: "Politica di rimborso per PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubg-hack.org.",
+					description: "Politica di rimborso per PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubghack.org.",
 					h1: "Politica di rimborso",
-					intro: "PUBG Hack unisce ESP wallhack, radar hack e PUBG Aimbot per PUBG su PC Windows. Politica di rimborso per pubg-hack.org e licenze PUBG.",
+					intro: "PUBG Hack unisce ESP wallhack, radar hack e PUBG Aimbot per PUBG su PC Windows. Politica di rimborso per pubghack.org e licenze PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -7313,17 +7313,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Come richiedere",
 							paragraphs: [
-								"Contatta support@pubg-hack.org per supporto o richieste legali.",
-								"Email: support@pubg-hack.org",
+								"Contatta support@pubghack.org per supporto o richieste legali.",
+								"Email: support@pubghack.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Termini di utilizzo | PUBG Hack",
-					description: "Termini di utilizzo per PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubg-hack.org.",
+					description: "Termini di utilizzo per PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubghack.org.",
 					h1: "Termini di utilizzo",
-					intro: "PUBG Hack unisce ESP wallhack, radar hack e PUBG Aimbot per PUBG su PC Windows. Termini di utilizzo per pubg-hack.org e licenze PUBG.",
+					intro: "PUBG Hack unisce ESP wallhack, radar hack e PUBG Aimbot per PUBG su PC Windows. Termini di utilizzo per pubghack.org e licenze PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-03.webp",
@@ -7348,8 +7348,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Modifiche alla policy",
 							paragraphs: [
-								"Contatta support@pubg-hack.org per supporto o richieste legali.",
-								"Email: support@pubg-hack.org",
+								"Contatta support@pubghack.org per supporto o richieste legali.",
+								"Email: support@pubghack.org",
 							],
 						},
 					],
@@ -7431,7 +7431,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "PUBG Hack 2026 | ESP, Wallhack & Aimbot",
-					description: "PUBG hacks voor PUBG op PC. ESP wallhack, radar hack en Aimbot met BattlEye-onderhoud. Directe digitale levering. Compare plans and guides at pubg-hack.org.",
+					description: "PUBG hacks voor PUBG op PC. ESP wallhack, radar hack en Aimbot met BattlEye-onderhoud. Directe digitale levering. Compare plans and guides at pubghack.org.",
 					h1: "PUBG hacks voor PUBG",
 					intro: "Windows PC pakket voor PUBG: ESP wallhack, radar en Aimbot met BattlEye-onderhoud na elke patch.",
 					imageAlt: "PUBG ESP player tags hack",
@@ -7559,7 +7559,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Functies 2026 | ESP, Aimbot & Radar | PUBG Hack",
-					description: "Functies: ESP, Skillshot assist, radar bediening. directe digitale levering. . Compare plans and guides at pubg-hack.org.",
+					description: "Functies: ESP, Skillshot assist, radar bediening. directe digitale levering. . Compare plans and guides at pubghack.org.",
 					h1: "Functies — Full Feature List",
 					intro: "PUBG Hack bundelt ESP wallhack, radar hack en PUBG Aimbot als pakket voor PUBG op Windows PC. Functies für PUBG auf Windows PC.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -7743,7 +7743,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Als iets misgaat",
 							paragraphs: [
-								"Check Status na patch. E-mail support@pubg-hack.org met order-ID.",
+								"Check Status na patch. E-mail support@pubghack.org met order-ID.",
 								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
@@ -7866,7 +7866,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Hoe contact opnemen",
 							paragraphs: [
-								"E-mail support@pubg-hack.org. Voeg order-ID en korte probleemnotitie toe.",
+								"E-mail support@pubghack.org. Voeg order-ID en korte probleemnotitie toe.",
 								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. BattlEye-onderhoud.",
 							],
 							list: [
@@ -8461,9 +8461,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Privacybeleid | PUBG Hack",
-					description: "Privacybeleid voor PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Privacybeleid voor PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Privacybeleid",
-					intro: "PUBG Hack bundelt ESP wallhack, radar hack en PUBG Aimbot als pakket voor PUBG op Windows PC. Privacybeleid voor pubg-hack.org en PUBG-licenties.",
+					intro: "PUBG Hack bundelt ESP wallhack, radar hack en PUBG Aimbot als pakket voor PUBG op Windows PC. Privacybeleid voor pubghack.org en PUBG-licenties.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -8475,7 +8475,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informatie die we verzamelen",
 							paragraphs: [
 								"PUBG Hack bundelt ESP wallhack, radar hack en PUBG Aimbot als pakket voor PUBG op Windows PC. Contact-e-mail, checkout-orderreferenties en basisbeveiligingsgegevens van de site.",
-								"Betalingsgegevens worden verwerkt via secure checkout — niet opgeslagen op pubg-hack.org.",
+								"Betalingsgegevens worden verwerkt via secure checkout — niet opgeslagen op pubghack.org.",
 							],
 						},
 						{
@@ -8488,17 +8488,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Uw rechten",
 							paragraphs: [
-								"support@pubg-hack.org voor support en juridische vragen.",
-								"E-mail: support@pubg-hack.org",
+								"support@pubghack.org voor support en juridische vragen.",
+								"E-mail: support@pubghack.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Restitutiebeleid | PUBG Hack",
-					description: "Restitutiebeleid voor PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Restitutiebeleid voor PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Restitutiebeleid",
-					intro: "PUBG Hack bundelt ESP wallhack, radar hack en PUBG Aimbot als pakket voor PUBG op Windows PC. Restitutiebeleid voor pubg-hack.org en PUBG-licenties.",
+					intro: "PUBG Hack bundelt ESP wallhack, radar hack en PUBG Aimbot als pakket voor PUBG op Windows PC. Restitutiebeleid voor pubghack.org en PUBG-licenties.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -8523,17 +8523,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Hoe aanvragen",
 							paragraphs: [
-								"support@pubg-hack.org voor support en juridische vragen.",
-								"E-mail: support@pubg-hack.org",
+								"support@pubghack.org voor support en juridische vragen.",
+								"E-mail: support@pubghack.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Gebruiksvoorwaarden | PUBG Hack",
-					description: "Gebruiksvoorwaarden voor PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Gebruiksvoorwaarden voor PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Gebruiksvoorwaarden",
-					intro: "PUBG Hack bundelt ESP wallhack, radar hack en PUBG Aimbot als pakket voor PUBG op Windows PC. Gebruiksvoorwaarden voor pubg-hack.org en PUBG-licenties.",
+					intro: "PUBG Hack bundelt ESP wallhack, radar hack en PUBG Aimbot als pakket voor PUBG op Windows PC. Gebruiksvoorwaarden voor pubghack.org en PUBG-licenties.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-03.webp",
@@ -8558,8 +8558,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Beleidswijzigingen",
 							paragraphs: [
-								"support@pubg-hack.org voor support en juridische vragen.",
-								"E-mail: support@pubg-hack.org",
+								"support@pubghack.org voor support en juridische vragen.",
+								"E-mail: support@pubghack.org",
 							],
 						},
 					],
@@ -8641,7 +8641,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "PUBG Hack 2026 | ESP, Wallhack i Aimbot",
-					description: "cheaty PUBG dla PUBG na PC. ESP wallhack, radar hack i Aimbot z konserwacją BattlEye. Natychmiastowa dostawa cyfrowa. Compare plans and guides at pubg-hack.org.",
+					description: "cheaty PUBG dla PUBG na PC. ESP wallhack, radar hack i Aimbot z konserwacją BattlEye. Natychmiastowa dostawa cyfrowa. Compare plans and guides at pubghack.org.",
 					h1: "cheaty dla PUBG",
 					intro: "pakiet premium dla PUBG na Windows PC: ESP wallhack, radar i Aimbot z konserwacją BattlEye po każdym patchu.",
 					imageAlt: "PUBG ESP player tags hack",
@@ -8769,7 +8769,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funkcje 2026 | ESP, Aimbot & Radar | PUBG Hack",
-					description: "Funkcje: ESP, Skillshot assist, sterowanie radar. natychmiastowa dostawa cyfrowa. . Compare plans and guides at pubg-hack.org.",
+					description: "Funkcje: ESP, Skillshot assist, sterowanie radar. natychmiastowa dostawa cyfrowa. . Compare plans and guides at pubghack.org.",
 					h1: "Funkcje — Full Feature List",
 					intro: "PUBG Hack łączy ESP wallhack, radar hack i PUBG Aimbot jako pakiet dla PUBG na PC Windows. Funkcje für PUBG auf PC Windows.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -8953,7 +8953,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Gdy coś nie działa",
 							paragraphs: [
-								"Sprawdź Status po patchu. Email support@pubg-hack.org z ID zamówienia.",
+								"Sprawdź Status po patchu. Email support@pubghack.org z ID zamówienia.",
 								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
@@ -9076,7 +9076,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Jak się skontaktować",
 							paragraphs: [
-								"Email support@pubg-hack.org. Dołącz ID zamówienia i krótki opis problemu.",
+								"Email support@pubghack.org. Dołącz ID zamówienia i krótki opis problemu.",
 								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją BattlEye.",
 							],
 							list: [
@@ -9671,9 +9671,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Polityka prywatności | PUBG Hack",
-					description: "Polityka prywatności dla PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubg-hack.org.",
+					description: "Polityka prywatności dla PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubghack.org.",
 					h1: "Polityka prywatności",
-					intro: "PUBG Hack łączy ESP wallhack, radar hack i PUBG Aimbot jako pakiet dla PUBG na PC Windows. Polityka prywatności dla pubg-hack.org i licencji PUBG.",
+					intro: "PUBG Hack łączy ESP wallhack, radar hack i PUBG Aimbot jako pakiet dla PUBG na PC Windows. Polityka prywatności dla pubghack.org i licencji PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -9685,7 +9685,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informacje, które zbieramy",
 							paragraphs: [
 								"PUBG Hack łączy ESP wallhack, radar hack i PUBG Aimbot jako pakiet dla PUBG na PC Windows. E-mail kontaktowy, referencje zamówień checkout i podstawowe dane bezpieczeństwa witryny.",
-								"Dane płatności są przetwarzane przez secure checkout — nie przechowywane na pubg-hack.org.",
+								"Dane płatności są przetwarzane przez secure checkout — nie przechowywane na pubghack.org.",
 							],
 						},
 						{
@@ -9698,17 +9698,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Twoje prawa",
 							paragraphs: [
-								"support@pubg-hack.org w sprawach wsparcia i prawnych.",
-								"E-mail: support@pubg-hack.org",
+								"support@pubghack.org w sprawach wsparcia i prawnych.",
+								"E-mail: support@pubghack.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Polityka zwrotów | PUBG Hack",
-					description: "Polityka zwrotów dla PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubg-hack.org.",
+					description: "Polityka zwrotów dla PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubghack.org.",
 					h1: "Polityka zwrotów",
-					intro: "PUBG Hack łączy ESP wallhack, radar hack i PUBG Aimbot jako pakiet dla PUBG na PC Windows. Polityka zwrotów dla pubg-hack.org i licencji PUBG.",
+					intro: "PUBG Hack łączy ESP wallhack, radar hack i PUBG Aimbot jako pakiet dla PUBG na PC Windows. Polityka zwrotów dla pubghack.org i licencji PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -9733,17 +9733,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Jak złożyć wniosek",
 							paragraphs: [
-								"support@pubg-hack.org w sprawach wsparcia i prawnych.",
-								"E-mail: support@pubg-hack.org",
+								"support@pubghack.org w sprawach wsparcia i prawnych.",
+								"E-mail: support@pubghack.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Warunki użytkowania | PUBG Hack",
-					description: "Warunki użytkowania dla PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubg-hack.org.",
+					description: "Warunki użytkowania dla PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubghack.org.",
 					h1: "Warunki użytkowania",
-					intro: "PUBG Hack łączy ESP wallhack, radar hack i PUBG Aimbot jako pakiet dla PUBG na PC Windows. Warunki użytkowania dla pubg-hack.org i licencji PUBG.",
+					intro: "PUBG Hack łączy ESP wallhack, radar hack i PUBG Aimbot jako pakiet dla PUBG na PC Windows. Warunki użytkowania dla pubghack.org i licencji PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-03.webp",
@@ -9768,8 +9768,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Zmiany polityki",
 							paragraphs: [
-								"support@pubg-hack.org w sprawach wsparcia i prawnych.",
-								"E-mail: support@pubg-hack.org",
+								"support@pubghack.org w sprawach wsparcia i prawnych.",
+								"E-mail: support@pubghack.org",
 							],
 						},
 					],
@@ -9851,7 +9851,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "PUBG Hack 2026 | ESP, Wallhack и Aimbot",
-					description: "читы PUBG для PUBG на PC. ESP wallhack, radar hack и Aimbot с обслуживанием BattlEye. Мгновенная цифровая доставка. Compare plans and guides at pubg-hack.org.",
+					description: "читы PUBG для PUBG на PC. ESP wallhack, radar hack и Aimbot с обслуживанием BattlEye. Мгновенная цифровая доставка. Compare plans and guides at pubghack.org.",
 					h1: "читы для PUBG",
 					intro: "пакет для PUBG на Windows PC: ESP wallhack, radar и Aimbot с обслуживанием BattlEye после патчей.",
 					imageAlt: "PUBG ESP — теги игроков hack",
@@ -9979,7 +9979,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Функции 2026 | ESP, Aimbot & Radar | PUBG Hack",
-					description: "Функции: ESP, Skillshot assist, управление radar. мгновенная цифровая доставка. . Compare plans and guides at pubg-hack.org.",
+					description: "Функции: ESP, Skillshot assist, управление radar. мгновенная цифровая доставка. . Compare plans and guides at pubghack.org.",
 					h1: "Функции — Полный список функций",
 					intro: "PUBG Hack объединяет ESP wallhack, radar hack и PUBG Aimbot в пакете для PUBG на Windows PC. Функции für PUBG auf Windows PC.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -10163,7 +10163,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Если что-то не работает",
 							paragraphs: [
-								"Проверьте Статус после патча. Email support@pubg-hack.org с ID заказа.",
+								"Проверьте Статус после патча. Email support@pubghack.org с ID заказа.",
 								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
@@ -10286,7 +10286,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Как связаться",
 							paragraphs: [
-								"Email support@pubg-hack.org. Укажите ID заказа и краткое описание проблемы.",
+								"Email support@pubghack.org. Укажите ID заказа и краткое описание проблемы.",
 								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание BattlEye.",
 							],
 							list: [
@@ -10881,9 +10881,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Политика конфиденциальности | PUBG Hack",
-					description: "Политика конфиденциальности для PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Политика конфиденциальности для PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Политика конфиденциальности",
-					intro: "PUBG Hack объединяет ESP wallhack, radar hack и PUBG Aimbot в пакете для PUBG на Windows PC. Политика конфиденциальности для pubg-hack.org и лицензий PUBG.",
+					intro: "PUBG Hack объединяет ESP wallhack, radar hack и PUBG Aimbot в пакете для PUBG на Windows PC. Политика конфиденциальности для pubghack.org и лицензий PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -10895,7 +10895,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Информация, которую мы собираем",
 							paragraphs: [
 								"PUBG Hack объединяет ESP wallhack, radar hack и PUBG Aimbot в пакете для PUBG на Windows PC. Контактный email, ссылки на заказы checkout и базовые данные безопасности сайта.",
-								"Платёжные данные обрабатываются через secure checkout — не хранятся на pubg-hack.org.",
+								"Платёжные данные обрабатываются через secure checkout — не хранятся на pubghack.org.",
 							],
 						},
 						{
@@ -10908,17 +10908,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Ваши права",
 							paragraphs: [
-								"support@pubg-hack.org для поддержки и юридических вопросов.",
-								"Email: support@pubg-hack.org",
+								"support@pubghack.org для поддержки и юридических вопросов.",
+								"Email: support@pubghack.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Политика возврата | PUBG Hack",
-					description: "Политика возврата для PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Политика возврата для PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Политика возврата",
-					intro: "PUBG Hack объединяет ESP wallhack, radar hack и PUBG Aimbot в пакете для PUBG на Windows PC. Политика возврата для pubg-hack.org и лицензий PUBG.",
+					intro: "PUBG Hack объединяет ESP wallhack, radar hack и PUBG Aimbot в пакете для PUBG на Windows PC. Политика возврата для pubghack.org и лицензий PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -10943,17 +10943,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Как запросить",
 							paragraphs: [
-								"support@pubg-hack.org для поддержки и юридических вопросов.",
-								"Email: support@pubg-hack.org",
+								"support@pubghack.org для поддержки и юридических вопросов.",
+								"Email: support@pubghack.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Условия использования | PUBG Hack",
-					description: "Условия использования для PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Условия использования для PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Условия использования",
-					intro: "PUBG Hack объединяет ESP wallhack, radar hack и PUBG Aimbot в пакете для PUBG на Windows PC. Условия использования для pubg-hack.org и лицензий PUBG.",
+					intro: "PUBG Hack объединяет ESP wallhack, radar hack и PUBG Aimbot в пакете для PUBG на Windows PC. Условия использования для pubghack.org и лицензий PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-03.webp",
@@ -10978,8 +10978,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Изменения политики",
 							paragraphs: [
-								"support@pubg-hack.org для поддержки и юридических вопросов.",
-								"Email: support@pubg-hack.org",
+								"support@pubghack.org для поддержки и юридических вопросов.",
+								"Email: support@pubghack.org",
 							],
 						},
 					],
@@ -11061,7 +11061,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "PUBG Hack 2026 | ESP, Wallhack ve Aimbot",
-					description: "PUBG için hileler. ESP wallhack, radar hack ve Aimbot — BattlEye bakımı. Anında dijital teslimat. Compare plans and guides at pubg-hack.org.",
+					description: "PUBG için hileler. ESP wallhack, radar hack ve Aimbot — BattlEye bakımı. Anında dijital teslimat. Compare plans and guides at pubghack.org.",
 					h1: "PUBG için hileler",
 					intro: "PUBG Windows PC Premium-Paketi: ESP wallhack, radar ve Aimbot — BattlEye bakımı dahil.",
 					imageAlt: "PUBG ESP player tags hack",
@@ -11189,7 +11189,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Özellikler 2026 | ESP, Aimbot & Radar | PUBG Hack",
-					description: "Özellikler: ESP, Skillshot assist, radar kontrolleri. anında dijital teslimat. . Compare plans and guides at pubg-hack.org.",
+					description: "Özellikler: ESP, Skillshot assist, radar kontrolleri. anında dijital teslimat. . Compare plans and guides at pubghack.org.",
 					h1: "Özellikler — Full Feature List",
 					intro: "PUBG Hack, PUBG için Windows PC üzerinde ESP wallhack, radar hack ve PUBG Aimbot paket sunar. Özellikler für PUBG auf Windows PC.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -11373,7 +11373,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Bir şey başarısız olursa",
 							paragraphs: [
-								"Yama sonrası Durum kontrol edin. Sipariş ID ile support@pubg-hack.org.",
+								"Yama sonrası Durum kontrol edin. Sipariş ID ile support@pubghack.org.",
 								"secure checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
@@ -11496,7 +11496,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Nasıl iletişime geçilir",
 							paragraphs: [
-								"support@pubg-hack.org adresine email. Sipariş ID ve kısa sorun notu ekleyin.",
+								"support@pubghack.org adresine email. Sipariş ID ve kısa sorun notu ekleyin.",
 								"secure checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları BattlEye bakımı içerir.",
 							],
 							list: [
@@ -12091,9 +12091,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Gizlilik politikası | PUBG Hack",
-					description: "Gizlilik politikası PUBG Hack — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Gizlilik politikası PUBG Hack — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Gizlilik politikası",
-					intro: "PUBG Hack, PUBG için Windows PC üzerinde ESP wallhack, radar hack ve PUBG Aimbot paket sunar. Gizlilik politikası pubg-hack.org ve PUBG lisansları için.",
+					intro: "PUBG Hack, PUBG için Windows PC üzerinde ESP wallhack, radar hack ve PUBG Aimbot paket sunar. Gizlilik politikası pubghack.org ve PUBG lisansları için.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -12105,7 +12105,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Topladığımız bilgiler",
 							paragraphs: [
 								"PUBG Hack, PUBG için Windows PC üzerinde ESP wallhack, radar hack ve PUBG Aimbot paket sunar. İletişim e-postası, checkout sipariş referansları ve temel site güvenlik verileri.",
-								"Ödeme bilgileri secure checkout ile işlenir — pubg-hack.org'da saklanmaz.",
+								"Ödeme bilgileri secure checkout ile işlenir — pubghack.org'da saklanmaz.",
 							],
 						},
 						{
@@ -12118,17 +12118,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Haklarınız",
 							paragraphs: [
-								"Destek ve yasal sorular için support@pubg-hack.org.",
-								"E-posta: support@pubg-hack.org",
+								"Destek ve yasal sorular için support@pubghack.org.",
+								"E-posta: support@pubghack.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "İade politikası | PUBG Hack",
-					description: "İade politikası PUBG Hack — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "İade politikası PUBG Hack — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "İade politikası",
-					intro: "PUBG Hack, PUBG için Windows PC üzerinde ESP wallhack, radar hack ve PUBG Aimbot paket sunar. İade politikası pubg-hack.org ve PUBG lisansları için.",
+					intro: "PUBG Hack, PUBG için Windows PC üzerinde ESP wallhack, radar hack ve PUBG Aimbot paket sunar. İade politikası pubghack.org ve PUBG lisansları için.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -12153,17 +12153,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Nasıl talep edilir",
 							paragraphs: [
-								"Destek ve yasal sorular için support@pubg-hack.org.",
-								"E-posta: support@pubg-hack.org",
+								"Destek ve yasal sorular için support@pubghack.org.",
+								"E-posta: support@pubghack.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Kullanım şartları | PUBG Hack",
-					description: "Kullanım şartları PUBG Hack — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Kullanım şartları PUBG Hack — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Kullanım şartları",
-					intro: "PUBG Hack, PUBG için Windows PC üzerinde ESP wallhack, radar hack ve PUBG Aimbot paket sunar. Kullanım şartları pubg-hack.org ve PUBG lisansları için.",
+					intro: "PUBG Hack, PUBG için Windows PC üzerinde ESP wallhack, radar hack ve PUBG Aimbot paket sunar. Kullanım şartları pubghack.org ve PUBG lisansları için.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-03.webp",
@@ -12188,8 +12188,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Politika değişiklikleri",
 							paragraphs: [
-								"Destek ve yasal sorular için support@pubg-hack.org.",
-								"E-posta: support@pubg-hack.org",
+								"Destek ve yasal sorular için support@pubghack.org.",
+								"E-posta: support@pubghack.org",
 							],
 						},
 					],
@@ -12271,7 +12271,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "PUBG Hack 2026 | ESP وWallhack وAimbot",
-					description: "غش PUBG لـ PUBG على PC. ESP wallhack ورadar hack وAimbot مع صيانة BattlEye. تسليم رقمي فوري. Compare plans and guides at pubg-hack.org.",
+					description: "غش PUBG لـ PUBG على PC. ESP wallhack ورadar hack وAimbot مع صيانة BattlEye. تسليم رقمي فوري. Compare plans and guides at pubghack.org.",
 					h1: "غش احترافي لـ PUBG",
 					intro: "حزمة لـ PUBG على Windows PC: ESP wallhack ورadar وAimbot مع صيانة BattlEye.",
 					imageAlt: "PUBG ESP player tags hack",
@@ -12399,7 +12399,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "الميزات 2026 | ESP, Aimbot & Radar | PUBG Hack",
-					description: "الميزات: ESP وSkillshot assist وضوابط radar. تسليم رقمي فوري. undefined. Compare plans and guides at pubg-hack.org.",
+					description: "الميزات: ESP وSkillshot assist وضوابط radar. تسليم رقمي فوري. undefined. Compare plans and guides at pubghack.org.",
 					h1: "الميزات — Full Feature List",
 					intro: "PUBG Hack يجمع ESP wallhack وradar hack وPUBG Aimbot لـ PUBG على Windows PC. الميزات für PUBG auf Windows PC.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -12583,7 +12583,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "إذا فشل شيء",
 							paragraphs: [
-								"تحقق من الحالة بعد التصحيح. راسل support@pubg-hack.org مع معرف الطلب.",
+								"تحقق من الحالة بعد التصحيح. راسل support@pubghack.org مع معرف الطلب.",
 								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
@@ -12706,7 +12706,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "كيف تتواصل معنا",
 							paragraphs: [
-								"راسل support@pubg-hack.org. أرفق معرف الطلب وملاحظة قصيرة.",
+								"راسل support@pubghack.org. أرفق معرف الطلب وملاحظة قصيرة.",
 								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة BattlEye.",
 							],
 							list: [
@@ -12732,7 +12732,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				reliable: {
 					title: "غش PUBG | BattlEye Safe Status",
-					description: "غش PUBG for PUBG ranked and casual matches on Windows PC — صيانة BattlEye بعد patch BattlEye. تسليم رقمي فوري. غير مكتشف. Official PUBG hacks at pubg-hack.org.",
+					description: "غش PUBG for PUBG ranked and casual matches on Windows PC — صيانة BattlEye بعد patch BattlEye. تسليم رقمي فوري. غير مكتشف. Official PUBG hacks at pubghack.org.",
 					h1: "غش PUBG — BattlEye Safe Status",
 					intro: "PUBG Hack يجمع ESP wallhack وradar hack وPUBG Aimbot لـ PUBG على Windows PC. غش PUBG. صيانة BattlEye بعد patch BattlEye.",
 					imageAlt: "PUBG Hack patch status overview for Windows PC",
@@ -13027,7 +13027,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "تحميل PUBG Hack | Instant Access",
-					description: "تحميل PUBG Hack for PUBG ranked and casual matches on Windows PC — تنزيل ترخيص رقمي بعد الدفع. تسليم رقمي فوري. غير مكتشف. Official PUBG hacks at pubg-hack.org.",
+					description: "تحميل PUBG Hack for PUBG ranked and casual matches on Windows PC — تنزيل ترخيص رقمي بعد الدفع. تسليم رقمي فوري. غير مكتشف. Official PUBG hacks at pubghack.org.",
 					h1: "تحميل PUBG Hack — Instant Access",
 					intro: "PUBG Hack يجمع ESP wallhack وradar hack وPUBG Aimbot لـ PUBG على Windows PC. تحميل PUBG Hack. تنزيل ترخيص رقمي بعد الدفع.",
 					imageAlt: "PUBG Hack download and install delivery flow",
@@ -13301,9 +13301,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "سياسة الخصوصية | PUBG Hack",
-					description: "سياسة الخصوصية لـ PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "سياسة الخصوصية لـ PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "سياسة الخصوصية",
-					intro: "PUBG Hack يجمع ESP wallhack وradar hack وPUBG Aimbot لـ PUBG على Windows PC. سياسة الخصوصية لـ pubg-hack.org وتراخيص PUBG.",
+					intro: "PUBG Hack يجمع ESP wallhack وradar hack وPUBG Aimbot لـ PUBG على Windows PC. سياسة الخصوصية لـ pubghack.org وتراخيص PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -13315,7 +13315,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "المعلومات التي نجمعها",
 							paragraphs: [
 								"PUBG Hack يجمع ESP wallhack وradar hack وPUBG Aimbot لـ PUBG على Windows PC. بريد الاتصال ومراجع طلبات checkout وبيانات أمان الموقع الأساسية.",
-								"تُعالَج تفاصيل الدفع عبر secure checkout — ولا تُخزَّن على pubg-hack.org.",
+								"تُعالَج تفاصيل الدفع عبر secure checkout — ولا تُخزَّن على pubghack.org.",
 							],
 						},
 						{
@@ -13328,17 +13328,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "حقوقك",
 							paragraphs: [
-								"support@pubg-hack.org للدعم والطلبات القانونية.",
-								"البريد: support@pubg-hack.org",
+								"support@pubghack.org للدعم والطلبات القانونية.",
+								"البريد: support@pubghack.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "سياسة الاسترداد | PUBG Hack",
-					description: "سياسة الاسترداد لـ PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "سياسة الاسترداد لـ PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "سياسة الاسترداد",
-					intro: "PUBG Hack يجمع ESP wallhack وradar hack وPUBG Aimbot لـ PUBG على Windows PC. سياسة الاسترداد لـ pubg-hack.org وتراخيص PUBG.",
+					intro: "PUBG Hack يجمع ESP wallhack وradar hack وPUBG Aimbot لـ PUBG على Windows PC. سياسة الاسترداد لـ pubghack.org وتراخيص PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -13363,17 +13363,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "كيفية الطلب",
 							paragraphs: [
-								"support@pubg-hack.org للدعم والطلبات القانونية.",
-								"البريد: support@pubg-hack.org",
+								"support@pubghack.org للدعم والطلبات القانونية.",
+								"البريد: support@pubghack.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "شروط الاستخدام | PUBG Hack",
-					description: "شروط الاستخدام لـ PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "شروط الاستخدام لـ PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "شروط الاستخدام",
-					intro: "PUBG Hack يجمع ESP wallhack وradar hack وPUBG Aimbot لـ PUBG على Windows PC. شروط الاستخدام لـ pubg-hack.org وتراخيص PUBG.",
+					intro: "PUBG Hack يجمع ESP wallhack وradar hack وPUBG Aimbot لـ PUBG على Windows PC. شروط الاستخدام لـ pubghack.org وتراخيص PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-03.webp",
@@ -13398,8 +13398,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "تغييرات السياسة",
 							paragraphs: [
-								"support@pubg-hack.org للدعم والطلبات القانونية.",
-								"البريد: support@pubg-hack.org",
+								"support@pubghack.org للدعم والطلبات القانونية.",
+								"البريد: support@pubghack.org",
 							],
 						},
 					],
@@ -13481,7 +13481,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "PUBG Hack 2026 | ESP・Wallhack・Aimbot",
-					description: "PUBG向けpremiumチート。ESP wallhack、radar hack、Aimbot、BattlEyeメンテナンス。即時デジタル配信。. Compare plans and guides at pubg-hack.org.",
+					description: "PUBG向けpremiumチート。ESP wallhack、radar hack、Aimbot、BattlEyeメンテナンス。即時デジタル配信。. Compare plans and guides at pubghack.org.",
 					h1: "PUBG向けpremiumチート",
 					intro: "PUBG Windows PC向けpremiumパッケージ：ESP wallhack、radar、Aimbot、BattlEyeメンテナンス付き。",
 					imageAlt: "PUBG hacks player ESP aimbot wallhack",
@@ -13609,7 +13609,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "機能 2026 | ESP, Aimbot & Radar | PUBG Hack",
-					description: "機能: ESP、Skillshot assist、radarコントロール. 即時デジタル配信. . Compare plans and guides at pubg-hack.org.",
+					description: "機能: ESP、Skillshot assist、radarコントロール. 即時デジタル配信. . Compare plans and guides at pubghack.org.",
 					h1: "機能 — Full Feature List",
 					intro: "PUBG HackはPUBG向けWindows PC用ESP wallhack、radar hack、PUBG Aimbotのパッケージです。機能 für PUBG auf Windows PC.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -13707,7 +13707,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "料金 — Monthly & Lifetime | $35/mo or $150",
-					description: "料金 — Monthly & Lifetime for PUBG ranked and casual matches on Windows PC — 月額$35またはlifetime $150ライセンス. 即時デジタル配信. Official PUBG hacks at pubg-hack.org.",
+					description: "料金 — Monthly & Lifetime for PUBG ranked and casual matches on Windows PC — 月額$35またはlifetime $150ライセンス. 即時デジタル配信. Official PUBG hacks at pubghack.org.",
 					h1: "料金 — Monthly & Lifetime",
 					intro: "PUBG HackはPUBG向けWindows PC用ESP wallhack、radar hack、PUBG Aimbotのパッケージです。ストア — $35/月 y $150永久.",
 					imageAlt: "PUBG Hack store plans for monthly and lifetime licenses",
@@ -13757,7 +13757,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "セットアップ — PC Setup Guide | Windows PC Install",
-					description: "セットアップ — PC Setup Guide for PUBG ranked and casual matches on Windows PC — Windows PCアクティベーションと初回起動セットアップ. 即時デジタル配信. Official PUBG hacks at pubg-hack.org.",
+					description: "セットアップ — PC Setup Guide for PUBG ranked and casual matches on Windows PC — Windows PCアクティベーションと初回起動セットアップ. 即時デジタル配信. Official PUBG hacks at pubghack.org.",
 					h1: "セットアップ",
 					intro: "初回レイド前にWindows 10または11でライセンスをインストール・有効化。",
 					imageAlt: "PUBG Hack setup guide screenshot for Windows PC",
@@ -13793,7 +13793,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "問題が発生した場合",
 							paragraphs: [
-								"パッチ後はステータス確認。注文IDを添えてsupport@pubg-hack.orgへ。",
+								"パッチ後はステータス確認。注文IDを添えてsupport@pubghack.orgへ。",
 								"secure checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
@@ -13807,7 +13807,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "更新 — Live Status Log | BattlEye Updates | PUBG Hack",
-					description: "更新 — Live Status Log for PUBG ranked and casual matches on Windows PC — BattlEyeパッチ状況とrebuildメモ. 即時デジタル配信. Official PUBG hacks at pubg-hack.org. Windows PC license",
+					description: "更新 — Live Status Log for PUBG ranked and casual matches on Windows PC — BattlEyeパッチ状況とrebuildメモ. 即時デジタル配信. Official PUBG hacks at pubghack.org. Windows PC license",
 					h1: "ステータス",
 					intro: "BattlEyeパッチ後はUpdatesページを確認。永久のpatch statusは保証されません。",
 					imageAlt: "PUBG Hack live status after BattlEye and game patches",
@@ -13856,7 +13856,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "FAQ — Common Answers | ESP, Aimbot & BattlEye",
-					description: "FAQ — Common Answers for PUBG ranked and casual matches on Windows PC — ESP、Skillshot assist、配信、BattlEyeに関する質問. 即時デジタル配信. Official PUBG hacks at pubg-hack.org.",
+					description: "FAQ — Common Answers for PUBG ranked and casual matches on Windows PC — ESP、Skillshot assist、配信、BattlEyeに関する質問. 即時デジタル配信. Official PUBG hacks at pubghack.org.",
 					h1: "FAQ — Common Answers",
 					intro: "PUBG Hack FAQ — 配信、セットアップ、更新、返金。",
 					imageAlt: "PUBG Hack FAQ — delivery, setup, and update answers",
@@ -13904,7 +13904,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "サポート — Help & Contact | License & Setup Help",
-					description: "サポート — Help & Contact for PUBG ranked and casual matches on Windows PC — 注文ヘルプとライセンスサポート連絡先. 即時デジタル配信. Official PUBG hacks at pubg-hack.org.",
+					description: "サポート — Help & Contact for PUBG ranked and casual matches on Windows PC — 注文ヘルプとライセンスサポート連絡先. 即時デジタル配信. Official PUBG hacks at pubghack.org.",
 					h1: "サポート",
 					intro: "Windows PC向けPUBG Hackのライセンス、セットアップ、請求のサポート。",
 					imageAlt: "PUBG Hack support page for license and setup help",
@@ -13916,7 +13916,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "お問い合わせ方法",
 							paragraphs: [
-								"support@pubg-hack.orgへメール。注文IDと問題の概要を記載。",
+								"support@pubghack.orgへメール。注文IDと問題の概要を記載。",
 								"secure checkoutで即時デジタル配信。$35/月と$150永久プランにBattlEyeメンテナンス含む。",
 							],
 							list: [
@@ -13942,7 +13942,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				reliable: {
 					title: "PUBGチート | BattlEye Safe Status",
-					description: "PUBGチート for PUBG ranked and casual matches on Windows PC — BattlEyeパッチ後のBattlEyeメンテナンス. 即時デジタル配信. undefined. Official PUBG hacks at pubg-hack.org. Windows PC license",
+					description: "PUBGチート for PUBG ranked and casual matches on Windows PC — BattlEyeパッチ後のBattlEyeメンテナンス. 即時デジタル配信. undefined. Official PUBG hacks at pubghack.org. Windows PC license",
 					h1: "PUBGチート — BattlEye Safe Status",
 					intro: "PUBG HackはPUBG向けWindows PC用ESP wallhack、radar hack、PUBG Aimbotのパッケージです。PUBGチート. BattlEyeパッチ後のBattlEyeメンテナンス.",
 					imageAlt: "PUBG Hack patch status overview for Windows PC",
@@ -13988,7 +13988,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "PUBG Wallhack | ESP Visibility",
-					description: "PUBG Wallhack for PUBG ranked and casual matches on Windows PC — プレイヤー、敵、距離向けwallhack ESP. 即時デジタル配信. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG Wallhack for PUBG ranked and casual matches on Windows PC — プレイヤー、敵、距離向けwallhack ESP. 即時デジタル配信. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG Wallhack — ESP Visibility",
 					intro: "PUBG HackはPUBG向けWindows PC用ESP wallhack、radar hack、PUBG Aimbotのパッケージです。PUBG Wallhack. プレイヤー、敵、距離向けwallhack ESP.",
 					imageAlt: "PUBG wallhack visibility through walls in a match",
@@ -14026,7 +14026,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar Hack — 2D Threat Overlay | 2D Threat Map",
-					description: "Radar Hack — 2D Threat Overlay for PUBG ranked and casual matches on Windows PC — 側面攻撃とローテーション向け2D radarキュー. 即時デジタル配信. Official PUBG hacks at pubg-hack.org.",
+					description: "Radar Hack — 2D Threat Overlay for PUBG ranked and casual matches on Windows PC — 側面攻撃とローテーション向け2D radarキュー. 即時デジタル配信. Official PUBG hacks at pubghack.org.",
 					h1: "Radar Hack — 2D Threat Overlay",
 					intro: "視界外の脅威向けシンプル2D radar。同じPUBG Hackライセンスに含まれます。",
 					imageAlt: "PUBG 2D radar overlay showing nearby threats",
@@ -14064,7 +14064,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				vac: {
 					title: "BattlEye Maintenance | Patch Maintenance",
-					description: "BattlEye Maintenance for PUBG ranked and casual matches on Windows PC — PUBG hacks向けBattlEye更新の対応方法. 即時デジタル配信. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "BattlEye Maintenance for PUBG ranked and casual matches on Windows PC — PUBG hacks向けBattlEye更新の対応方法. 即時デジタル配信. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "BattlEye Maintenance — Patch Maintenance",
 					intro: "PUBG HackはPUBG向けWindows PC用ESP wallhack、radar hack、PUBG Aimbotのパッケージです。BattlEye Maintenance. PUBG hacks向けBattlEye更新の対応方法.",
 					imageAlt: "PUBG Hack maintenance after a BattlEye patch",
@@ -14118,7 +14118,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "PUBG Hack 2026 | Buyer Guide",
-					description: "PUBG Hack 2026 for PUBG ranked and casual matches on Windows PC — checkout前の2026 PUBG hacksチェックリスト. 即時デジタル配信. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG Hack 2026 for PUBG ranked and casual matches on Windows PC — checkout前の2026 PUBG hacksチェックリスト. 即時デジタル配信. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG Hack 2026 — Buyer Guide",
 					intro: "PUBG HackはPUBG向けWindows PC用ESP wallhack、radar hack、PUBG Aimbotのパッケージです。PUBG Hack 2026. checkout前の2026 PUBG hacksチェックリスト.",
 					imageAlt: "PUBG Hack product overview for PUBG",
@@ -14164,7 +14164,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "PUBG Hack — ESP Aimbot Guide | ESP, Aimbot & Radar",
-					description: "PUBG Hack — ESP Aimbot Guide for PUBG ranked and casual matches on Windows PC — ESPとAimbotのPUBG Hack柱. 即時デジタル配信. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG Hack — ESP Aimbot Guide for PUBG ranked and casual matches on Windows PC — ESPとAimbotのPUBG Hack柱. 即時デジタル配信. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG Hack — 完全ガイド",
 					intro: "PUBGチートはベースゲームにESP、radar、Skillshot assistを追加します。このページではPUBG hacksの概要、PUBG Hackの内容、BattlEyeメンテナンス、購入前の確認先を説明します。",
 					imageAlt: "PUBG Hack overview — ESP, aimbot, and radar for PUBG",
@@ -14237,7 +14237,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "PUBG Cheat Download | Instant Access",
-					description: "PUBG Cheat Download for PUBG ranked and casual matches on Windows PC — 支払い後のデジタルライセンスダウンロード. 即時デジタル配信. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG Cheat Download for PUBG ranked and casual matches on Windows PC — 支払い後のデジタルライセンスダウンロード. 即時デジタル配信. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG Cheat Download — Instant Access",
 					intro: "PUBG HackはPUBG向けWindows PC用ESP wallhack、radar hack、PUBG Aimbotのパッケージです。PUBG Cheat Download. 支払い後のデジタルライセンスダウンロード.",
 					imageAlt: "PUBG Hack download and install delivery flow",
@@ -14275,7 +14275,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "PUBG Mod Menu | In-Game Toggles",
-					description: "PUBG Mod Menu for PUBG ranked and casual matches on Windows PC — クライアント内ESPとSkillshot assistトグル. 即時デジタル配信. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG Mod Menu for PUBG ranked and casual matches on Windows PC — クライアント内ESPとSkillshot assistトグル. 即時デジタル配信. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG Mod Menu — In-Game Toggles",
 					intro: "PUBG HackはPUBG向けWindows PC用ESP wallhack、radar hack、PUBG Aimbotのパッケージです。PUBG Mod Menu. クライアント内ESPとSkillshot assistトグル.",
 					imageAlt: "PUBG Hack in-game menu controls",
@@ -14351,7 +14351,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "最強PUBGチート | Buyer Checklist",
-					description: "最強PUBGチート for PUBG ranked and casual matches on Windows PC — PUBG hacks購入前に比較すべき点. 即時デジタル配信. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "最強PUBGチート for PUBG ranked and casual matches on Windows PC — PUBG hacks購入前に比較すべき点. 即時デジタル配信. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "最強PUBGチート — Buyer Checklist",
 					intro: "PUBG HackはPUBG向けWindows PC用ESP wallhack、radar hack、PUBG Aimbotのパッケージです。最強PUBGチート. PUBG hacks購入前に比較すべき点.",
 					imageAlt: "PUBG Hack overview for PUBG on PC",
@@ -14397,7 +14397,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "PUBG Aimbot Hack | Skillshot assist",
-					description: "PUBG Aimbot Hack for PUBG ranked and casual matches on Windows PC — PUBG向けAimbot hack assist. 即時デジタル配信. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG Aimbot Hack for PUBG ranked and casual matches on Windows PC — PUBG向けAimbot hack assist. 即時デジタル配信. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG Aimbot Hack — Skillshot assist",
 					intro: "PUBG HackはPUBG向けWindows PC用ESP wallhack、radar hack、PUBG Aimbotのパッケージです。PUBG Aimbot Hack. PUBG向けAimbot hack assist.",
 					imageAlt: "PUBG Aimbot hack controls and bone priority",
@@ -14435,7 +14435,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "PUBG ESP Hack | Boxes & wards and runes",
-					description: "PUBG ESP Hack for PUBG ranked and casual matches on Windows PC — ESP hackボックス、敵pin、距離. 即時デジタル配信. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG ESP Hack for PUBG ranked and casual matches on Windows PC — ESP hackボックス、敵pin、距離. 即時デジタル配信. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG ESP Hack — Boxes & wards and runes",
 					intro: "PUBG HackはPUBG向けWindows PC用ESP wallhack、radar hack、PUBG Aimbotのパッケージです。PUBG ESP Hack. ESP hackボックス、敵pin、距離.",
 					imageAlt: "PUBG ESP hack boxes and player markers",
@@ -14473,7 +14473,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "PUBG Unlock All | What It Means",
-					description: "PUBG Unlock All for PUBG ranked and casual matches on Windows PC — unlock-all検索 vs 本物のESPとAimbotツール. 即時デジタル配信. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG Unlock All for PUBG ranked and casual matches on Windows PC — unlock-all検索 vs 本物のESPとAimbotツール. 即時デジタル配信. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG Unlock All — What It Means",
 					intro: "PUBG HackはPUBG向けWindows PC用ESP wallhack、radar hack、PUBG Aimbotのパッケージです。PUBG Unlock All. unlock-all検索 vs 本物のESPとAimbotツール.",
 					imageAlt: "PUBG Hack license features overview",
@@ -14511,9 +14511,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "プライバシーポリシー | PUBG Hack",
-					description: "プライバシーポリシー PUBG Hack — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "プライバシーポリシー PUBG Hack — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "プライバシーポリシー",
-					intro: "PUBG HackはPUBG向けWindows PC用ESP wallhack、radar hack、PUBG Aimbotのパッケージです。プライバシーポリシー pubg-hack.orgおよびPUBGライセンス向け。",
+					intro: "PUBG HackはPUBG向けWindows PC用ESP wallhack、radar hack、PUBG Aimbotのパッケージです。プライバシーポリシー pubghack.orgおよびPUBGライセンス向け。",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -14525,7 +14525,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "収集する情報",
 							paragraphs: [
 								"PUBG HackはPUBG向けWindows PC用ESP wallhack、radar hack、PUBG Aimbotのパッケージです。連絡メール、checkout注文参照、基本的なサイトセキュリティデータ。",
-								"支払い情報はsecure checkoutで処理され、pubg-hack.orgには保存されません。",
+								"支払い情報はsecure checkoutで処理され、pubghack.orgには保存されません。",
 							],
 						},
 						{
@@ -14538,17 +14538,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "あなたの権利",
 							paragraphs: [
-								"サポート・法務: support@pubg-hack.org",
-								"メール: support@pubg-hack.org",
+								"サポート・法務: support@pubghack.org",
+								"メール: support@pubghack.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "返金ポリシー | PUBG Hack",
-					description: "返金ポリシー PUBG Hack — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "返金ポリシー PUBG Hack — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "返金ポリシー",
-					intro: "PUBG HackはPUBG向けWindows PC用ESP wallhack、radar hack、PUBG Aimbotのパッケージです。返金ポリシー pubg-hack.orgおよびPUBGライセンス向け。",
+					intro: "PUBG HackはPUBG向けWindows PC用ESP wallhack、radar hack、PUBG Aimbotのパッケージです。返金ポリシー pubghack.orgおよびPUBGライセンス向け。",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -14573,17 +14573,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "申請方法",
 							paragraphs: [
-								"サポート・法務: support@pubg-hack.org",
-								"メール: support@pubg-hack.org",
+								"サポート・法務: support@pubghack.org",
+								"メール: support@pubghack.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "利用規約 | PUBG Hack",
-					description: "利用規約 PUBG Hack — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "利用規約 PUBG Hack — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "利用規約",
-					intro: "PUBG HackはPUBG向けWindows PC用ESP wallhack、radar hack、PUBG Aimbotのパッケージです。利用規約 pubg-hack.orgおよびPUBGライセンス向け。",
+					intro: "PUBG HackはPUBG向けWindows PC用ESP wallhack、radar hack、PUBG Aimbotのパッケージです。利用規約 pubghack.orgおよびPUBGライセンス向け。",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-03.webp",
@@ -14608,8 +14608,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "ポリシー変更",
 							paragraphs: [
-								"サポート・法務: support@pubg-hack.org",
-								"メール: support@pubg-hack.org",
+								"サポート・法務: support@pubghack.org",
+								"メール: support@pubghack.org",
 							],
 						},
 					],
@@ -14691,7 +14691,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "PUBG Hack 2026 | ESP, Wallhack, Aimbot",
-					description: "PUBG 치트. ESP wallhack, radar hack, Aimbot, BattlEye 유지보수. 즉시 디지털 배송. Compare plans and guides at pubg-hack.org.",
+					description: "PUBG 치트. ESP wallhack, radar hack, Aimbot, BattlEye 유지보수. 즉시 디지털 배송. Compare plans and guides at pubghack.org.",
 					h1: "PUBG용 치트",
 					intro: "PUBG Windows PC 패키지: ESP wallhack, radar, Aimbot, BattlEye 유지보수 포함.",
 					imageAlt: "PUBG hacks player ESP aimbot wallhack",
@@ -14819,7 +14819,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "기능 2026 | ESP, Aimbot & Radar | PUBG Hack",
-					description: "기능: ESP, Skillshot assist, radar 컨트롤. 즉시 디지털 배송. . Compare plans and guides at pubg-hack.org.",
+					description: "기능: ESP, Skillshot assist, radar 컨트롤. 즉시 디지털 배송. . Compare plans and guides at pubghack.org.",
 					h1: "기능 — Full Feature List",
 					intro: "PUBG Hack는 PUBG Windows PC용 ESP wallhack, radar hack, PUBG Aimbot 패키지입니다. 기능 für PUBG auf Windows PC.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -14917,7 +14917,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "가격 — Monthly & Lifetime | $35/mo or $150",
-					description: "가격 — Monthly & Lifetime for PUBG ranked and casual matches on Windows PC — 월 $35 또는 lifetime $150 라이선스. 즉시 디지털 배송. Official PUBG hacks at pubg-hack.org.",
+					description: "가격 — Monthly & Lifetime for PUBG ranked and casual matches on Windows PC — 월 $35 또는 lifetime $150 라이선스. 즉시 디지털 배송. Official PUBG hacks at pubghack.org.",
 					h1: "가격 — Monthly & Lifetime",
 					intro: "PUBG Hack는 PUBG Windows PC용 ESP wallhack, radar hack, PUBG Aimbot 패키지입니다. 스토어 — $35/월 y $150 평생.",
 					imageAlt: "PUBG Hack store plans for monthly and lifetime licenses",
@@ -14967,7 +14967,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "설치 — PC Setup Guide | Windows PC Install",
-					description: "설치 — PC Setup Guide for PUBG ranked and casual matches on Windows PC — Windows PC 활성화 및 첫 실행 설정. 즉시 디지털 배송. Official PUBG hacks at pubg-hack.org.",
+					description: "설치 — PC Setup Guide for PUBG ranked and casual matches on Windows PC — Windows PC 활성화 및 첫 실행 설정. 즉시 디지털 배송. Official PUBG hacks at pubghack.org.",
 					h1: "설치",
 					intro: "첫 레이드 전 Windows 10 또는 11에서 라이선스를 설치하고 활성화하세요.",
 					imageAlt: "PUBG Hack setup guide screenshot for Windows PC",
@@ -15003,7 +15003,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "문제 발생 시",
 							paragraphs: [
-								"패치 후 상태 확인. 주문 ID와 함께 support@pubg-hack.org.",
+								"패치 후 상태 확인. 주문 ID와 함께 support@pubghack.org.",
 								"secure checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
@@ -15017,7 +15017,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "업데이트 — Live Status Log | BattlEye Updates | PUBG Hack",
-					description: "업데이트 — Live Status Log for PUBG ranked and casual matches on Windows PC — BattlEye 패치 상태 및 rebuild 메모. 즉시 디지털 배송. Official PUBG hacks at pubg-hack.org.",
+					description: "업데이트 — Live Status Log for PUBG ranked and casual matches on Windows PC — BattlEye 패치 상태 및 rebuild 메모. 즉시 디지털 배송. Official PUBG hacks at pubghack.org.",
 					h1: "상태",
 					intro: "BattlEye 패치 후 Updates 페이지 확인. 영구 patch status 보장 없음.",
 					imageAlt: "PUBG Hack live status after BattlEye and game patches",
@@ -15066,7 +15066,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "FAQ — Common Answers | ESP, Aimbot & BattlEye",
-					description: "FAQ — Common Answers for PUBG ranked and casual matches on Windows PC — ESP, Skillshot assist, 배송, BattlEye 질문. 즉시 디지털 배송. Official PUBG hacks at pubg-hack.org.",
+					description: "FAQ — Common Answers for PUBG ranked and casual matches on Windows PC — ESP, Skillshot assist, 배송, BattlEye 질문. 즉시 디지털 배송. Official PUBG hacks at pubghack.org.",
 					h1: "FAQ — Common Answers",
 					intro: "PUBG Hack FAQ — 배송, 설치, 업데이트, 환불.",
 					imageAlt: "PUBG Hack FAQ — delivery, setup, and update answers",
@@ -15114,7 +15114,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "지원 — Help & Contact | License & Setup Help",
-					description: "지원 — Help & Contact for PUBG ranked and casual matches on Windows PC — 주문 도움 및 라이선스 지원 연락처. 즉시 디지털 배송. Official PUBG hacks at pubg-hack.org.",
+					description: "지원 — Help & Contact for PUBG ranked and casual matches on Windows PC — 주문 도움 및 라이선스 지원 연락처. 즉시 디지털 배송. Official PUBG hacks at pubghack.org.",
 					h1: "지원",
 					intro: "Windows PC PUBG Hack 라이선스, 설치, 결제 지원.",
 					imageAlt: "PUBG Hack support page for license and setup help",
@@ -15126,7 +15126,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "문의 방법",
 							paragraphs: [
-								"support@pubg-hack.org로 이메일. 주문 ID와 문제 요약 포함.",
+								"support@pubghack.org로 이메일. 주문 ID와 문제 요약 포함.",
 								"secure checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 BattlEye 유지보수 포함.",
 							],
 							list: [
@@ -15152,7 +15152,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				reliable: {
 					title: "PUBG 치트 | BattlEye Safe Status",
-					description: "PUBG 치트 for PUBG ranked and casual matches on Windows PC — BattlEye 패치 후 BattlEye 유지보수. 즉시 디지털 배송. undefined. Official PUBG hacks at pubg-hack.org. Windows PC license",
+					description: "PUBG 치트 for PUBG ranked and casual matches on Windows PC — BattlEye 패치 후 BattlEye 유지보수. 즉시 디지털 배송. undefined. Official PUBG hacks at pubghack.org. Windows PC license",
 					h1: "PUBG 치트 — BattlEye Safe Status",
 					intro: "PUBG Hack는 PUBG Windows PC용 ESP wallhack, radar hack, PUBG Aimbot 패키지입니다. PUBG 치트. BattlEye 패치 후 BattlEye 유지보수.",
 					imageAlt: "PUBG Hack patch status overview for Windows PC",
@@ -15198,7 +15198,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "PUBG Wallhack | ESP Visibility",
-					description: "PUBG Wallhack for PUBG ranked and casual matches on Windows PC — 플레이어, 적, 거리용 wallhack ESP. 즉시 디지털 배송. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG Wallhack for PUBG ranked and casual matches on Windows PC — 플레이어, 적, 거리용 wallhack ESP. 즉시 디지털 배송. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG Wallhack — ESP Visibility",
 					intro: "PUBG Hack는 PUBG Windows PC용 ESP wallhack, radar hack, PUBG Aimbot 패키지입니다. PUBG Wallhack. 플레이어, 적, 거리용 wallhack ESP.",
 					imageAlt: "PUBG wallhack visibility through walls in a match",
@@ -15236,7 +15236,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar Hack — 2D Threat Overlay | 2D Threat Map",
-					description: "Radar Hack — 2D Threat Overlay for PUBG ranked and casual matches on Windows PC — 측면 공격과 로테이션용 2D radar 신호. 즉시 디지털 배송. Official PUBG hacks at pubg-hack.org.",
+					description: "Radar Hack — 2D Threat Overlay for PUBG ranked and casual matches on Windows PC — 측면 공격과 로테이션용 2D radar 신호. 즉시 디지털 배송. Official PUBG hacks at pubghack.org.",
 					h1: "Radar Hack — 2D Threat Overlay",
 					intro: "시야 밖 위협을 위한 간단한 2D radar. 동일 PUBG Hack 라이선스에 포함.",
 					imageAlt: "PUBG 2D radar overlay showing nearby threats",
@@ -15274,7 +15274,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				vac: {
 					title: "BattlEye Maintenance | Patch Maintenance",
-					description: "BattlEye Maintenance for PUBG ranked and casual matches on Windows PC — PUBG hacks용 BattlEye 업데이트 처리 방법. 즉시 디지털 배송. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "BattlEye Maintenance for PUBG ranked and casual matches on Windows PC — PUBG hacks용 BattlEye 업데이트 처리 방법. 즉시 디지털 배송. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "BattlEye Maintenance — Patch Maintenance",
 					intro: "PUBG Hack는 PUBG Windows PC용 ESP wallhack, radar hack, PUBG Aimbot 패키지입니다. BattlEye Maintenance. PUBG hacks용 BattlEye 업데이트 처리 방법.",
 					imageAlt: "PUBG Hack maintenance after a BattlEye patch",
@@ -15328,7 +15328,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "PUBG Hack 2026 | Buyer Guide",
-					description: "PUBG Hack 2026 for PUBG ranked and casual matches on Windows PC — checkout 전 2026 PUBG hacks 체크리스트. 즉시 디지털 배송. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG Hack 2026 for PUBG ranked and casual matches on Windows PC — checkout 전 2026 PUBG hacks 체크리스트. 즉시 디지털 배송. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG Hack 2026 — Buyer Guide",
 					intro: "PUBG Hack는 PUBG Windows PC용 ESP wallhack, radar hack, PUBG Aimbot 패키지입니다. PUBG Hack 2026. checkout 전 2026 PUBG hacks 체크리스트.",
 					imageAlt: "PUBG Hack product overview for PUBG",
@@ -15374,7 +15374,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "PUBG Hack — ESP Aimbot Guide | ESP, Aimbot & Radar",
-					description: "PUBG Hack — ESP Aimbot Guide for PUBG ranked and casual matches on Windows PC — ESP와 Aimbot을 위한 PUBG Hack 기둥. 즉시 디지털 배송. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG Hack — ESP Aimbot Guide for PUBG ranked and casual matches on Windows PC — ESP와 Aimbot을 위한 PUBG Hack 기둥. 즉시 디지털 배송. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG Hack — 전체 가이드",
 					intro: "PUBG 치트는 기본 게임 위에 ESP, radar, Skillshot assist을 추가합니다. 이 페이지는 PUBG hacks란, PUBG Hack 포함 사항, BattlEye 유지보수, 구매 전 확인할 곳을 설명합니다.",
 					imageAlt: "PUBG Hack overview — ESP, aimbot, and radar for PUBG",
@@ -15447,7 +15447,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "PUBG Cheat Download | Instant Access",
-					description: "PUBG Cheat Download for PUBG ranked and casual matches on Windows PC — 결제 후 디지털 라이선스 다운로드. 즉시 디지털 배송. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG Cheat Download for PUBG ranked and casual matches on Windows PC — 결제 후 디지털 라이선스 다운로드. 즉시 디지털 배송. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG Cheat Download — Instant Access",
 					intro: "PUBG Hack는 PUBG Windows PC용 ESP wallhack, radar hack, PUBG Aimbot 패키지입니다. PUBG Cheat Download. 결제 후 디지털 라이선스 다운로드.",
 					imageAlt: "PUBG Hack download and install delivery flow",
@@ -15485,7 +15485,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "PUBG 모드 메뉴 | In-Game Toggles",
-					description: "PUBG 모드 메뉴 for PUBG ranked and casual matches on Windows PC — 클라이언트 내 ESP 및 Skillshot assist 토글. 즉시 디지털 배송. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG 모드 메뉴 for PUBG ranked and casual matches on Windows PC — 클라이언트 내 ESP 및 Skillshot assist 토글. 즉시 디지털 배송. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG 모드 메뉴 — In-Game Toggles",
 					intro: "PUBG Hack는 PUBG Windows PC용 ESP wallhack, radar hack, PUBG Aimbot 패키지입니다. PUBG 모드 메뉴. 클라이언트 내 ESP 및 Skillshot assist 토글.",
 					imageAlt: "PUBG Hack in-game menu controls",
@@ -15561,7 +15561,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "최고의 PUBG 치트 | Buyer Checklist",
-					description: "최고의 PUBG 치트 for PUBG ranked and casual matches on Windows PC — PUBG hacks 구매 전 비교할 항목. 즉시 디지털 배송. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "최고의 PUBG 치트 for PUBG ranked and casual matches on Windows PC — PUBG hacks 구매 전 비교할 항목. 즉시 디지털 배송. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "최고의 PUBG 치트 — Buyer Checklist",
 					intro: "PUBG Hack는 PUBG Windows PC용 ESP wallhack, radar hack, PUBG Aimbot 패키지입니다. 최고의 PUBG 치트. PUBG hacks 구매 전 비교할 항목.",
 					imageAlt: "PUBG Hack overview for PUBG on PC",
@@ -15607,7 +15607,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "PUBG 에임봇 핵 | Skillshot assist",
-					description: "PUBG 에임봇 핵 for PUBG ranked and casual matches on Windows PC — PUBG용 Aimbot hack assist. 즉시 디지털 배송. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG 에임봇 핵 for PUBG ranked and casual matches on Windows PC — PUBG용 Aimbot hack assist. 즉시 디지털 배송. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG 에임봇 핵 — Skillshot assist",
 					intro: "PUBG Hack는 PUBG Windows PC용 ESP wallhack, radar hack, PUBG Aimbot 패키지입니다. PUBG 에임봇 핵. PUBG용 Aimbot hack assist.",
 					imageAlt: "PUBG Aimbot hack controls and bone priority",
@@ -15645,7 +15645,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "PUBG ESP 핵 | Boxes & wards and runes",
-					description: "PUBG ESP 핵 for PUBG ranked and casual matches on Windows PC — ESP hack 박스, 적 pin, 거리. 즉시 디지털 배송. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG ESP 핵 for PUBG ranked and casual matches on Windows PC — ESP hack 박스, 적 pin, 거리. 즉시 디지털 배송. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG ESP 핵 — Boxes & wards and runes",
 					intro: "PUBG Hack는 PUBG Windows PC용 ESP wallhack, radar hack, PUBG Aimbot 패키지입니다. PUBG ESP 핵. ESP hack 박스, 적 pin, 거리.",
 					imageAlt: "PUBG ESP hack boxes and player markers",
@@ -15721,9 +15721,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "개인정보 처리방침 | PUBG Hack",
-					description: "개인정보 처리방침 PUBG Hack — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "개인정보 처리방침 PUBG Hack — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "개인정보 처리방침",
-					intro: "PUBG Hack는 PUBG Windows PC용 ESP wallhack, radar hack, PUBG Aimbot 패키지입니다. 개인정보 처리방침 pubg-hack.org 및 PUBG 라이선스용.",
+					intro: "PUBG Hack는 PUBG Windows PC용 ESP wallhack, radar hack, PUBG Aimbot 패키지입니다. 개인정보 처리방침 pubghack.org 및 PUBG 라이선스용.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -15735,7 +15735,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "수집하는 정보",
 							paragraphs: [
 								"PUBG Hack는 PUBG Windows PC용 ESP wallhack, radar hack, PUBG Aimbot 패키지입니다. 연락 이메일, checkout 주문 참조 및 기본 사이트 보안 데이터.",
-								"결제 정보는 secure checkout에서 처리되며 pubg-hack.org에 저장되지 않습니다.",
+								"결제 정보는 secure checkout에서 처리되며 pubghack.org에 저장되지 않습니다.",
 							],
 						},
 						{
@@ -15748,17 +15748,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "귀하의 권리",
 							paragraphs: [
-								"지원 및 법무: support@pubg-hack.org",
-								"이메일: support@pubg-hack.org",
+								"지원 및 법무: support@pubghack.org",
+								"이메일: support@pubghack.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "환불 정책 | PUBG Hack",
-					description: "환불 정책 PUBG Hack — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "환불 정책 PUBG Hack — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "환불 정책",
-					intro: "PUBG Hack는 PUBG Windows PC용 ESP wallhack, radar hack, PUBG Aimbot 패키지입니다. 환불 정책 pubg-hack.org 및 PUBG 라이선스용.",
+					intro: "PUBG Hack는 PUBG Windows PC용 ESP wallhack, radar hack, PUBG Aimbot 패키지입니다. 환불 정책 pubghack.org 및 PUBG 라이선스용.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -15783,17 +15783,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "신청 방법",
 							paragraphs: [
-								"지원 및 법무: support@pubg-hack.org",
-								"이메일: support@pubg-hack.org",
+								"지원 및 법무: support@pubghack.org",
+								"이메일: support@pubghack.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "이용 약관 | PUBG Hack",
-					description: "이용 약관 PUBG Hack — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "이용 약관 PUBG Hack — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "이용 약관",
-					intro: "PUBG Hack는 PUBG Windows PC용 ESP wallhack, radar hack, PUBG Aimbot 패키지입니다. 이용 약관 pubg-hack.org 및 PUBG 라이선스용.",
+					intro: "PUBG Hack는 PUBG Windows PC용 ESP wallhack, radar hack, PUBG Aimbot 패키지입니다. 이용 약관 pubghack.org 및 PUBG 라이선스용.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-03.webp",
@@ -15818,8 +15818,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "정책 변경",
 							paragraphs: [
-								"지원 및 법무: support@pubg-hack.org",
-								"이메일: support@pubg-hack.org",
+								"지원 및 법무: support@pubghack.org",
+								"이메일: support@pubghack.org",
 							],
 						},
 					],
@@ -15901,7 +15901,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "PUBG Hack 2026 | ESP、Wallhack、Aimbot",
-					description: "PUBG作弊。ESP wallhack、radar hack、Aimbot、BattlEye维护。即时数字交付。. Compare plans and guides at pubg-hack.org.",
+					description: "PUBG作弊。ESP wallhack、radar hack、Aimbot、BattlEye维护。即时数字交付。. Compare plans and guides at pubghack.org.",
 					h1: "PUBG的premium外挂",
 					intro: "PUBG Windows PC套餐：ESP wallhack、radar、Aimbot，含BattlEye维护。",
 					imageAlt: "PUBG hacks player ESP aimbot wallhack",
@@ -15929,7 +15929,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"pubg-esp": {
 					title: "PUBG ESP — Player Boxes & Wallhack | Wallhack & Player Boxes",
-					description: "PUBG ESP — Player Boxes & Wallhack for PUBG ranked and casual matches on Windows PC — 玩家方框、敌人标记和wallhack overlay. 即时数字交付. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG ESP — Player Boxes & Wallhack for PUBG ranked and casual matches on Windows PC — 玩家方框、敌人标记和wallhack overlay. 即时数字交付. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG ESP — Player Boxes & Wallhack",
 					intro: "在 PUBG match 中透视玩家和物资。包含在同一 PUBG Hack 许可证中。",
 					imageAlt: "PUBG ESP player boxes and distance readouts in a match",
@@ -16029,7 +16029,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "功能 2026 | ESP, Aimbot & Radar | PUBG Hack",
-					description: "功能: ESP、Skillshot assist、radar控制. 即时数字交付. . Compare plans and guides at pubg-hack.org.",
+					description: "功能: ESP、Skillshot assist、radar控制. 即时数字交付. . Compare plans and guides at pubghack.org.",
 					h1: "功能 — Full Feature List",
 					intro: "PUBG Hack为PUBGWindows PC提供ESP wallhack、radar hack和PUBG Aimbot套餐。功能 für PUBG auf Windows PC.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -16127,7 +16127,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "价格 — Monthly & Lifetime | $35/mo or $150",
-					description: "价格 — Monthly & Lifetime for PUBG ranked and casual matches on Windows PC — 月付$35或lifetime $150许可证. 即时数字交付. Official PUBG hacks at pubg-hack.org.",
+					description: "价格 — Monthly & Lifetime for PUBG ranked and casual matches on Windows PC — 月付$35或lifetime $150许可证. 即时数字交付. Official PUBG hacks at pubghack.org.",
 					h1: "价格 — Monthly & Lifetime",
 					intro: "PUBG Hack为PUBGWindows PC提供ESP wallhack、radar hack和PUBG Aimbot套餐。商店 — $35/月 y $150终身.",
 					imageAlt: "PUBG Hack store plans for monthly and lifetime licenses",
@@ -16177,7 +16177,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "安装 — PC Setup Guide | Windows PC Install",
-					description: "安装 — PC Setup Guide for PUBG ranked and casual matches on Windows PC — Windows PC激活和首次启动设置. 即时数字交付. Official PUBG hacks at pubg-hack.org. Windows PC license",
+					description: "安装 — PC Setup Guide for PUBG ranked and casual matches on Windows PC — Windows PC激活和首次启动设置. 即时数字交付. Official PUBG hacks at pubghack.org. Windows PC license",
 					h1: "安装",
 					intro: "首次 match 前在 Windows 10 或 11 上安装并激活许可证。",
 					imageAlt: "PUBG Hack setup guide screenshot for Windows PC",
@@ -16213,7 +16213,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "如果出现问题",
 							paragraphs: [
-								"补丁后查看状态。携带订单 ID 邮件 support@pubg-hack.org。",
+								"补丁后查看状态。携带订单 ID 邮件 support@pubghack.org。",
 								"通过secure checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
@@ -16227,7 +16227,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "更新 — Live Status Log | BattlEye Updates | PUBG Hack",
-					description: "更新 — Live Status Log for PUBG ranked and casual matches on Windows PC — BattlEye补丁状态和rebuild说明. 即时数字交付. Official PUBG hacks at pubg-hack.org. Windows PC license",
+					description: "更新 — Live Status Log for PUBG ranked and casual matches on Windows PC — BattlEye补丁状态和rebuild说明. 即时数字交付. Official PUBG hacks at pubghack.org. Windows PC license",
 					h1: "状态",
 					intro: "BattlEye补丁后请查看Updates页面。无任何作弊保证永久patch status。",
 					imageAlt: "PUBG Hack live status after BattlEye and game patches",
@@ -16276,7 +16276,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "常见问题 — Common Answers | ESP, Aimbot & BattlEye",
-					description: "常见问题 — Common Answers for PUBG ranked and casual matches on Windows PC — ESP、Skillshot assist、交付和BattlEye问题. 即时数字交付. Official PUBG hacks at pubg-hack.org.",
+					description: "常见问题 — Common Answers for PUBG ranked and casual matches on Windows PC — ESP、Skillshot assist、交付和BattlEye问题. 即时数字交付. Official PUBG hacks at pubghack.org.",
 					h1: "常见问题 — Common Answers",
 					intro: "PUBG Hack 常见问题 — 交付、安装、更新和退款。",
 					imageAlt: "PUBG Hack FAQ — delivery, setup, and update answers",
@@ -16324,7 +16324,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "支持 — Help & Contact | License & Setup Help",
-					description: "支持 — Help & Contact for PUBG ranked and casual matches on Windows PC — 订单帮助和许可证支持联系方式. 即时数字交付. Official PUBG hacks at pubg-hack.org. Windows PC license with",
+					description: "支持 — Help & Contact for PUBG ranked and casual matches on Windows PC — 订单帮助和许可证支持联系方式. 即时数字交付. Official PUBG hacks at pubghack.org. Windows PC license with",
 					h1: "支持",
 					intro: "获取 Windows PC 上 PUBG Hack 的许可证、安装和账单帮助。",
 					imageAlt: "PUBG Hack support page for license and setup help",
@@ -16336,7 +16336,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "如何联系我们",
 							paragraphs: [
-								"邮件 support@pubg-hack.org，附上订单 ID 和简要问题说明。",
+								"邮件 support@pubghack.org，附上订单 ID 和简要问题说明。",
 								"通过secure checkout即时数字交付。$35/月和$150终身含BattlEye维护。",
 							],
 							list: [
@@ -16362,7 +16362,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				reliable: {
 					title: "PUBG作弊 | BattlEye Safe Status",
-					description: "PUBG作弊 for PUBG ranked and casual matches on Windows PC — BattlEye补丁后的BattlEye维护. 即时数字交付. undefined. Official PUBG hacks at pubg-hack.org. Windows PC license with",
+					description: "PUBG作弊 for PUBG ranked and casual matches on Windows PC — BattlEye补丁后的BattlEye维护. 即时数字交付. undefined. Official PUBG hacks at pubghack.org. Windows PC license with",
 					h1: "PUBG作弊 — BattlEye Safe Status",
 					intro: "PUBG Hack为PUBGWindows PC提供ESP wallhack、radar hack和PUBG Aimbot套餐。PUBG作弊. BattlEye补丁后的BattlEye维护.",
 					imageAlt: "PUBG Hack patch status overview for Windows PC",
@@ -16408,7 +16408,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "PUBG Wallhack | ESP Visibility",
-					description: "PUBG Wallhack for PUBG ranked and casual matches on Windows PC — 玩家、敌人和距离的wallhack ESP. 即时数字交付. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG Wallhack for PUBG ranked and casual matches on Windows PC — 玩家、敌人和距离的wallhack ESP. 即时数字交付. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG Wallhack — ESP Visibility",
 					intro: "PUBG Hack为PUBGWindows PC提供ESP wallhack、radar hack和PUBG Aimbot套餐。PUBG Wallhack. 玩家、敌人和距离的wallhack ESP.",
 					imageAlt: "PUBG wallhack visibility through walls in a match",
@@ -16446,7 +16446,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar Hack — 2D Threat Overlay | 2D Threat Map",
-					description: "Radar Hack — 2D Threat Overlay for PUBG ranked and casual matches on Windows PC — 侧翼和轮换的2D radar提示. 即时数字交付. Official PUBG hacks at pubg-hack.org.",
+					description: "Radar Hack — 2D Threat Overlay for PUBG ranked and casual matches on Windows PC — 侧翼和轮换的2D radar提示. 即时数字交付. Official PUBG hacks at pubghack.org.",
 					h1: "Radar Hack — 2D Threat Overlay",
 					intro: "用于屏幕外威胁的简单 2D radar。包含在同一 PUBG Hack 许可证中。",
 					imageAlt: "PUBG 2D radar overlay showing nearby threats",
@@ -16484,7 +16484,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				vac: {
 					title: "BattlEye Maintenance | Patch Maintenance",
-					description: "BattlEye Maintenance for PUBG ranked and casual matches on Windows PC — PUBG hacks的BattlEye更新处理方式. 即时数字交付. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "BattlEye Maintenance for PUBG ranked and casual matches on Windows PC — PUBG hacks的BattlEye更新处理方式. 即时数字交付. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "BattlEye Maintenance — Patch Maintenance",
 					intro: "PUBG Hack为PUBGWindows PC提供ESP wallhack、radar hack和PUBG Aimbot套餐。BattlEye Maintenance. PUBG hacks的BattlEye更新处理方式.",
 					imageAlt: "PUBG Hack maintenance after a BattlEye patch",
@@ -16538,7 +16538,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "PUBG作弊 2026 | Buyer Guide",
-					description: "PUBG作弊 2026 for PUBG ranked and casual matches on Windows PC — checkout前的2026 PUBG hacks清单. 即时数字交付. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG作弊 2026 for PUBG ranked and casual matches on Windows PC — checkout前的2026 PUBG hacks清单. 即时数字交付. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG作弊 2026 — Buyer Guide",
 					intro: "PUBG Hack为PUBGWindows PC提供ESP wallhack、radar hack和PUBG Aimbot套餐。PUBG作弊 2026. checkout前的2026 PUBG hacks清单.",
 					imageAlt: "PUBG Hack product overview for PUBG",
@@ -16584,7 +16584,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "PUBG作弊 — ESP Aimbot Guide | ESP, Aimbot & Radar",
-					description: "PUBG作弊 — ESP Aimbot Guide for PUBG ranked and casual matches on Windows PC — ESP和Aimbot的PUBG Hack支柱. 即时数字交付. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG作弊 — ESP Aimbot Guide for PUBG ranked and casual matches on Windows PC — ESP和Aimbot的PUBG Hack支柱. 即时数字交付. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG Hack — 完整指南",
 					intro: "PUBG hacks 在基础游戏上添加 ESP、radar 和 Skillshot assist。本页说明什么是 PUBG hacks、PUBG Hack 包含什么、BattlEye 维护以及购买前该看哪里。",
 					imageAlt: "PUBG Hack overview — ESP, aimbot, and radar for PUBG",
@@ -16657,7 +16657,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "PUBG作弊下载 | Instant Access",
-					description: "PUBG作弊下载 for PUBG ranked and casual matches on Windows PC — 付款后的数字许可证下载. 即时数字交付. undefined. Official PUBG hacks at pubg-hack.org. Windows PC license with",
+					description: "PUBG作弊下载 for PUBG ranked and casual matches on Windows PC — 付款后的数字许可证下载. 即时数字交付. undefined. Official PUBG hacks at pubghack.org. Windows PC license with",
 					h1: "PUBG作弊下载 — Instant Access",
 					intro: "PUBG Hack为PUBGWindows PC提供ESP wallhack、radar hack和PUBG Aimbot套餐。PUBG作弊下载. 付款后的数字许可证下载.",
 					imageAlt: "PUBG Hack download and install delivery flow",
@@ -16695,7 +16695,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "PUBG修改菜单 | In-Game Toggles",
-					description: "PUBG修改菜单 for PUBG ranked and casual matches on Windows PC — 客户端内ESP和Skillshot assist开关. 即时数字交付. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG修改菜单 for PUBG ranked and casual matches on Windows PC — 客户端内ESP和Skillshot assist开关. 即时数字交付. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG修改菜单 — In-Game Toggles",
 					intro: "PUBG Hack为PUBGWindows PC提供ESP wallhack、radar hack和PUBG Aimbot套餐。PUBG修改菜单. 客户端内ESP和Skillshot assist开关.",
 					imageAlt: "PUBG Hack in-game menu controls",
@@ -16771,7 +16771,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "最佳PUBG作弊 | Buyer Checklist",
-					description: "最佳PUBG作弊 for PUBG ranked and casual matches on Windows PC — 购买PUBG hacks前应比较的内容. 即时数字交付. undefined. Official PUBG hacks at pubg-hack.org. Windows PC license",
+					description: "最佳PUBG作弊 for PUBG ranked and casual matches on Windows PC — 购买PUBG hacks前应比较的内容. 即时数字交付. undefined. Official PUBG hacks at pubghack.org. Windows PC license",
 					h1: "最佳PUBG作弊 — Buyer Checklist",
 					intro: "PUBG Hack为PUBGWindows PC提供ESP wallhack、radar hack和PUBG Aimbot套餐。最佳PUBG作弊. 购买PUBG hacks前应比较的内容.",
 					imageAlt: "PUBG Hack overview for PUBG on PC",
@@ -16817,7 +16817,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "PUBG自瞄外挂 | Skillshot assist",
-					description: "PUBG自瞄外挂 for PUBG ranked and casual matches on Windows PC — PUBG的Aimbot hack assist. 即时数字交付. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG自瞄外挂 for PUBG ranked and casual matches on Windows PC — PUBG的Aimbot hack assist. 即时数字交付. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG自瞄外挂 — Skillshot assist",
 					intro: "PUBG Hack为PUBGWindows PC提供ESP wallhack、radar hack和PUBG Aimbot套餐。PUBG自瞄外挂. PUBG的Aimbot hack assist.",
 					imageAlt: "PUBG Aimbot hack controls and bone priority",
@@ -16855,7 +16855,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "PUBG ESP外挂 | Boxes & wards and runes",
-					description: "PUBG ESP外挂 for PUBG ranked and casual matches on Windows PC — ESP hack方框、敌人pin和距离. 即时数字交付. undefined. Official PUBG hacks at pubg-hack.org. Windows PC license",
+					description: "PUBG ESP外挂 for PUBG ranked and casual matches on Windows PC — ESP hack方框、敌人pin和距离. 即时数字交付. undefined. Official PUBG hacks at pubghack.org. Windows PC license",
 					h1: "PUBG ESP外挂 — Boxes & wards and runes",
 					intro: "PUBG Hack为PUBGWindows PC提供ESP wallhack、radar hack和PUBG Aimbot套餐。PUBG ESP外挂. ESP hack方框、敌人pin和距离.",
 					imageAlt: "PUBG ESP hack boxes and player markers",
@@ -16893,7 +16893,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "PUBG Unlock All | What It Means",
-					description: "PUBG Unlock All for PUBG ranked and casual matches on Windows PC — unlock-all搜索 vs 真正的ESP和Aimbot工具. 即时数字交付. undefined. Official PUBG hacks at pubg-hack.org.",
+					description: "PUBG Unlock All for PUBG ranked and casual matches on Windows PC — unlock-all搜索 vs 真正的ESP和Aimbot工具. 即时数字交付. undefined. Official PUBG hacks at pubghack.org.",
 					h1: "PUBG Unlock All — What It Means",
 					intro: "PUBG Hack为PUBGWindows PC提供ESP wallhack、radar hack和PUBG Aimbot套餐。PUBG Unlock All. unlock-all搜索 vs 真正的ESP和Aimbot工具.",
 					imageAlt: "PUBG Hack license features overview",
@@ -16931,9 +16931,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "隐私政策 | PUBG Hack",
-					description: "隐私政策 PUBG Hack — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "隐私政策 PUBG Hack — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "隐私政策",
-					intro: "PUBG Hack为PUBGWindows PC提供ESP wallhack、radar hack和PUBG Aimbot套餐。隐私政策 适用于 pubg-hack.org 和 PUBG 许可证。",
+					intro: "PUBG Hack为PUBGWindows PC提供ESP wallhack、radar hack和PUBG Aimbot套餐。隐私政策 适用于 pubghack.org 和 PUBG 许可证。",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -16945,7 +16945,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "我们收集的信息",
 							paragraphs: [
 								"PUBG Hack为PUBGWindows PC提供ESP wallhack、radar hack和PUBG Aimbot套餐。联系邮箱、checkout 订单参考及基本网站安全数据。",
-								"支付详情由 secure checkout 处理 — 不存储在 pubg-hack.org。",
+								"支付详情由 secure checkout 处理 — 不存储在 pubghack.org。",
 							],
 						},
 						{
@@ -16958,17 +16958,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "您的权利",
 							paragraphs: [
-								"支持与法务：support@pubg-hack.org",
-								"邮箱: support@pubg-hack.org",
+								"支持与法务：support@pubghack.org",
+								"邮箱: support@pubghack.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "退款政策 | PUBG Hack",
-					description: "退款政策 PUBG Hack — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "退款政策 PUBG Hack — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "退款政策",
-					intro: "PUBG Hack为PUBGWindows PC提供ESP wallhack、radar hack和PUBG Aimbot套餐。退款政策 适用于 pubg-hack.org 和 PUBG 许可证。",
+					intro: "PUBG Hack为PUBGWindows PC提供ESP wallhack、radar hack和PUBG Aimbot套餐。退款政策 适用于 pubghack.org 和 PUBG 许可证。",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -16993,17 +16993,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "如何申请",
 							paragraphs: [
-								"支持与法务：support@pubg-hack.org",
-								"邮箱: support@pubg-hack.org",
+								"支持与法务：support@pubghack.org",
+								"邮箱: support@pubghack.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "使用条款 | PUBG Hack",
-					description: "使用条款 PUBG Hack — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "使用条款 PUBG Hack — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "使用条款",
-					intro: "PUBG Hack为PUBGWindows PC提供ESP wallhack、radar hack和PUBG Aimbot套餐。使用条款 适用于 pubg-hack.org 和 PUBG 许可证。",
+					intro: "PUBG Hack为PUBGWindows PC提供ESP wallhack、radar hack和PUBG Aimbot套餐。使用条款 适用于 pubghack.org 和 PUBG 许可证。",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-03.webp",
@@ -17028,8 +17028,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "政策变更",
 							paragraphs: [
-								"支持与法务：support@pubg-hack.org",
-								"邮箱: support@pubg-hack.org",
+								"支持与法务：support@pubghack.org",
+								"邮箱: support@pubghack.org",
 							],
 						},
 					],
@@ -17111,7 +17111,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "PUBG Hack 2026 | ESP, Wallhack और Aimbot",
-					description: "PUBG hacks. ESP wallhack, radar hack, Aimbot, BattlEye maintenance. Instant digital delivery. Compare plans and guides at pubg-hack.org.",
+					description: "PUBG hacks. ESP wallhack, radar hack, Aimbot, BattlEye maintenance. Instant digital delivery. Compare plans and guides at pubghack.org.",
 					h1: "PUBG ke liye PUBG hacks",
 					intro: "PUBG Windows PC पैकेज: ESP wallhack, radar, Aimbot, BattlEye maintenance सहित.",
 					imageAlt: "PUBG hacks player ESP aimbot wallhack",
@@ -17239,7 +17239,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "फ़ीचर्स 2026 | ESP, Aimbot & Radar | PUBG Hack",
-					description: "फ़ीचर्स: ESP, Skillshot assist, radar controls. तुरंत डिजिटल डिलीवरी. . Compare plans and guides at pubg-hack.org.",
+					description: "फ़ीचर्स: ESP, Skillshot assist, radar controls. तुरंत डिजिटल डिलीवरी. . Compare plans and guides at pubghack.org.",
 					h1: "फ़ीचर्स — Full Feature List",
 					intro: "PUBG Hack PUBG के लिए Windows PC पर ESP wallhack, radar hack और PUBG Aimbot पैकेज देता है। फ़ीचर्स für PUBG auf Windows PC.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -17423,7 +17423,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "यदि कुछ विफल हो",
 							paragraphs: [
-								"पैच के बाद Status जांचें। ऑर्डर ID के साथ support@pubg-hack.org।",
+								"पैच के बाद Status जांचें। ऑर्डर ID के साथ support@pubghack.org।",
 								"secure checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
@@ -17467,7 +17467,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							list: [
 								"नवीनतम स्टेटस नोट पढ़ें",
 								"समस्या हो तो सेटअप फॉलो करें",
-								"ऑर्डर ID के साथ support@pubg-hack.org",
+								"ऑर्डर ID के साथ support@pubghack.org",
 							],
 						},
 						{
@@ -17546,7 +17546,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "हमसे कैसे संपर्क करें",
 							paragraphs: [
-								"support@pubg-hack.org पर email। ऑर्डर ID और समस्या का संक्षिप्त विवरण दें।",
+								"support@pubghack.org पर email। ऑर्डर ID और समस्या का संक्षिप्त विवरण दें।",
 								"secure checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में BattlEye maintenance शामिल।",
 							],
 							list: [
@@ -18141,9 +18141,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "गोपनीयता नीति | PUBG Hack",
-					description: "गोपनीयता नीति PUBG Hack — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "गोपनीयता नीति PUBG Hack — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "गोपनीयता नीति",
-					intro: "PUBG Hack PUBG के लिए Windows PC पर ESP wallhack, radar hack और PUBG Aimbot पैकेज देता है। गोपनीयता नीति pubg-hack.org और PUBG लाइसेंस के लिए।",
+					intro: "PUBG Hack PUBG के लिए Windows PC पर ESP wallhack, radar hack और PUBG Aimbot पैकेज देता है। गोपनीयता नीति pubghack.org और PUBG लाइसेंस के लिए।",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -18155,7 +18155,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "हम जो जानकारी एकत्र करते हैं",
 							paragraphs: [
 								"PUBG Hack PUBG के लिए Windows PC पर ESP wallhack, radar hack और PUBG Aimbot पैकेज देता है। संपर्क ईमेल, checkout ऑर्डर संदर्भ और बुनियादी साइट सुरक्षा डेटा।",
-								"भुगतान विवरण secure checkout द्वारा संसाधित — pubg-hack.org पर संग्रहीत नहीं।",
+								"भुगतान विवरण secure checkout द्वारा संसाधित — pubghack.org पर संग्रहीत नहीं।",
 							],
 						},
 						{
@@ -18168,17 +18168,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "आपके अधिकार",
 							paragraphs: [
-								"सहायता: support@pubg-hack.org",
-								"ईमेल: support@pubg-hack.org",
+								"सहायता: support@pubghack.org",
+								"ईमेल: support@pubghack.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "रिफंड नीति | PUBG Hack",
-					description: "रिफंड नीति PUBG Hack — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "रिफंड नीति PUBG Hack — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "रिफंड नीति",
-					intro: "PUBG Hack PUBG के लिए Windows PC पर ESP wallhack, radar hack और PUBG Aimbot पैकेज देता है। रिफंड नीति pubg-hack.org और PUBG लाइसेंस के लिए।",
+					intro: "PUBG Hack PUBG के लिए Windows PC पर ESP wallhack, radar hack और PUBG Aimbot पैकेज देता है। रिफंड नीति pubghack.org और PUBG लाइसेंस के लिए।",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -18203,17 +18203,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "कैसे अनुरोध करें",
 							paragraphs: [
-								"सहायता: support@pubg-hack.org",
-								"ईमेल: support@pubg-hack.org",
+								"सहायता: support@pubghack.org",
+								"ईमेल: support@pubghack.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "उपयोग की शर्तें | PUBG Hack",
-					description: "उपयोग की शर्तें PUBG Hack — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "उपयोग की शर्तें PUBG Hack — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "उपयोग की शर्तें",
-					intro: "PUBG Hack PUBG के लिए Windows PC पर ESP wallhack, radar hack और PUBG Aimbot पैकेज देता है। उपयोग की शर्तें pubg-hack.org और PUBG लाइसेंस के लिए।",
+					intro: "PUBG Hack PUBG के लिए Windows PC पर ESP wallhack, radar hack और PUBG Aimbot पैकेज देता है। उपयोग की शर्तें pubghack.org और PUBG लाइसेंस के लिए।",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-03.webp",
@@ -18238,8 +18238,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "नीति परिवर्तन",
 							paragraphs: [
-								"सहायता: support@pubg-hack.org",
-								"ईमेल: support@pubg-hack.org",
+								"सहायता: support@pubghack.org",
+								"ईमेल: support@pubghack.org",
 							],
 						},
 					],
@@ -18321,7 +18321,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "PUBG Hack 2026 | ESP, Wallhack & Aimbot",
-					description: "PUBG Hack untuk PUBG di PC. ESP wallhack, radar hack, Aimbot, pemeliharaan BattlEye. Pengiriman digital instan. Compare plans and guides at pubg-hack.org.",
+					description: "PUBG Hack untuk PUBG di PC. ESP wallhack, radar hack, Aimbot, pemeliharaan BattlEye. Pengiriman digital instan. Compare plans and guides at pubghack.org.",
 					h1: "cheat untuk PUBG",
 					intro: "Premium-Paket PUBG di Windows PC: ESP wallhack, radar, Aimbot dengan pemeliharaan BattlEye.",
 					imageAlt: "PUBG ESP player tags hack",
@@ -18449,7 +18449,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Fitur 2026 | ESP, Aimbot & Radar | PUBG Hack",
-					description: "Fitur: ESP, Skillshot assist, kontrol radar. pengiriman digital instan. . Compare plans and guides at pubg-hack.org.",
+					description: "Fitur: ESP, Skillshot assist, kontrol radar. pengiriman digital instan. . Compare plans and guides at pubghack.org.",
 					h1: "Fitur — Full Feature List",
 					intro: "PUBG Hack menyediakan ESP wallhack, radar hack, dan PUBG Aimbot untuk PUBG di PC Windows. Fitur für PUBG auf PC Windows.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -18633,7 +18633,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Jika ada masalah",
 							paragraphs: [
-								"Cek Status setelah patch. Email support@pubg-hack.org dengan ID pesanan.",
+								"Cek Status setelah patch. Email support@pubghack.org dengan ID pesanan.",
 								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
@@ -18756,7 +18756,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cara menghubungi",
 							paragraphs: [
-								"Email support@pubg-hack.org. Sertakan ID pesanan dan catatan singkat masalah.",
+								"Email support@pubghack.org. Sertakan ID pesanan dan catatan singkat masalah.",
 								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan BattlEye.",
 							],
 							list: [
@@ -19351,9 +19351,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Kebijakan privasi | PUBG Hack",
-					description: "Kebijakan privasi untuk PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubg-hack.org.",
+					description: "Kebijakan privasi untuk PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubghack.org.",
 					h1: "Kebijakan privasi",
-					intro: "PUBG Hack menyediakan ESP wallhack, radar hack, dan PUBG Aimbot untuk PUBG di PC Windows. Kebijakan privasi untuk pubg-hack.org dan lisensi PUBG.",
+					intro: "PUBG Hack menyediakan ESP wallhack, radar hack, dan PUBG Aimbot untuk PUBG di PC Windows. Kebijakan privasi untuk pubghack.org dan lisensi PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -19365,7 +19365,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informasi yang kami kumpulkan",
 							paragraphs: [
 								"PUBG Hack menyediakan ESP wallhack, radar hack, dan PUBG Aimbot untuk PUBG di PC Windows. Email kontak, referensi pesanan checkout, dan data keamanan situs dasar.",
-								"Detail pembayaran diproses oleh secure checkout — tidak disimpan di pubg-hack.org.",
+								"Detail pembayaran diproses oleh secure checkout — tidak disimpan di pubghack.org.",
 							],
 						},
 						{
@@ -19378,17 +19378,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Hak Anda",
 							paragraphs: [
-								"support@pubg-hack.org untuk dukungan dan legal.",
-								"Email: support@pubg-hack.org",
+								"support@pubghack.org untuk dukungan dan legal.",
+								"Email: support@pubghack.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Kebijakan refund | PUBG Hack",
-					description: "Kebijakan refund untuk PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubg-hack.org.",
+					description: "Kebijakan refund untuk PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubghack.org.",
 					h1: "Kebijakan refund",
-					intro: "PUBG Hack menyediakan ESP wallhack, radar hack, dan PUBG Aimbot untuk PUBG di PC Windows. Kebijakan refund untuk pubg-hack.org dan lisensi PUBG.",
+					intro: "PUBG Hack menyediakan ESP wallhack, radar hack, dan PUBG Aimbot untuk PUBG di PC Windows. Kebijakan refund untuk pubghack.org dan lisensi PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -19413,17 +19413,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cara meminta",
 							paragraphs: [
-								"support@pubg-hack.org untuk dukungan dan legal.",
-								"Email: support@pubg-hack.org",
+								"support@pubghack.org untuk dukungan dan legal.",
+								"Email: support@pubghack.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Syarat penggunaan | PUBG Hack",
-					description: "Syarat penggunaan untuk PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubg-hack.org.",
+					description: "Syarat penggunaan untuk PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubghack.org.",
 					h1: "Syarat penggunaan",
-					intro: "PUBG Hack menyediakan ESP wallhack, radar hack, dan PUBG Aimbot untuk PUBG di PC Windows. Syarat penggunaan untuk pubg-hack.org dan lisensi PUBG.",
+					intro: "PUBG Hack menyediakan ESP wallhack, radar hack, dan PUBG Aimbot untuk PUBG di PC Windows. Syarat penggunaan untuk pubghack.org dan lisensi PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-03.webp",
@@ -19448,8 +19448,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Perubahan kebijakan",
 							paragraphs: [
-								"support@pubg-hack.org untuk dukungan dan legal.",
-								"Email: support@pubg-hack.org",
+								"support@pubghack.org untuk dukungan dan legal.",
+								"Email: support@pubghack.org",
 							],
 						},
 					],
@@ -19531,7 +19531,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "PUBG Hack 2026 | ESP, Wallhack และ Aimbot",
-					description: "PUBG Hack สำหรับ PUBG บน PC. ESP wallhack, radar hack, Aimbot, BattlEye maintenance. จัดส่งดิจิทัลทันที. Compare plans and guides at pubg-hack.org.",
+					description: "PUBG Hack สำหรับ PUBG บน PC. ESP wallhack, radar hack, Aimbot, BattlEye maintenance. จัดส่งดิจิทัลทันที. Compare plans and guides at pubghack.org.",
 					h1: "cheat สำหรับ PUBG",
 					intro: "แพ็ก สำหรับ PUBG บน Windows PC: ESP wallhack, radar, Aimbot พร้อม BattlEye maintenance",
 					imageAlt: "PUBG ESP player tags hack",
@@ -19659,7 +19659,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "ฟีเจอร์ 2026 | ESP, Aimbot & Radar | PUBG Hack",
-					description: "ฟีเจอร์: ESP, Skillshot assist, การควบคุม radar. จัดส่งดิจิทัลทันที. . Compare plans and guides at pubg-hack.org.",
+					description: "ฟีเจอร์: ESP, Skillshot assist, การควบคุม radar. จัดส่งดิจิทัลทันที. . Compare plans and guides at pubghack.org.",
 					h1: "ฟีเจอร์ — Full Feature List",
 					intro: "PUBG Hack รวม ESP wallhack, radar hack และ PUBG Aimbot แบบ สำหรับ PUBG บน Windows PC ฟีเจอร์ für PUBG auf Windows PC.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -19843,7 +19843,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "หากมีปัญหา",
 							paragraphs: [
-								"ตรวจสถานะหลังแพตช์ อีเมล support@pubg-hack.org พร้อมรหัสคำสั่งซื้อ",
+								"ตรวจสถานะหลังแพตช์ อีเมล support@pubghack.org พร้อมรหัสคำสั่งซื้อ",
 								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
@@ -19966,7 +19966,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "วิธีติดต่อเรา",
 							paragraphs: [
-								"อีเมล support@pubg-hack.org พร้อมรหัสคำสั่งซื้อและรายละเอียดปัญหา",
+								"อีเมล support@pubghack.org พร้อมรหัสคำสั่งซื้อและรายละเอียดปัญหา",
 								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล BattlEye",
 							],
 							list: [
@@ -20561,9 +20561,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "นโยบายความเป็นส่วนตัว | PUBG Hack",
-					description: "นโยบายความเป็นส่วนตัว สำหรับ PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "นโยบายความเป็นส่วนตัว สำหรับ PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "นโยบายความเป็นส่วนตัว",
-					intro: "PUBG Hack รวม ESP wallhack, radar hack และ PUBG Aimbot แบบ สำหรับ PUBG บน Windows PC นโยบายความเป็นส่วนตัว สำหรับ pubg-hack.org และใบอนุญาต PUBG",
+					intro: "PUBG Hack รวม ESP wallhack, radar hack และ PUBG Aimbot แบบ สำหรับ PUBG บน Windows PC นโยบายความเป็นส่วนตัว สำหรับ pubghack.org และใบอนุญาต PUBG",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -20575,7 +20575,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ข้อมูลที่เราเก็บ",
 							paragraphs: [
 								"PUBG Hack รวม ESP wallhack, radar hack และ PUBG Aimbot แบบ สำหรับ PUBG บน Windows PC อีเมลติดต่อ อ้างอิงคำสั่งซื้อ checkout และข้อมูลความปลอดภัยพื้นฐานของเว็บไซต์",
-								"รายละเอียดการชำระเงินประมวลผลผ่าน secure checkout — ไม่เก็บบน pubg-hack.org",
+								"รายละเอียดการชำระเงินประมวลผลผ่าน secure checkout — ไม่เก็บบน pubghack.org",
 							],
 						},
 						{
@@ -20588,17 +20588,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "สิทธิของคุณ",
 							paragraphs: [
-								"support@pubg-hack.org สำหรับการสนับสนุน",
-								"อีเมล: support@pubg-hack.org",
+								"support@pubghack.org สำหรับการสนับสนุน",
+								"อีเมล: support@pubghack.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "นโยบายการคืนเงิน | PUBG Hack",
-					description: "นโยบายการคืนเงิน สำหรับ PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "นโยบายการคืนเงิน สำหรับ PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "นโยบายการคืนเงิน",
-					intro: "PUBG Hack รวม ESP wallhack, radar hack และ PUBG Aimbot แบบ สำหรับ PUBG บน Windows PC นโยบายการคืนเงิน สำหรับ pubg-hack.org และใบอนุญาต PUBG",
+					intro: "PUBG Hack รวม ESP wallhack, radar hack และ PUBG Aimbot แบบ สำหรับ PUBG บน Windows PC นโยบายการคืนเงิน สำหรับ pubghack.org และใบอนุญาต PUBG",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -20623,17 +20623,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "วิธีขอคืนเงิน",
 							paragraphs: [
-								"support@pubg-hack.org สำหรับการสนับสนุน",
-								"อีเมล: support@pubg-hack.org",
+								"support@pubghack.org สำหรับการสนับสนุน",
+								"อีเมล: support@pubghack.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "ข้อกำหนดการใช้งาน | PUBG Hack",
-					description: "ข้อกำหนดการใช้งาน สำหรับ PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "ข้อกำหนดการใช้งาน สำหรับ PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "ข้อกำหนดการใช้งาน",
-					intro: "PUBG Hack รวม ESP wallhack, radar hack และ PUBG Aimbot แบบ สำหรับ PUBG บน Windows PC ข้อกำหนดการใช้งาน สำหรับ pubg-hack.org และใบอนุญาต PUBG",
+					intro: "PUBG Hack รวม ESP wallhack, radar hack และ PUBG Aimbot แบบ สำหรับ PUBG บน Windows PC ข้อกำหนดการใช้งาน สำหรับ pubghack.org และใบอนุญาต PUBG",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-03.webp",
@@ -20658,8 +20658,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "การเปลี่ยนแปลงนโยบาย",
 							paragraphs: [
-								"support@pubg-hack.org สำหรับการสนับสนุน",
-								"อีเมล: support@pubg-hack.org",
+								"support@pubghack.org สำหรับการสนับสนุน",
+								"อีเมล: support@pubghack.org",
 							],
 						},
 					],
@@ -20741,7 +20741,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "PUBG Hack 2026 | ESP, Wallhack & Aimbot",
-					description: "PUBG Hack cho PUBG trên PC. ESP wallhack, radar hack, Aimbot, bảo trì BattlEye. Giao hàng kỹ thuật số tức thì. Compare plans and guides at pubg-hack.org.",
+					description: "PUBG Hack cho PUBG trên PC. ESP wallhack, radar hack, Aimbot, bảo trì BattlEye. Giao hàng kỹ thuật số tức thì. Compare plans and guides at pubghack.org.",
 					h1: "cheat cho PUBG",
 					intro: "Gói premium PUBG trên Windows PC: ESP wallhack, radar, Aimbot với bảo trì BattlEye.",
 					imageAlt: "PUBG ESP player tags hack",
@@ -20869,7 +20869,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Tính năng 2026 | ESP, Aimbot & Radar | PUBG Hack",
-					description: "Tính năng: ESP, Skillshot assist, điều khiển radar. giao hàng kỹ thuật số tức thì. . Compare plans and guides at pubg-hack.org.",
+					description: "Tính năng: ESP, Skillshot assist, điều khiển radar. giao hàng kỹ thuật số tức thì. . Compare plans and guides at pubghack.org.",
 					h1: "Tính năng — Full Feature List",
 					intro: "PUBG Hack cung cấp ESP wallhack, radar hack và PUBG Aimbot cho PUBG trên PC Windows. Tính năng für PUBG auf PC Windows.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -21053,7 +21053,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Nếu có lỗi",
 							paragraphs: [
-								"Kiểm tra Trạng thái sau bản vá. Email support@pubg-hack.org kèm ID đơn.",
+								"Kiểm tra Trạng thái sau bản vá. Email support@pubghack.org kèm ID đơn.",
 								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
@@ -21176,7 +21176,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cách liên hệ",
 							paragraphs: [
-								"Email support@pubg-hack.org kèm ID đơn và mô tả ngắn.",
+								"Email support@pubghack.org kèm ID đơn và mô tả ngắn.",
 								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì BattlEye.",
 							],
 							list: [
@@ -21771,9 +21771,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Chính sách bảo mật | PUBG Hack",
-					description: "Chính sách bảo mật cho PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubg-hack.org.",
+					description: "Chính sách bảo mật cho PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubghack.org.",
 					h1: "Chính sách bảo mật",
-					intro: "PUBG Hack cung cấp ESP wallhack, radar hack và PUBG Aimbot cho PUBG trên PC Windows. Chính sách bảo mật cho pubg-hack.org và giấy phép PUBG.",
+					intro: "PUBG Hack cung cấp ESP wallhack, radar hack và PUBG Aimbot cho PUBG trên PC Windows. Chính sách bảo mật cho pubghack.org và giấy phép PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -21785,7 +21785,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Thông tin chúng tôi thu thập",
 							paragraphs: [
 								"PUBG Hack cung cấp ESP wallhack, radar hack và PUBG Aimbot cho PUBG trên PC Windows. Email liên hệ, tham chiếu đơn hàng checkout và dữ liệu bảo mật cơ bản của trang.",
-								"Chi tiết thanh toán được xử lý qua secure checkout — không lưu trên pubg-hack.org.",
+								"Chi tiết thanh toán được xử lý qua secure checkout — không lưu trên pubghack.org.",
 							],
 						},
 						{
@@ -21798,17 +21798,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Quyền của bạn",
 							paragraphs: [
-								"support@pubg-hack.org cho hỗ trợ và pháp lý.",
-								"Email: support@pubg-hack.org",
+								"support@pubghack.org cho hỗ trợ và pháp lý.",
+								"Email: support@pubghack.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Chính sách hoàn tiền | PUBG Hack",
-					description: "Chính sách hoàn tiền cho PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubg-hack.org.",
+					description: "Chính sách hoàn tiền cho PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubghack.org.",
 					h1: "Chính sách hoàn tiền",
-					intro: "PUBG Hack cung cấp ESP wallhack, radar hack và PUBG Aimbot cho PUBG trên PC Windows. Chính sách hoàn tiền cho pubg-hack.org và giấy phép PUBG.",
+					intro: "PUBG Hack cung cấp ESP wallhack, radar hack và PUBG Aimbot cho PUBG trên PC Windows. Chính sách hoàn tiền cho pubghack.org và giấy phép PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -21833,17 +21833,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cách yêu cầu",
 							paragraphs: [
-								"support@pubg-hack.org cho hỗ trợ và pháp lý.",
-								"Email: support@pubg-hack.org",
+								"support@pubghack.org cho hỗ trợ và pháp lý.",
+								"Email: support@pubghack.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Điều khoản sử dụng | PUBG Hack",
-					description: "Điều khoản sử dụng cho PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubg-hack.org.",
+					description: "Điều khoản sử dụng cho PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubghack.org.",
 					h1: "Điều khoản sử dụng",
-					intro: "PUBG Hack cung cấp ESP wallhack, radar hack và PUBG Aimbot cho PUBG trên PC Windows. Điều khoản sử dụng cho pubg-hack.org và giấy phép PUBG.",
+					intro: "PUBG Hack cung cấp ESP wallhack, radar hack và PUBG Aimbot cho PUBG trên PC Windows. Điều khoản sử dụng cho pubghack.org và giấy phép PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-03.webp",
@@ -21868,8 +21868,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Thay đổi chính sách",
 							paragraphs: [
-								"support@pubg-hack.org cho hỗ trợ và pháp lý.",
-								"Email: support@pubg-hack.org",
+								"support@pubghack.org cho hỗ trợ và pháp lý.",
+								"Email: support@pubghack.org",
 							],
 						},
 					],
@@ -21951,7 +21951,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "PUBG Hack 2026 | ESP, Wallhack і Aimbot",
-					description: "чіти PUBG для PUBG на PC. ESP wallhack, radar hack, Aimbot, обслуговування BattlEye. Мгновенная цифровая доставка. Compare plans and guides at pubg-hack.org.",
+					description: "чіти PUBG для PUBG на PC. ESP wallhack, radar hack, Aimbot, обслуговування BattlEye. Мгновенная цифровая доставка. Compare plans and guides at pubghack.org.",
 					h1: "чіти для PUBG",
 					intro: "пакет для PUBG на Windows PC: ESP wallhack, radar, Aimbot з обслуговуванням BattlEye.",
 					imageAlt: "PUBG ESP player tags hack",
@@ -22079,7 +22079,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Функції 2026 | ESP, Aimbot & Radar | PUBG Hack",
-					description: "Функції: ESP, Skillshot assist, керування radar. миттєва цифрова доставка. . Compare plans and guides at pubg-hack.org.",
+					description: "Функції: ESP, Skillshot assist, керування radar. миттєва цифрова доставка. . Compare plans and guides at pubghack.org.",
 					h1: "Функції — Full Feature List",
 					intro: "PUBG Hack об'єднує ESP wallhack, radar hack і PUBG Aimbot у пакеті для PUBG на Windows PC. Функції für PUBG auf Windows PC.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -22263,7 +22263,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Якщо щось не працює",
 							paragraphs: [
-								"Перевірте Статус після патчу. Email support@pubg-hack.org з ID замовлення.",
+								"Перевірте Статус після патчу. Email support@pubghack.org з ID замовлення.",
 								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
@@ -22386,7 +22386,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Як зв'язатися",
 							paragraphs: [
-								"Email support@pubg-hack.org. Додайте ID замовлення і короткий опис проблеми.",
+								"Email support@pubghack.org. Додайте ID замовлення і короткий опис проблеми.",
 								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування BattlEye.",
 							],
 							list: [
@@ -22981,9 +22981,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Політика конфіденційності | PUBG Hack",
-					description: "Політика конфіденційності для PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Політика конфіденційності для PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Політика конфіденційності",
-					intro: "PUBG Hack об'єднує ESP wallhack, radar hack і PUBG Aimbot у пакеті для PUBG на Windows PC. Політика конфіденційності для pubg-hack.org та ліцензій PUBG.",
+					intro: "PUBG Hack об'єднує ESP wallhack, radar hack і PUBG Aimbot у пакеті для PUBG на Windows PC. Політика конфіденційності для pubghack.org та ліцензій PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -22995,7 +22995,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Інформація, яку ми збираємо",
 							paragraphs: [
 								"PUBG Hack об'єднує ESP wallhack, radar hack і PUBG Aimbot у пакеті для PUBG на Windows PC. Контактний email, посилання на замовлення checkout та базові дані безпеки сайту.",
-								"Платіжні дані обробляються через secure checkout — не зберігаються на pubg-hack.org.",
+								"Платіжні дані обробляються через secure checkout — не зберігаються на pubghack.org.",
 							],
 						},
 						{
@@ -23008,17 +23008,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Ваші права",
 							paragraphs: [
-								"support@pubg-hack.org для підтримки та правових питань.",
-								"Email: support@pubg-hack.org",
+								"support@pubghack.org для підтримки та правових питань.",
+								"Email: support@pubghack.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Політика повернення | PUBG Hack",
-					description: "Політика повернення для PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Політика повернення для PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Політика повернення",
-					intro: "PUBG Hack об'єднує ESP wallhack, radar hack і PUBG Aimbot у пакеті для PUBG на Windows PC. Політика повернення для pubg-hack.org та ліцензій PUBG.",
+					intro: "PUBG Hack об'єднує ESP wallhack, radar hack і PUBG Aimbot у пакеті для PUBG на Windows PC. Політика повернення для pubghack.org та ліцензій PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -23043,17 +23043,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Як подати запит",
 							paragraphs: [
-								"support@pubg-hack.org для підтримки та правових питань.",
-								"Email: support@pubg-hack.org",
+								"support@pubghack.org для підтримки та правових питань.",
+								"Email: support@pubghack.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Умови використання | PUBG Hack",
-					description: "Умови використання для PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Умови використання для PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Умови використання",
-					intro: "PUBG Hack об'єднує ESP wallhack, radar hack і PUBG Aimbot у пакеті для PUBG на Windows PC. Умови використання для pubg-hack.org та ліцензій PUBG.",
+					intro: "PUBG Hack об'єднує ESP wallhack, radar hack і PUBG Aimbot у пакеті для PUBG на Windows PC. Умови використання для pubghack.org та ліцензій PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-03.webp",
@@ -23078,8 +23078,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Зміни політики",
 							paragraphs: [
-								"support@pubg-hack.org для підтримки та правових питань.",
-								"Email: support@pubg-hack.org",
+								"support@pubghack.org для підтримки та правових питань.",
+								"Email: support@pubghack.org",
 							],
 						},
 					],
@@ -23161,7 +23161,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "PUBG Hack 2026 | ESP, Wallhack a Aimbot",
-					description: "PUBG hacky pro PUBG na PC. ESP wallhack, radar hack, Aimbot, údržba BattlEye. Okamžité digitální doručení. Compare plans and guides at pubg-hack.org.",
+					description: "PUBG hacky pro PUBG na PC. ESP wallhack, radar hack, Aimbot, údržba BattlEye. Okamžité digitální doručení. Compare plans and guides at pubghack.org.",
 					h1: "cheaty pro PUBG",
 					intro: "balíček pro PUBG na Windows PC: ESP wallhack, radar, Aimbot s údržbou BattlEye.",
 					imageAlt: "PUBG ESP player tags hack",
@@ -23289,7 +23289,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funkce 2026 | ESP, Aimbot & Radar | PUBG Hack",
-					description: "Funkce: ESP, Skillshot assist, ovládání radar. okamžité digitální doručení. . Compare plans and guides at pubg-hack.org.",
+					description: "Funkce: ESP, Skillshot assist, ovládání radar. okamžité digitální doručení. . Compare plans and guides at pubghack.org.",
 					h1: "Funkce — Full Feature List",
 					intro: "PUBG Hack spojuje ESP wallhack, radar hack a PUBG Aimbot jako balíček pro PUBG na Windows PC. Funkce für PUBG auf Windows PC.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -23473,7 +23473,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Pokud něco selže",
 							paragraphs: [
-								"Po patchi zkontrolujte Stav. Email support@pubg-hack.org s ID objednávky.",
+								"Po patchi zkontrolujte Stav. Email support@pubghack.org s ID objednávky.",
 								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
@@ -23596,7 +23596,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Jak nás kontaktovat",
 							paragraphs: [
-								"Email support@pubg-hack.org. Uveďte ID objednávky a stručný popis problému.",
+								"Email support@pubghack.org. Uveďte ID objednávky a stručný popis problému.",
 								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby BattlEye.",
 							],
 							list: [
@@ -24191,9 +24191,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Zásady ochrany soukromí | PUBG Hack",
-					description: "Zásady ochrany soukromí pro PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Zásady ochrany soukromí pro PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Zásady ochrany soukromí",
-					intro: "PUBG Hack spojuje ESP wallhack, radar hack a PUBG Aimbot jako balíček pro PUBG na Windows PC. Zásady ochrany soukromí pro pubg-hack.org a licence PUBG.",
+					intro: "PUBG Hack spojuje ESP wallhack, radar hack a PUBG Aimbot jako balíček pro PUBG na Windows PC. Zásady ochrany soukromí pro pubghack.org a licence PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -24205,7 +24205,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informace, které shromažďujeme",
 							paragraphs: [
 								"PUBG Hack spojuje ESP wallhack, radar hack a PUBG Aimbot jako balíček pro PUBG na Windows PC. Kontaktní e-mail, reference objednávek checkout a základní bezpečnostní data webu.",
-								"Platební údaje zpracovává secure checkout — neukládají se na pubg-hack.org.",
+								"Platební údaje zpracovává secure checkout — neukládají se na pubghack.org.",
 							],
 						},
 						{
@@ -24218,17 +24218,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Vaše práva",
 							paragraphs: [
-								"support@pubg-hack.org pro podporu a právní dotazy.",
-								"E-mail: support@pubg-hack.org",
+								"support@pubghack.org pro podporu a právní dotazy.",
+								"E-mail: support@pubghack.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Zásady vrácení peněz | PUBG Hack",
-					description: "Zásady vrácení peněz pro PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Zásady vrácení peněz pro PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Zásady vrácení peněz",
-					intro: "PUBG Hack spojuje ESP wallhack, radar hack a PUBG Aimbot jako balíček pro PUBG na Windows PC. Zásady vrácení peněz pro pubg-hack.org a licence PUBG.",
+					intro: "PUBG Hack spojuje ESP wallhack, radar hack a PUBG Aimbot jako balíček pro PUBG na Windows PC. Zásady vrácení peněz pro pubghack.org a licence PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -24253,17 +24253,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Jak požádat",
 							paragraphs: [
-								"support@pubg-hack.org pro podporu a právní dotazy.",
-								"E-mail: support@pubg-hack.org",
+								"support@pubghack.org pro podporu a právní dotazy.",
+								"E-mail: support@pubghack.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Podmínky použití | PUBG Hack",
-					description: "Podmínky použití pro PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Podmínky použití pro PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Podmínky použití",
-					intro: "PUBG Hack spojuje ESP wallhack, radar hack a PUBG Aimbot jako balíček pro PUBG na Windows PC. Podmínky použití pro pubg-hack.org a licence PUBG.",
+					intro: "PUBG Hack spojuje ESP wallhack, radar hack a PUBG Aimbot jako balíček pro PUBG na Windows PC. Podmínky použití pro pubghack.org a licence PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-03.webp",
@@ -24288,8 +24288,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Změny zásad",
 							paragraphs: [
-								"support@pubg-hack.org pro podporu a právní dotazy.",
-								"E-mail: support@pubg-hack.org",
+								"support@pubghack.org pro podporu a právní dotazy.",
+								"E-mail: support@pubghack.org",
 							],
 						},
 					],
@@ -24371,7 +24371,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "PUBG Hack 2026 | ESP, Wallhack și Aimbot",
-					description: "PUBG Hack pentru PUBG pe PC. ESP wallhack, radar hack, Aimbot, mentenanță BattlEye. Livrare digitală instantă. Compare plans and guides at pubg-hack.org.",
+					description: "PUBG Hack pentru PUBG pe PC. ESP wallhack, radar hack, Aimbot, mentenanță BattlEye. Livrare digitală instantă. Compare plans and guides at pubghack.org.",
 					h1: "cheat-uri pentru PUBG",
 					intro: "pachet premium PUBG pe Windows PC: ESP wallhack, radar, Aimbot cu mentenanță BattlEye.",
 					imageAlt: "PUBG ESP player tags hack",
@@ -24499,7 +24499,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funcții 2026 | ESP, Aimbot & Radar | PUBG Hack",
-					description: "Funcții: ESP, Skillshot assist, controale radar. livrare digitală instantă. . Compare plans and guides at pubg-hack.org.",
+					description: "Funcții: ESP, Skillshot assist, controale radar. livrare digitală instantă. . Compare plans and guides at pubghack.org.",
 					h1: "Funcții — Full Feature List",
 					intro: "PUBG Hack combină ESP wallhack, radar hack și PUBG Aimbot pentru PUBG pe PC Windows. Funcții für PUBG auf PC Windows.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -24683,7 +24683,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Dacă ceva nu funcționează",
 							paragraphs: [
-								"Verifică Status după patch. Email support@pubg-hack.org cu ID comandă.",
+								"Verifică Status după patch. Email support@pubghack.org cu ID comandă.",
 								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
@@ -24806,7 +24806,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cum ne contactezi",
 							paragraphs: [
-								"Email support@pubg-hack.org. Include ID comandă și notă scurtă despre problemă.",
+								"Email support@pubghack.org. Include ID comandă și notă scurtă despre problemă.",
 								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță BattlEye.",
 							],
 							list: [
@@ -25401,9 +25401,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Politica de confidențialitate | PUBG Hack",
-					description: "Politica de confidențialitate pentru PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubg-hack.org.",
+					description: "Politica de confidențialitate pentru PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubghack.org.",
 					h1: "Politica de confidențialitate",
-					intro: "PUBG Hack combină ESP wallhack, radar hack și PUBG Aimbot pentru PUBG pe PC Windows. Politica de confidențialitate pentru pubg-hack.org și licențe PUBG.",
+					intro: "PUBG Hack combină ESP wallhack, radar hack și PUBG Aimbot pentru PUBG pe PC Windows. Politica de confidențialitate pentru pubghack.org și licențe PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -25415,7 +25415,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informații pe care le colectăm",
 							paragraphs: [
 								"PUBG Hack combină ESP wallhack, radar hack și PUBG Aimbot pentru PUBG pe PC Windows. Email de contact, referințe comenzi checkout și date de securitate de bază ale site-ului.",
-								"Detaliile de plată sunt procesate prin secure checkout — nu sunt stocate pe pubg-hack.org.",
+								"Detaliile de plată sunt procesate prin secure checkout — nu sunt stocate pe pubghack.org.",
 							],
 						},
 						{
@@ -25428,17 +25428,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Drepturile tale",
 							paragraphs: [
-								"support@pubg-hack.org pentru suport și legal.",
-								"Email: support@pubg-hack.org",
+								"support@pubghack.org pentru suport și legal.",
+								"Email: support@pubghack.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Politica de rambursare | PUBG Hack",
-					description: "Politica de rambursare pentru PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubg-hack.org.",
+					description: "Politica de rambursare pentru PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubghack.org.",
 					h1: "Politica de rambursare",
-					intro: "PUBG Hack combină ESP wallhack, radar hack și PUBG Aimbot pentru PUBG pe PC Windows. Politica de rambursare pentru pubg-hack.org și licențe PUBG.",
+					intro: "PUBG Hack combină ESP wallhack, radar hack și PUBG Aimbot pentru PUBG pe PC Windows. Politica de rambursare pentru pubghack.org și licențe PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -25463,17 +25463,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cum să soliciți",
 							paragraphs: [
-								"support@pubg-hack.org pentru suport și legal.",
-								"Email: support@pubg-hack.org",
+								"support@pubghack.org pentru suport și legal.",
+								"Email: support@pubghack.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Termeni de utilizare | PUBG Hack",
-					description: "Termeni de utilizare pentru PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubg-hack.org.",
+					description: "Termeni de utilizare pentru PUBG Hack — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at pubghack.org.",
 					h1: "Termeni de utilizare",
-					intro: "PUBG Hack combină ESP wallhack, radar hack și PUBG Aimbot pentru PUBG pe PC Windows. Termeni de utilizare pentru pubg-hack.org și licențe PUBG.",
+					intro: "PUBG Hack combină ESP wallhack, radar hack și PUBG Aimbot pentru PUBG pe PC Windows. Termeni de utilizare pentru pubghack.org și licențe PUBG.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-03.webp",
@@ -25498,8 +25498,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Modificări de politică",
 							paragraphs: [
-								"support@pubg-hack.org pentru suport și legal.",
-								"Email: support@pubg-hack.org",
+								"support@pubghack.org pentru suport și legal.",
+								"Email: support@pubghack.org",
 							],
 						},
 					],
@@ -25581,7 +25581,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "PUBG Hack 2026 | ESP, Wallhack & Aimbot",
-					description: "PUBG hacks för PUBG på PC. ESP wallhack, radar hack, Aimbot, BattlEye-underhåll. Omedelbar digital leverans. Compare plans and guides at pubg-hack.org.",
+					description: "PUBG hacks för PUBG på PC. ESP wallhack, radar hack, Aimbot, BattlEye-underhåll. Omedelbar digital leverans. Compare plans and guides at pubghack.org.",
 					h1: "PUBG hacks för PUBG",
 					intro: "Premium-Paket för PUBG på Windows PC: ESP wallhack, radar, Aimbot med BattlEye-underhåll.",
 					imageAlt: "PUBG ESP player tags hack",
@@ -25709,7 +25709,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funktioner 2026 | ESP, Aimbot & Radar | PUBG Hack",
-					description: "Funktioner: ESP, Skillshot assist, radar-kontroller. omedelbar digital leverans. . Compare plans and guides at pubg-hack.org.",
+					description: "Funktioner: ESP, Skillshot assist, radar-kontroller. omedelbar digital leverans. . Compare plans and guides at pubghack.org.",
 					h1: "Funktioner — Full Feature List",
 					intro: "PUBG Hack kombinerar ESP wallhack, radar hack och PUBG Aimbot som paket för PUBG på Windows PC. Funktioner für PUBG auf Windows PC.",
 					imageAlt: "PUBG hacks features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -25893,7 +25893,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Om något misslyckas",
 							paragraphs: [
-								"Kontrollera Status efter patch. Mejla support@pubg-hack.org med order-ID.",
+								"Kontrollera Status efter patch. Mejla support@pubghack.org med order-ID.",
 								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
@@ -26016,7 +26016,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Hur du kontaktar oss",
 							paragraphs: [
-								"Mejla support@pubg-hack.org. Inkludera order-ID och kort problembeskrivning.",
+								"Mejla support@pubghack.org. Inkludera order-ID och kort problembeskrivning.",
 								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. BattlEye-underhåll.",
 							],
 							list: [
@@ -26611,9 +26611,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Integritetspolicy | PUBG Hack",
-					description: "Integritetspolicy för PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Integritetspolicy för PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Integritetspolicy",
-					intro: "PUBG Hack kombinerar ESP wallhack, radar hack och PUBG Aimbot som paket för PUBG på Windows PC. Integritetspolicy för pubg-hack.org och PUBG-licenser.",
+					intro: "PUBG Hack kombinerar ESP wallhack, radar hack och PUBG Aimbot som paket för PUBG på Windows PC. Integritetspolicy för pubghack.org och PUBG-licenser.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -26625,7 +26625,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Information vi samlar in",
 							paragraphs: [
 								"PUBG Hack kombinerar ESP wallhack, radar hack och PUBG Aimbot som paket för PUBG på Windows PC. Kontakt-e-post, checkout-orderreferenser och grundläggande säkerhetsdata för webbplatsen.",
-								"Betalningsuppgifter behandlas via secure checkout — lagras inte på pubg-hack.org.",
+								"Betalningsuppgifter behandlas via secure checkout — lagras inte på pubghack.org.",
 							],
 						},
 						{
@@ -26638,17 +26638,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Dina rättigheter",
 							paragraphs: [
-								"support@pubg-hack.org för support och juridik.",
-								"E-post: support@pubg-hack.org",
+								"support@pubghack.org för support och juridik.",
+								"E-post: support@pubghack.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Återbetalningspolicy | PUBG Hack",
-					description: "Återbetalningspolicy för PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Återbetalningspolicy för PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Återbetalningspolicy",
-					intro: "PUBG Hack kombinerar ESP wallhack, radar hack och PUBG Aimbot som paket för PUBG på Windows PC. Återbetalningspolicy för pubg-hack.org och PUBG-licenser.",
+					intro: "PUBG Hack kombinerar ESP wallhack, radar hack och PUBG Aimbot som paket för PUBG på Windows PC. Återbetalningspolicy för pubghack.org och PUBG-licenser.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-06.webp",
@@ -26673,17 +26673,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Hur du begär",
 							paragraphs: [
-								"support@pubg-hack.org för support och juridik.",
-								"E-post: support@pubg-hack.org",
+								"support@pubghack.org för support och juridik.",
+								"E-post: support@pubghack.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Användarvillkor | PUBG Hack",
-					description: "Användarvillkor för PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubg-hack.org.",
+					description: "Användarvillkor för PUBG Hack — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at pubghack.org.",
 					h1: "Användarvillkor",
-					intro: "PUBG Hack kombinerar ESP wallhack, radar hack och PUBG Aimbot som paket för PUBG på Windows PC. Användarvillkor för pubg-hack.org och PUBG-licenser.",
+					intro: "PUBG Hack kombinerar ESP wallhack, radar hack och PUBG Aimbot som paket för PUBG på Windows PC. Användarvillkor för pubghack.org och PUBG-licenser.",
 					imageAlt: "PUBG Hack",
 					galleryTitle: "PUBG Hack",
 					heroImage: "/images/pubg-screenshot-03.webp",
@@ -26708,8 +26708,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Policyändringar",
 							paragraphs: [
-								"support@pubg-hack.org för support och juridik.",
-								"E-post: support@pubg-hack.org",
+								"support@pubghack.org för support och juridik.",
+								"E-post: support@pubghack.org",
 							],
 						},
 					],

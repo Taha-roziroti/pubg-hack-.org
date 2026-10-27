@@ -28,7 +28,7 @@ const REPLACEMENTS = [
 	['PUBG's, 'PUBG's],
 	['VAC', 'VAC'],
 	['vac', 'vac'],
-	['pubg-hack.org', 'pubg-hack.org'],
+	['pubghack.org', 'pubghack.org'],
 	['operatorEsp', 'playerEsp'],
 	['extractFight', 'raidFight'],
 	['alMazrah', 'raidMap'],

@@ -39,9 +39,9 @@ function title(input) {
 function desc(input) {
 	let text = fill(input);
 	if (text.length < 140) {
-		const pad = text.toLowerCase().includes('pubg-hack.org')
+		const pad = text.toLowerCase().includes('pubghack.org')
 			? ' Windows PC license with BattlEye maintenance after patches.'
-			: ' Compare plans and guides at pubg-hack.org.';
+			: ' Compare plans and guides at pubghack.org.';
 		text = `${text.replace(/[.…]+$/, '')}.${pad}`;
 	}
 	return text.length <= 160 ? text : `${text.slice(0, 157).trim()}…`;

@@ -86,9 +86,9 @@ export function clampDesc(s) {
 	const MIN = 140;
 	const MAX = 160;
 	if (text.length < MIN) {
-		const pad = text.toLowerCase().includes('pubg-hack.org')
+		const pad = text.toLowerCase().includes('pubghack.org')
 			? ' Windows PC license with BattlEye maintenance after patches.'
-			: ' Compare plans and guides at pubg-hack.org.';
+			: ' Compare plans and guides at pubghack.org.';
 		text = `${text.replace(/[.…]+$/, '')}.${pad}`;
 	}
 	if (text.length <= MAX) return text;
