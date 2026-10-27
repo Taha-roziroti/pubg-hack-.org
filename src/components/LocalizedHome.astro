@@ -56,10 +56,22 @@ const aggregateRating = {
 	worstRating: '1',
 };
 
-/** EN keyword hub: WebSite + Organization only (from Layout). Other locales keep FAQ rich results. */
+const productGraph: Record<string, unknown> = {
+	'@type': 'Product',
+	'@id': `${siteConfig.url}/#product`,
+	name: productInfo.name,
+	description: productInfo.summary,
+	image: heroImage,
+	brand: { '@type': 'Brand', name: productInfo.brand },
+	url: canonicalProductUrl,
+	aggregateRating,
+};
+
+/** EN keyword hub: Product + WebSite + Organization (from Layout). Other locales keep FAQ rich results. */
 const extraGraph: Record<string, unknown>[] = isEnglishHome
-	? []
+	? [productGraph]
 	: [
+			productGraph,
 			{
 				'@type': 'FAQPage',
 				'@id': `${canonicalURL}#faq`,

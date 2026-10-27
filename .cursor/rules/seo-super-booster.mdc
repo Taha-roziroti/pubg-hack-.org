@@ -1,0 +1,41 @@
+---
+description: SEO Super Booster — canonical host, metadata, schema, sitemaps (pubg-hack.org)
+alwaysApply: true
+---
+
+# SEO Super Booster (PUBG Hack)
+
+Playbook: `SEO-SUPER-BOOSTER.md` + `src/data/seo-booster.ts`. CI: `npm run generate:seo-assets`, `npm run build`, `node scripts/verify-seo.mjs`.
+
+## Canonical host
+
+- `brand.url` / `CANONICAL_ORIGIN` → `https://pubg-hack.org` (apex, no `www`).
+- `pubghack.org`, `www.pubghack.org`, and other legacy hosts → **301** apex (`src/lib/canonical-origin.ts`, `functions/_middleware.js`, `src/worker.ts`).
+- Every page: self-referencing `rel=canonical`, `hreflang=en` + `x-default` on apex URLs.
+
+## Metadata
+
+- One `<h1>`; unique `<title>` and meta description sitewide.
+- `og:title` / `og:description` match `<title>` / description.
+- Default social image: `/og/home.jpg` (1200×630) with width/height meta tags.
+- `rel=image_src` on indexable pages.
+- `robots`: `index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1`.
+- No meta keywords, no SearchAction, no keyword-list JSON-LD.
+
+## Structured data
+
+- Shared `@id` `https://pubg-hack.org/#product` on home and reviews.
+- `Organization` + `WebSite` on every page; `SITE_PURPOSE` + six `knowsAbout` terms in `seo-booster.ts`.
+- FAQPage graph on `/faq/` (not duplicated on EN home).
+
+## Intent map
+
+Use `SEO_ROUTE_INTENTS` in `src/data/seo-booster.ts` when writing copy — do not render as keyword blocks.
+
+## Build
+
+```bash
+npm run generate:seo-assets
+npm run build
+node scripts/verify-seo.mjs
+```

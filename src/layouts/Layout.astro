@@ -11,6 +11,7 @@ import type { PageId } from '../data/i18n/content.generated';
 import { buildCanonicalUrl, type HreflangAlternate } from '../data/i18n/routing';
 import { heroHeight, heroWidth } from '../lib/responsive-images';
 import { seoDescription, seoPageTitle } from '../data/site-core';
+import { OG_SOCIAL_HEIGHT, OG_SOCIAL_WIDTH, SITE_ABOUT, SITE_PURPOSE } from '../data/seo-booster';
 
 interface Crumb {
 	label: string;
@@ -69,11 +70,26 @@ const canonicalURL = buildCanonicalUrl(canonicalPath);
 const ogImageURL = new URL(ogImage, siteConfig.url).href;
 const logoURL = new URL(siteConfig.logoRaster, siteConfig.url).href;
 const ogImageIsLogo = ogImage === siteConfig.logo;
-const ogImageType = ogImage.endsWith('.webp') ? 'image/webp' : 'image/png';
-const ogImageWidth = ogImageIsLogo ? '512' : String(heroWidth);
-const ogImageHeight = ogImageIsLogo ? '512' : String(heroHeight);
+const ogImageIsSocial = ogImage.startsWith('/og/');
+const ogImageType = ogImage.endsWith('.webp')
+	? 'image/webp'
+	: ogImage.endsWith('.jpg') || ogImage.endsWith('.jpeg')
+		? 'image/jpeg'
+		: 'image/png';
+const ogImageWidth = ogImageIsLogo
+	? '512'
+	: ogImageIsSocial
+		? String(OG_SOCIAL_WIDTH)
+		: String(heroWidth);
+const ogImageHeight = ogImageIsLogo
+	? '512'
+	: ogImageIsSocial
+		? String(OG_SOCIAL_HEIGHT)
+		: String(heroHeight);
 const twitterCard = ogImageIsLogo ? 'summary' : 'summary_large_image';
-const robots = noindex ? 'noindex, nofollow' : 'index, follow, max-image-preview:large';
+const robots = noindex
+	? 'noindex, nofollow'
+	: 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1';
 const siteDescription = `${productInfo.tagline}. ${productInfo.summary}`;
 const localeMeta = localeMap[locale];
 const ogLocaleAlternateLocales = ogLocaleAlternates ? locales.filter((l) => l.code !== locale) : [];
@@ -119,6 +135,8 @@ const graph: Record<string, unknown>[] = [
 		'@id': `${siteConfig.url}/#organization`,
 		name: siteConfig.name,
 		url: siteConfig.url,
+		description: SITE_PURPOSE,
+		knowsAbout: [...SITE_ABOUT],
 		email: siteConfig.supportEmail,
 		...(siteConfig.socialSameAs.length > 0 ? { sameAs: siteConfig.socialSameAs } : {}),
 		areaServed: worldwidePlace,
@@ -237,6 +255,7 @@ if (aboutNode) {
 		<meta name="description" content={pageDescription} />
 		<meta name="author" content={siteConfig.name} />
 		<link rel="canonical" href={canonicalURL} />
+		<link rel="image_src" href={ogImageURL} />
 		{pageId && <I18nHead pageId={pageId} locale={locale} />}
 		{
 			!pageId &&

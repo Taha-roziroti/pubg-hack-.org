@@ -6,6 +6,8 @@ const WWW_HOST = 'www.pubg-hack.org';
 
 /** Legacy domains → canonical apex (301). Must NOT include CANONICAL_HOST. */
 const LEGACY_HOSTS = new Set([
+	'pubghack.org',
+	'www.pubghack.org',
 	'pubgcheat.com',
 	'www.pubgcheat.com',
 	'pubghacks.org',
@@ -189,6 +191,10 @@ const SITEMAP_PATH = /^\/sitemap(?:-[a-z0-9-]+)?\.xml$/;
 
 /** Legacy origins rewritten in sitemap XML (GSC "URL not allowed" when stale dist uses old apex). */
 const LEGACY_ORIGIN_REPLACEMENTS = [
+	['https://pubghack.org', CANONICAL_ORIGIN],
+	['http://pubghack.org', CANONICAL_ORIGIN],
+	['https://www.pubghack.org', CANONICAL_ORIGIN],
+	['http://www.pubghack.org', CANONICAL_ORIGIN],
 	['https://pubgcheat.com', CANONICAL_ORIGIN],
 	['http://pubgcheat.com', CANONICAL_ORIGIN],
 	['https://www.pubgcheat.com', CANONICAL_ORIGIN],

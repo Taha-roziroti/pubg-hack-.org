@@ -27,7 +27,7 @@ export const brand = {
 	logoRasterWidth: 512,
 	logoRasterHeight: 512,
 	logoAlt: 'PUBG hack site icon — player ESP, loot ESP and world overlays for Windows PC',
-	defaultOgImage: '/images/pubg-screenshot-05.webp',
+	defaultOgImage: '/og/home.jpg',
 	heroImage: '/images/pubg-cheats-hero.webp',
 	/** Looping animated WebP — homepage hero background (replaces legacy MP4/WebM). */
 	heroCinematicWebp: '/videos/PUBG_Cinematic_5s_removed_1080p60.webp',
@@ -83,9 +83,9 @@ export const brand = {
 	},
 
 	seo: {
-		homeTitle: 'PUBG Hack & Cheats – Compare Current Options',
+		homeTitle: 'PUBG Hack & Cheats | Compare PC Plans',
 		homeDescription:
-			'Compare PUBG hack and cheat options, features, pricing, and reviews. Explore available options and choose the right fit.',
+			'Compare PUBG hack and cheat options for Windows PC: ESP, loot filters, pricing, reviews, and BattlEye patch notes at pubg-hack.org.',
 		featuresTitle: 'PUBG Hack Features | Player, Loot & World ESP',
 		featuresDescription:
 			'Full PUBG hack feature list — player ESP with boxes and skeleton, loot ESP with weapon filters, vehicles, airdrops, corpses, and grenade markers on PC.',

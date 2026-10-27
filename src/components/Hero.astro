@@ -5,6 +5,7 @@ import { defaultLocale } from '../data/i18n/locales';
 import { brand, siteConfig } from '../data/site-core';
 import { heroWidth, heroHeight, heroSrcSet, heroSizes, heroSrc } from '../lib/responsive-images';
 import { getT } from '../i18n/server';
+import { pubgKeywordPages } from '../data/pubg-keyword-pages';
 
 interface Props {
 	locale?: LocaleCode;
@@ -13,7 +14,8 @@ interface Props {
 const locale = Astro.props.locale ?? defaultLocale;
 const t = getT(locale);
 
-const title = t('hero.title');
+const title =
+	locale === defaultLocale ? pubgKeywordPages.home.h1 : t('hero.title');
 const subtitle = t('hero.subtitle');
 const imageAlt = t('hero.imageAlt', { brand: siteConfig.name });
 
@@ -44,13 +46,12 @@ const chips = [
 					<img
 						class="hero__video hero__cinematic"
 						src={heroCinematicWebp}
-						alt=""
+						alt={imageAlt}
 						width={1920}
 						height={1080}
 						fetchpriority="high"
 						loading="eager"
 						decoding="async"
-						aria-hidden="true"
 					/>
 				) : hasHeroVideo ? (
 					<video

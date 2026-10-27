@@ -48,9 +48,9 @@ const copyDefaults = {
 } as const;
 
 const seoDefaults = {
-	homeTitle: 'PUBG Esp, Aimbot & Wallhack',
+	homeTitle: 'PUBG Hack & Cheats | Compare PC Plans',
 	homeDescription:
-		'PUBG hacks with ESP, aimbot and wallhack for battle royale matches on PC. Hero vision, maphack, skillshot assist, and BattlEye maintenance after patches.',
+		'Compare PUBG hack and cheat options for Windows PC: ESP, loot filters, pricing, reviews, and BattlEye patch notes at pubg-hack.org.',
 	featuresTitle: 'PUBG Hack Features | ESP, Aimbot & Maphack',
 	featuresDescription:
 		'Full PUBG hacks feature list — player ESP, loot ESP, maphack, skillshot assist, and config profiles on PC. {antiCheat} maintenance at pubg-hack.org.',

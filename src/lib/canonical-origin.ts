@@ -4,6 +4,8 @@ export const CANONICAL_HOST = 'pubg-hack.org';
 
 /** Legacy hosts that 301 to the canonical apex (see worker.ts LEGACY_HOSTS). */
 export const LEGACY_HOSTS = [
+	'pubghack.org',
+	'www.pubghack.org',
 	'pubgcheat.com',
 	'www.pubgcheat.com',
 	'pubghacks.org',

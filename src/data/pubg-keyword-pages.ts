@@ -49,10 +49,10 @@ export const pubgKeywordPages: Record<
 	home: {
 		path: paths.home,
 		primaryKeyword: 'PUBG hack',
-		title: 'PUBG Hack & Cheats – Compare Current Options',
+		title: 'PUBG Hack & Cheats | Compare PC Plans',
 		description:
-			'Compare PUBG hack and cheat options, features, pricing, and reviews. Explore available options and choose the right fit.',
-		h1: 'PUBG Hacks',
+			'Compare PUBG hack and cheat options for Windows PC: ESP, loot filters, pricing, reviews, and BattlEye patch notes at pubg-hack.org.',
+		h1: 'PUBG Hack',
 		intro:
 			'This hub compares current PUBG hack options for PC — including how popular PUBG hacks differ on features, pricing, and support — so you can pick a license that matches how you play.',
 		sections: [
@@ -93,9 +93,11 @@ export const pubgKeywordPages: Record<
 			},
 		],
 		internalLinks: [
-			{ href: paths.pubgCheats, label: 'Buy PUBG cheats' },
+			{ href: paths.pubgCheats, label: 'PUBG hacks guide' },
+			{ href: paths.price, label: 'PUBG hack pricing' },
 			{ href: paths.best, label: 'Best PUBG cheats' },
 			{ href: paths.reviews, label: 'PUBG cheat reviews' },
+			{ href: '/features/', label: 'Features' },
 		],
 		imageAlt: (feature) => `PUBG hack interface showing ${feature}`,
 		schema: 'website-organization',
