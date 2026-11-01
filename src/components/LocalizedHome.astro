@@ -16,6 +16,7 @@ import { pubgKeywordPages } from '../data/pubg-keyword-pages';
 import { seoPageTitle } from '../data/site-core';
 import { seoDescription } from '../data/brand';
 import PubgHomeKeywordProse from './PubgHomeKeywordProse.astro';
+import ProductFeatureCards from './ProductFeatureCards.astro';
 import { brand } from '../data/site-core';
 import { getLocalizedHomeFaqs } from '../data/localized-faq';
 import { heroPreloadSrc, heroSizes, heroSrcSet } from '../lib/responsive-images';
@@ -112,6 +113,7 @@ const extraGraph: Record<string, unknown>[] = [
 	<Navbar locale={locale} pageId="home" />
 	<main id="main-content" class="home">
 		<Agent locale={locale} />
+		{isEnglishHome ? <ProductFeatureCards /> : null}
 		<HomeReviews locale={locale} />
 		<div class="home__seo">
 			{isEnglishHome ? <PubgHomeKeywordProse /> : <HomeAbout locale={locale} />}

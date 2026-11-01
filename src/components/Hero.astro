@@ -288,6 +288,35 @@ const chips = [
 	}
 
 	@media (max-width: 900px) {
+		.hero-stage {
+			display: flex;
+			flex-direction: column;
+		}
+
+		.hero {
+			aspect-ratio: 16 / 10;
+			min-height: 14.5rem;
+		}
+
+		.hero-stage .trust-bar--overlay {
+			position: relative;
+			inset: auto;
+			order: 2;
+			padding-block: 0.65rem;
+			border-bottom: 1px solid var(--line);
+			background: var(--bg-panel);
+			pointer-events: auto;
+		}
+
+		.hero-stage .trust-bar--overlay .trust-bar__text {
+			color: var(--ink-muted);
+			text-shadow: none;
+		}
+
+		.hero-stage .trust-bar--overlay .trust-bar__text strong {
+			color: var(--ok);
+		}
+
 		.hero__media img {
 			object-position: 62% center;
 		}
@@ -310,8 +339,18 @@ const chips = [
 		}
 
 		.hero__content {
-			align-self: end;
-			min-height: 0;
+			align-self: center;
+			padding-bottom: 0.35rem;
+		}
+
+		.hero__features {
+			grid-template-columns: repeat(2, minmax(0, 1fr));
+			max-width: 100%;
+		}
+
+		.hero__brand {
+			font-size: clamp(1.35rem, 6vw, 1.85rem);
+			line-height: 1.15;
 		}
 	}
 </style>

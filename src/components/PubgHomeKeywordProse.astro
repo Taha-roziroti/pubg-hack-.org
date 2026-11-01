@@ -6,8 +6,7 @@ import { siteConfig } from '../data/site';
 const home = pubgKeywordPages.home;
 ---
 
-<section class="home-kw shell" aria-labelledby="home-kw-title">
-	<h2 id="home-kw-title" class="visually-hidden">{home.h1}</h2>
+<section class="home-kw shell" aria-label="Compare PUBG hack guides">
 	<nav class="home-kw__links" aria-label="Primary guides">
 		<ul>
 			{home.internalLinks.map((link) => (
@@ -64,15 +63,5 @@ const home = pubgKeywordPages.home;
 	.home-kw__cta a {
 		color: var(--link);
 		font-weight: 700;
-	}
-	.visually-hidden {
-		position: absolute;
-		width: 1px;
-		height: 1px;
-		padding: 0;
-		margin: -1px;
-		overflow: hidden;
-		clip: rect(0, 0, 0, 0);
-		border: 0;
 	}
 </style>

@@ -1,0 +1,159 @@
+---
+import { siteConfig, productInfo } from '../data/site';
+import { AFFILIATE_REL } from '../data/affiliate';
+
+interface Props {
+	/** Show store CTA as fifth tile */
+	showPricing?: boolean;
+}
+
+const { showPricing = true } = Astro.props;
+
+const cards = [
+	{
+		title: 'Player ESP',
+		body: 'Boxes, skeleton, distance, and enemy-only filters for squad play.',
+		href: '/pubg-esp/',
+		label: 'Explore player ESP',
+	},
+	{
+		title: 'Loot & world ESP',
+		body: 'Weapon filters, vehicles, care packages, corpses, and grenade markers.',
+		href: '/features/',
+		label: 'See loot & world toggles',
+	},
+	{
+		title: 'Skillshot assist',
+		body: 'FOV, smoothing, and hitbox priority bundled with ESP — not sold alone.',
+		href: '/pubg-aimbot/',
+		label: 'View aim settings',
+	},
+	{
+		title: '2D radar',
+		body: 'Off-screen flank cues paired with ESP for rotations and final circles.',
+		href: '/radar/',
+		label: 'Open radar guide',
+	},
+	...(showPricing
+		? [
+				{
+					title: 'Plans',
+					body: `$${productInfo.plans[0].price}/mo or $${productInfo.plans[1].price} lifetime — same stack on both.`,
+					href: '/pubg-cheat-price/',
+					label: 'Compare license pricing',
+				},
+			]
+		: []),
+];
+---
+
+<section class="feature-cards shell" aria-labelledby="feature-cards-title">
+	<h2 id="feature-cards-title" class="feature-cards__title">What&apos;s in the license</h2>
+	<ul class="feature-cards__grid">
+		{
+			cards.map((card) => (
+				<li>
+					<a class="feature-cards__card" href={card.href}>
+						<h3 class="feature-cards__card-title">{card.title}</h3>
+						<p class="feature-cards__card-body">{card.body}</p>
+						<span class="feature-cards__card-link">{card.label}</span>
+					</a>
+				</li>
+			))
+		}
+	</ul>
+	<p class="feature-cards__buy">
+		<a href={siteConfig.checkoutUrl} rel={AFFILIATE_REL} class="feature-cards__buy-btn">
+			Get access
+		</a>
+	</p>
+</section>
+
+<style>
+	.feature-cards {
+		padding-block: 0.5rem 1.5rem;
+	}
+
+	.feature-cards__title {
+		margin: 0 0 1rem;
+		font-family: var(--font-display);
+		font-size: 1.15rem;
+		font-weight: 700;
+		color: var(--ink-heading);
+		letter-spacing: 0.04em;
+	}
+
+	.feature-cards__grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr));
+		gap: 0.85rem;
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+
+	.feature-cards__card {
+		display: flex;
+		flex-direction: column;
+		gap: 0.45rem;
+		height: 100%;
+		padding: 1rem 1.05rem;
+		border-radius: var(--radius-md, 0.75rem);
+		border: 1px solid var(--line);
+		background: linear-gradient(165deg, var(--bg-panel) 0%, var(--bg-elevated) 100%);
+		text-decoration: none;
+		color: inherit;
+		transition:
+			border-color 0.2s ease,
+			transform 0.2s ease,
+			box-shadow 0.2s ease;
+	}
+
+	.feature-cards__card:hover {
+		border-color: color-mix(in srgb, var(--accent) 45%, var(--line));
+		transform: translateY(-2px);
+		box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+	}
+
+	.feature-cards__card-title {
+		margin: 0;
+		font-size: 1rem;
+		font-weight: 700;
+		color: var(--ink-heading);
+	}
+
+	.feature-cards__card-body {
+		margin: 0;
+		flex: 1;
+		font-size: 0.875rem;
+		line-height: 1.55;
+		color: var(--ink-muted);
+	}
+
+	.feature-cards__card-link {
+		font-size: 0.8125rem;
+		font-weight: 600;
+		color: var(--link);
+	}
+
+	.feature-cards__buy {
+		margin: 1.15rem 0 0;
+	}
+
+	.feature-cards__buy-btn {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		padding: 0.65rem 1.25rem;
+		border-radius: 999px;
+		background: var(--accent);
+		color: var(--ink-heading);
+		font-weight: 700;
+		font-size: 0.875rem;
+		text-decoration: none;
+	}
+
+	.feature-cards__buy-btn:hover {
+		background: var(--accent-hover);
+	}
+</style>

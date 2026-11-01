@@ -1,5 +1,6 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
+import ProductFeatureCards from './ProductFeatureCards.astro';
 import { pubgKeywordPages, type KeywordPageConfig } from '../data/pubg-keyword-pages';
 import { siteConfig } from '../data/site';
 import { AFFILIATE_REL } from '../data/affiliate';
@@ -111,6 +112,8 @@ function buildExtraGraph(): Record<string, unknown>[] {
 		</ul>
 	</nav>
 
+	<ProductFeatureCards />
+
 	<div class="kw-sections shell">
 		{
 			config.sections.map((section) => (
@@ -173,6 +176,10 @@ function buildExtraGraph(): Record<string, unknown>[] {
 	}
 	.kw-section {
 		margin-bottom: 2rem;
+		padding: 1.15rem 1.2rem;
+		border-radius: var(--radius-md, 0.75rem);
+		border: 1px solid var(--line-soft);
+		background: var(--bg-panel);
 	}
 	.kw-section h2 {
 		margin: 0 0 0.75rem;
